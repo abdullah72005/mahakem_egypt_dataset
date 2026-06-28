@@ -1,0 +1,4842 @@
+[
+  {
+    "uuid": "320cbb42-1f23-48f8-9015-8d802cc08abe",
+    "name_english": "Court of Cassation",
+    "court_type": "cassation",
+    "jurisdiction_level": "national_apex",
+    "governorate": "Cairo",
+    "district": "Downtown Cairo (Wust al-Balad)",
+    "address_english": "26 July Street, Al-Is'af Square, Dar Al-Qada Al-Ali (Palace of Justice), Downtown Cairo",
+    "coordinates": {
+      "lat": 30.0598,
+      "lng": 31.2401
+    },
+    "phone": null,
+    "website": "https://www.cc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Apex of Egypt's common court hierarchy, established 2 May 1931. Located in Dar Al-Qada Al-Ali building. The court president also chairs the Supreme Judicial Council. Has 33 specialized divisions (16 criminal, rest civil/commercial). Cases reviewed by 5-judge panels. Only one nationwide.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "0d5969c4-9afa-4e5c-a9e5-0748e3b1431d",
+    "name_english": "Supreme Constitutional Court",
+    "court_type": "constitutional",
+    "jurisdiction_level": "national_apex",
+    "governorate": "Cairo",
+    "district": "Maadi (Greater Cairo)",
+    "address_english": "Nile Corniche, Maadi, Cairo",
+    "coordinates": {
+      "lat": 29.9602,
+      "lng": 31.2569
+    },
+    "phone": null,
+    "website": "https://www.sccourt.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Highest judicial authority in Egypt. Independent body established 1970 under Law No. 48 of 1979. Located in Maadi on the Nile Corniche; building designed by architect Ahmed Mito, inspired by Luxor Temple. Rulings by panels of 7 counselors; final and unappealable. Only one nationwide.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "b4e83f4f-9353-4a62-a7e7-976fdd2a89dd",
+    "name_english": "Cairo Court of Appeal",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Cairo",
+    "district": "Downtown Cairo (Wust al-Balad)",
+    "address_english": "26 July Street, Dar Al-Qada Al-Ali, Downtown Cairo (main seat); additional circuits at Abbasiya, New Cairo, and Zeinham",
+    "coordinates": {
+      "lat": 30.0598,
+      "lng": 31.2401
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/AppellateCourts/Cairo/Pages/Home.aspx",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Courts of Appeal in Egypt. Main seat at Dar Al-Qada Al-Ali. Jurisdiction covers Cairo and Giza governorates. Has 104 civil circuits and 123 criminal circuits for 2025–2026. Includes terrorism/national security specialized circuits.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "ce22efdf-8347-41df-a8cf-6a0e0fae0ea4",
+    "name_english": "Cairo Court of Appeal — North Cairo Branch (Abbasiya)",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Cairo",
+    "district": "Abbasiya",
+    "address_english": "Abbasiya Square, Abbasiya, Cairo (within North Cairo Court of First Instance building)",
+    "coordinates": {
+      "lat": 30.0748,
+      "lng": 31.2867
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Branch (maamooriyya) of Cairo Court of Appeal. For judicial year 2025–2026: 46 circuits including 23 civil (north), 8 labour (north), 5 commercial (north), 10 rental (north).",
+    "confidence": "high"
+  },
+  {
+    "uuid": "f2d9d9f4-21ee-415e-ba65-16b7ff9dda94",
+    "name_english": "Cairo Court of Appeal — Zeinham Branch",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Cairo",
+    "district": "Zeinham / South Cairo",
+    "address_english": "Zeinham area, Cairo",
+    "coordinates": {
+      "lat": 30.0286,
+      "lng": 31.2394
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Branch of Cairo Court of Appeal with 3 circuits for 2025–2026 (2 rental, 1 family).",
+    "confidence": "high",
+    "audit_notes": "Confidence upgraded from medium to high: location within Zeinham judicial complex is structurally confirmed by MOJ circuit assignment records."
+  },
+  {
+    "uuid": "5823aa0b-deda-4048-83b5-361eb3c84bf1",
+    "name_english": "Council of State — Administrative Judiciary Court",
+    "court_type": "administrative",
+    "jurisdiction_level": "first_instance_administrative",
+    "governorate": "Cairo",
+    "district": "New Cairo (Fifth Settlement / Al-Qarnafoul)",
+    "address_english": "Plot 3/1, South Al-Qarnafoul Services District, New Cairo (relocated March 2024)",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.4677
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Part of the Egyptian Council of State (est. 1946, Law No. 47/1972). Relocated main seat to New Cairo in March 2024. Handles administrative disputes between individuals and government entities. Three-judge panels.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "d61e45b6-1deb-48f8-8b12-b5203cf73214",
+    "name_english": "Council of State — Higher Administrative Court & Administrative Courts (Dokki)",
+    "court_type": "administrative",
+    "jurisdiction_level": "supreme_administrative",
+    "governorate": "Giza",
+    "district": "Dokki, Giza",
+    "address_english": "2 Issam El-Dali Street, Dokki, Giza",
+    "coordinates": {
+      "lat": 30.0456,
+      "lng": 31.2089
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Higher Administrative Court (apex of Council of State judicial track) remains here alongside lower Administrative Courts and Disciplinary Courts. The Administrative Judiciary Court relocated to New Cairo in 2024.",
+    "confidence": "high",
+    "audit_notes": "Address corrected from official Council of State website (esc.gov.eg): 2 Issam El-Dali St, Dokki."
+  },
+  {
+    "uuid": "3248cf5d-7fd2-47e6-aa9b-4f056e0570c7",
+    "name_english": "Disciplinary Courts (Council of State — Dokki)",
+    "court_type": "disciplinary_administrative",
+    "jurisdiction_level": "specialized",
+    "governorate": "Giza",
+    "district": "Dokki, Giza",
+    "address_english": "2 Issam El-Dali Street, Dokki, Giza",
+    "coordinates": {
+      "lat": 30.0456,
+      "lng": 31.2089
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Handle disciplinary proceedings against civil servants and public officials. Appeals go to the Higher Administrative Court.",
+    "confidence": "high",
+    "audit_notes": "Address corrected from official Council of State website (esc.gov.eg): 2 Issam El-Dali St, Dokki."
+  },
+  {
+    "uuid": "e2a6cb9d-d96b-46d9-9c39-90a83cab3119",
+    "name_english": "North Cairo Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "Abbasiya",
+    "address_english": "Abbasiya Square, opposite Police Academy, Ramsis Street, Abbasiya, Cairo",
+    "coordinates": {
+      "lat": 30.0748,
+      "lng": 31.2867
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/NorthCairo/Pages/Home.aspx",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Covers northern districts of Cairo governorate. Adjacent to the Judicial Studies Center which hosts Cairo Economic Court circuits on floors 2 and 5.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "7c789b22-87f2-4ba9-ab66-10375bf0d8a1",
+    "name_english": "South Cairo Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "Bab al-Khalq / Darb al-Ahmar",
+    "address_english": "Ahmed Maher Square, Darb al-Ahmar District, Bab al-Khalq, Cairo",
+    "coordinates": {
+      "lat": 30.0446,
+      "lng": 31.2568
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/SouthCairo/Pages/Home.aspx",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Covers southern and central Cairo districts including Abdin, Sayyida Zeinab, Gamaleya, Bab al-Sha'riya, Mouski, Old Cairo, al-Khalifa, Darb al-Ahmar, Maadi, and Helwan.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "3fae995f-d168-4d84-a367-937cc55f6b3d",
+    "name_english": "New Cairo Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "New Cairo (Fifth Settlement)",
+    "address_english": "Fifth Settlement, opposite New Cairo Projects Authority, New Cairo",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.4677
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/NewCairo/Pages/Home.aspx",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Covers New Cairo administrative districts. Hosts 27 criminal circuits of Cairo Court of Appeal. Mechanized (e-filing) court.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "fc3de459-992b-42e2-a8d0-2198575d9ed3",
+    "name_english": "Helwan Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "Helwan",
+    "address_english": "Bayram al-Tunsi Street, Sayyida Zeinab, Cairo",
+    "coordinates": {
+      "lat": 29.8489,
+      "lng": 31.3342
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/Helwan/Pages/Home.aspx",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Covers the Helwan district, part of Cairo Governorate. Hosts 16 criminal circuits of the Cairo Court of Appeal.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "5c93a749-38f5-46c2-a67f-f29690295645",
+    "name_english": "Cairo Economic Court",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Cairo",
+    "district": "Maadi (Zahraa al-Maadi)",
+    "address_english": "Ring Road, Al-Mi'raj City, Zahraa al-Maadi, Maadi, Cairo",
+    "coordinates": {
+      "lat": 29.9567,
+      "lng": 31.3024
+    },
+    "phone": "+20229177459",
+    "fax": "+20229177460",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Economic Courts in Egypt. Established under Justice Minister Decree No. 8603/2008. Handles stock market, Central Bank, monopolies, intellectual property, and commercial crime disputes. Has both first-instance and appellate circuits.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "7349cf01-972e-4df9-8abf-d209ddd79e3e",
+    "name_english": "Family Court — Zananeery Complex (North/South Cairo)",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "Shubra / Rod al-Farag",
+    "address_english": "Shubra Courts Complex, Zananeery Street, Rod al-Farag District, Cairo",
+    "coordinates": {
+      "lat": 30.0967,
+      "lng": 31.2481
+    },
+    "phone": "+20225760796",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Established under Law No. 10 of 2004. Central family courts complex for Cairo, hosting personal status circuits (north and south). Handles divorce, custody, alimony, guardianship, inheritance.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "0144e588-777a-47ab-8386-9a12964c52e8",
+    "name_english": "Family Courts — Multiple Cairo Districts",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "Multiple districts",
+    "address_english": "Standalone annex buildings attached to district courts across Cairo governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Each district court area in Cairo has a Family Court annex per Law No. 10/2004. Mandatory family dispute settlement office (مكتب تسوية المنازعات الأسرية) attached to each.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "e4caca36-f4d4-4706-9ebf-c221e2011d21",
+    "name_english": "Heliopolis (Misr al-Gadida) District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Cairo",
+    "district": "Heliopolis (Misr al-Gadida)",
+    "address_english": "Court Square, Al-Hegaz Street, Heliopolis (Misr al-Gadida), Cairo",
+    "coordinates": {
+      "lat": 30.0913,
+      "lng": 31.3219
+    },
+    "phone": "+20226336413",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Heliopolis district. Family court annex on Al-Hegaz Street attached.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "d5c7df00-f4d3-420f-a5e9-70b0db2a075b",
+    "name_english": "Abdin District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Cairo",
+    "district": "Abdin",
+    "address_english": "Rushdi Street, Abdin, Cairo",
+    "coordinates": {
+      "lat": 30.0441,
+      "lng": 31.2395
+    },
+    "phone": "+20223910349",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abdin district. Family court annex attached.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "27611757-7a54-4844-a609-a8387728551e",
+    "name_english": "Al-Gala'a District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Cairo",
+    "district": "Bulaq / Downtown",
+    "address_english": "Al-Gala'a Street, adjacent to Al-Ahram newspaper building, Cairo",
+    "coordinates": {
+      "lat": 30.0582,
+      "lng": 31.2296
+    },
+    "phone": "+20225777552",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Also hosts criminal misdemeanor appeal circuits of both North and South Cairo Courts of First Instance.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "212cd8cd-bfd5-4203-914b-e3e1b29af8c0",
+    "name_english": "Zananeery District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Cairo",
+    "district": "Shubra / Rod al-Farag",
+    "address_english": "Zananeery Street, Rod al-Farag District, Shubra, Cairo",
+    "coordinates": {
+      "lat": 30.0967,
+      "lng": 31.2481
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Part of Shubra courts complex which also hosts the central Cairo Family Court.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "b12abcfe-64d1-49a3-850f-ab643548b8ca",
+    "name_english": "Nasr City District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Cairo",
+    "district": "Nasr City",
+    "address_english": "District 7, Al-Tayaran Street, Nasr City, Cairo",
+    "coordinates": {
+      "lat": 30.0626,
+      "lng": 31.3295
+    },
+    "phone": "+20222728033",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Nasr City. Family court annex attached on Al-Tayaran Street.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "517d3d8a-5f59-4ae7-8d0c-948175e63730",
+    "name_english": "Maadi District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Cairo",
+    "district": "Maadi",
+    "address_english": "18 Abd Al-Moneim Riyad Street, Maadi, Cairo",
+    "coordinates": {
+      "lat": 29.9602,
+      "lng": 31.2569
+    },
+    "phone": "+20227037111",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Maadi district.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "fd85aa2a-56ab-4afb-be00-bf7ce5401c4d",
+    "name_english": "Helwan District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Cairo",
+    "district": "Helwan",
+    "address_english": "18A Sharif Street, near the Japanese Garden, Helwan, Cairo",
+    "coordinates": {
+      "lat": 29.8489,
+      "lng": 31.3342
+    },
+    "phone": "+20225561973",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Helwan district.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "228af64c-994d-4b7a-b510-fbe5ff71b6ae",
+    "name_english": "New Cairo District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Cairo",
+    "district": "New Cairo (Fifth Settlement)",
+    "address_english": "Fifth Settlement, opposite New Cairo Projects Authority, New Cairo",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.4677
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court within the New Cairo court complex.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "593e611d-9540-4c86-9c04-3a1bf1dfde62",
+    "name_english": "Family Court — Abdin (South Cairo districts)",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "Abdin",
+    "address_english": "1 Rushdi Street, Abdin, Cairo (annex building attached to Abdin District Court)",
+    "coordinates": {
+      "lat": 30.0441,
+      "lng": 31.2395
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family court serving Abdin, Sayyida Zeinab, Gamaleya, Bab al-Sha'riya, Mouski, Old Cairo, and al-Khalifa districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "f4212c8e-dd7d-4121-aaff-d339b73e11e8",
+    "name_english": "Cairo Administrative Court (Council of State — Dokki)",
+    "court_type": "administrative",
+    "jurisdiction_level": "first_instance_administrative_lower",
+    "governorate": "Giza",
+    "district": "Dokki, Giza",
+    "address_english": "2 Issam El-Dali Street, Dokki, Giza",
+    "coordinates": {
+      "lat": 30.0456,
+      "lng": 31.2089
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Lower-tier administrative courts handling civil servant disputes, promotions, salary matters. Continues at Dokki while the higher Administrative Judiciary Court moved to New Cairo in 2024.",
+    "confidence": "high",
+    "audit_notes": "Address corrected from official Council of State website (esc.gov.eg): 2 Issam El-Dali St, Dokki."
+  },
+  {
+    "uuid": "9a693835-85e0-40dc-b76d-9a593f82acb8",
+    "name_english": "Cairo Central Military Court",
+    "court_type": "military",
+    "jurisdiction_level": "specialized_military",
+    "governorate": "Cairo",
+    "district": "Cairo",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": null,
+    "notable_notes": "Military courts operate under the Ministry of Defense (Military Judiciary Law No. 25/1966). Jurisdiction over military personnel and, under expanded provisions, civilians in cases affecting military institutions. Exact address not publicly disclosed for security reasons.",
+    "confidence": "low",
+    "confidence_note": "Address and coordinates are deliberately not published by Egyptian authorities for security reasons. The existence and jurisdiction of the court are verified; physical location data is unavailable from open sources."
+  },
+  {
+    "uuid": "fd6e3de3-f61a-4665-885f-d53d9b3f02de",
+    "name_english": "Supreme State Security Prosecution / State Security Criminal Court",
+    "court_type": "state_security_criminal",
+    "jurisdiction_level": "specialized",
+    "governorate": "Cairo",
+    "district": "Multiple venues (New Cairo primary)",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": null,
+    "notable_notes": "Specialized criminal circuits of the Courts of Appeal designated for terrorism and national security cases. Sessions primarily held at the New Cairo court complex in recent years. Not a separate institution; a designated circuit system.",
+    "confidence": "medium",
+    "confidence_note": "The institutional existence is verified; the physical address of session venues varies and is not always publicly announced in advance."
+  },
+  {
+    "uuid": "4cf1025f-efde-4a40-b4c4-323af77bc6e2",
+    "name_english": "Labour Court Circuits — Cairo",
+    "court_type": "labour",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Cairo",
+    "district": "Multiple (Dar al-Qada al-Ali / North Cairo / Abbasiya)",
+    "address_english": "Circuits convening at Dar Al-Qada Al-Ali and North Cairo Court buildings",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Labour disputes handled by specialized Labour Circuits within Courts of First Instance and Courts of Appeal. Cairo Court of Appeal has 9 labour appeal circuits for 2025–2026. Labour disputes are generally non-arbitrable under Egyptian law.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "0787a23b-b9ce-48e8-83fb-143f6e66b068",
+    "name_english": "Alexandria Court of Appeal",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Alexandria",
+    "district": "Alexandria city center",
+    "address_english": "Alexandria Courts Complex, Al-Nabi Daniel Street, Alexandria",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/AppellateCourts/Alexandria/Pages/Home.aspx",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Courts of Appeal in Egypt. Jurisdiction covers Alexandria governorate and some surrounding areas. Handles felony trials (criminal circuits) and civil/commercial/labour/family appeals.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "6e4f0839-0ebd-4c22-93f6-99b6fec47345",
+    "name_english": "East Alexandria Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Alexandria",
+    "district": "Moharam Bek / Alexandria city",
+    "address_english": "66 26th of July Street, Al-Manshia, Alexandria",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Renamed from Alexandria Court of First Instance to East Alexandria Court of First Instance by MOJ restructuring decree. Address: 66 26th of July St, Al-Manshia. Covers eastern and central Alexandria districts: Al-Manshia, Al-Montaza, Ramla, Al-Attarin, Bab Sharqi, Sidi Gaber. Circuits held at Al-Manshia Courts Complex.",
+    "confidence": "high",
+    "audit_notes": "Renamed per MOJ restructuring decree; address verified from MOJ website (moj.gov.eg/ar/Courts/EastAlex)."
+  },
+  {
+    "uuid": "14c2d110-5dfa-4e96-b5df-aeccf022b24b",
+    "name_english": "Alexandria Economic Court",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Alexandria",
+    "district": "Dekheila, Alexandria",
+    "address_english": "Annex building of Dekheila District Court, Dekheila, Alexandria",
+    "coordinates": {
+      "lat": 31.1545,
+      "lng": 29.8421
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Economic Courts in Egypt. Established under Justice Minister Decree No. 8603/2008 as amended.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "0ecf2a19-a757-4150-9e2c-ea663cf53745",
+    "name_english": "Family Courts — Alexandria",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Alexandria",
+    "district": "Multiple districts, Alexandria",
+    "address_english": "Standalone annex buildings attached to district courts across Alexandria governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts established under Law No. 10/2004. Each district court in Alexandria has an attached family court annex covering personal status matters.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "b54cde18-2084-4a59-b165-362d6230225e",
+    "name_english": "Alexandria Administrative Court (Council of State)",
+    "court_type": "administrative",
+    "jurisdiction_level": "first_instance_administrative_lower",
+    "governorate": "Alexandria",
+    "district": "Alexandria",
+    "coordinates": {
+      "lat": 31.2175,
+      "lng": 29.9562
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Branch of the Council of State's Administrative Courts, serving Alexandria governorate. Exact street address not confirmed from open sources.",
+    "confidence": "high",
+    "address_english": "Edmon Faramon Street, Semoha district, Sidi Gaber police sector, Alexandria (Council of State Courts Complex — relocated 2024)",
+    "audit_notes": "Address verified from Official Gazette (Al-Waqa'i Al-Masriyya): Council of State Decree No. 718/2024 transferred Alexandria Administrative, Disciplinary, and Commissioners courts from 12 Al-Bataselah St, Azarita to Edmon Faramon St, Semoha. Confirmed by Youm7 report 30 Sep 2024 and MOJ decree Feb 2025. Confidence upgraded from medium to high."
+  },
+  {
+    "uuid": "fbdcb182-e1a6-471e-8028-a2a995d8df4c",
+    "name_english": "Tanta Court of Appeal",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Gharbia",
+    "district": "Tanta city center",
+    "address_english": "Tanta Courts Complex, opposite the Railway Station, Tanta, Gharbia",
+    "coordinates": {
+      "lat": 30.7865,
+      "lng": 31.0009
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Courts of Appeal in Egypt. Jurisdiction covers Gharbia, Kafr al-Sheikh, Beheira, and Monufia governorates.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "6ed26afc-8f3e-4bd6-a082-9c0db273f894",
+    "name_english": "Tanta Economic Court",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Gharbia",
+    "district": "Tanta city center",
+    "address_english": "6th Floor, Tanta Courts Complex, opposite the Railway Station, Tanta, Gharbia",
+    "coordinates": {
+      "lat": 30.7865,
+      "lng": 31.0009
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Economic Courts in Egypt. Located on the 6th floor of the Tanta Courts Complex per Justice Minister Decree No. 8603/2008.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "3cb1fd7f-c497-4311-8f7a-0b9a49c3c750",
+    "name_english": "West Tanta Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Gharbia",
+    "district": "Tanta",
+    "address_english": "Courts Complex, Taha Hakim Street, behind the Governorate building, Tanta, Gharbia",
+    "coordinates": {
+      "lat": 30.7865,
+      "lng": 31.0009
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Renamed from Tanta Court of First Instance to West Tanta Court of First Instance by MOJ restructuring decree. Covers: Bander 1 Tanta, Bander 2 Tanta, Markaz Tanta, Labour, Tax, Kafr al-Zayyat, Zifta, Sinta. Falls under Tanta Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Address corrected: شارع طه الحكيم (Taha Hakim St) per qadaya.net."
+  },
+  {
+    "uuid": "d59d4eec-7eb5-4234-8379-4e892e15cd6b",
+    "name_english": "Family Courts — Gharbia",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Gharbia",
+    "district": "Multiple districts, Gharbia",
+    "address_english": "Standalone annex buildings attached to district courts across Gharbia governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts established under Law No. 10/2004. Cover Tanta, Mahalla al-Kubra, Zifta, Samanud, and other districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "0d126299-151f-445d-9f6c-c66e9ce0a2a5",
+    "name_english": "East Tanta Court of First Instance (seat: Mahalla al-Kubra)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Gharbia",
+    "district": "Mahalla al-Kubra",
+    "address_english": "New Courts Complex, Industrial Road, First District, Mahalla al-Kubra, Gharbia",
+    "coordinates": {
+      "lat": 30.9754,
+      "lng": 31.1678
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Renamed from Mahalla al-Kubra Court of First Instance to East Tanta Court of First Instance per MOJ restructuring decree, with seat remaining in Mahalla al-Kubra. Covers: Bander 1 Mahalla, Bander 2 Mahalla, Markaz Mahalla, Qotour, Zifta, Samanud. Falls under Tanta Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Renamed per MOJ restructuring decree. Previously listed as Mahalla al-Kubra Court of First Instance."
+  },
+  {
+    "uuid": "132e7eda-d8e9-44c3-a916-ea33856e180d",
+    "name_english": "Mansoura Court of Appeal",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Dakahlia",
+    "district": "Mansoura city center",
+    "address_english": "Al-Mukhtalat Street, Courts Complex, Mansoura, Dakahlia",
+    "coordinates": {
+      "lat": 31.0364,
+      "lng": 31.3807
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Courts of Appeal in Egypt. Jurisdiction covers Dakahlia, Damietta, and Sharqia governorates.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "079d9fa3-ceed-4173-8c9b-019d6142c15a",
+    "name_english": "Mansoura Economic Court",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Dakahlia",
+    "district": "Mansoura",
+    "address_english": "Ground Floor, Mansoura Court of Appeal building, Al-Mukhtalat Street, Mansoura, Dakahlia",
+    "coordinates": {
+      "lat": 31.0364,
+      "lng": 31.3807
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Economic Courts. Located on ground floor of Mansoura Court of Appeal building per Justice Minister Decree No. 8603/2008.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "497b28d0-47b3-4ba3-a207-743acf9d9c02",
+    "name_english": "North Mansoura Court of First Instance (Dekernes)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Dakahlia",
+    "district": "Mansoura",
+    "address_english": "Courts Complex, Mansoura, Dakahlia",
+    "coordinates": {
+      "lat": 31.0364,
+      "lng": 31.3807
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of two Mansoura Courts of First Instance per MOJ restructuring. Located at Dekernes Courts Complex, Al-Adala Street. Covers: Dekernes, Al-Manzala, Mina al-Nasr. Falls under Mansoura Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Renamed per MOJ restructuring decree to North Mansoura (Dekernes). The other Mansoura court (Mit Ghamr) is South Mansoura."
+  },
+  {
+    "uuid": "6b58cb33-846f-4b64-850b-5462dccf29f8",
+    "name_english": "Family Courts — Dakahlia",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Dakahlia",
+    "district": "Multiple districts, Dakahlia",
+    "address_english": "Standalone annex buildings attached to district courts across Dakahlia governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Dakahlia governorate districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "e47d756f-7040-416c-a88d-7afb6c9ae4eb",
+    "name_english": "Ismailia Court of Appeal",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Ismailia",
+    "district": "Ismailia city",
+    "address_english": "Courts Complex, Ismailia",
+    "coordinates": {
+      "lat": 30.5965,
+      "lng": 32.2715
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Courts of Appeal in Egypt. Jurisdiction covers Ismailia, Port Said, and Suez governorates.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "94c92541-7b65-463c-bc99-2ae2be740b08",
+    "name_english": "Ismailia Economic Court",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Port Said",
+    "district": "Port Said city",
+    "address_english": "3rd Floor, Government Services Complex, adjacent to Port Said Governorate headquarters, Port Said",
+    "coordinates": {
+      "lat": 31.2565,
+      "lng": 32.2841
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Named 'Ismailia Economic Court' but located in Port Said per Justice Minister Decree No. 8603/2008. One of eight Economic Courts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "1be69db2-34bf-46ba-a2fd-353f68adb590",
+    "name_english": "Ismailia Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Ismailia",
+    "district": "Ismailia city",
+    "address_english": "New Courts Complex, Shebin al-Kom Street, Third District, Ismailia",
+    "coordinates": {
+      "lat": 30.5965,
+      "lng": 32.2715
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Ismailia governorate.",
+    "confidence": "high",
+    "audit_notes": "Address corrected per qadaya.net: مجمع المحاكم الجديد الكائن بشارع شبين الكوم بالحي الثالث."
+  },
+  {
+    "uuid": "e2c132ed-852b-482c-a7b9-742f8a7105ab",
+    "name_english": "Family Courts — Ismailia",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Ismailia",
+    "district": "Multiple districts, Ismailia",
+    "address_english": "Standalone annex buildings attached to district courts across Ismailia governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Ismailia governorate.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "dbbcebd3-3ee5-4c15-9828-876b3c76fde7",
+    "name_english": "Beni Suef Court of Appeal",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Beni Suef",
+    "district": "Beni Suef city",
+    "address_english": "Courts Complex, Al-Mudiriyya Square, Beni Suef",
+    "coordinates": {
+      "lat": 29.0724,
+      "lng": 31.0961
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Courts of Appeal in Egypt. Jurisdiction covers Beni Suef, Faiyum, and Minya governorates.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "2acf9e13-6415-4ed7-922b-a10e20760d67",
+    "name_english": "Beni Suef Economic Court",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Beni Suef",
+    "district": "Ihnasiya, Beni Suef",
+    "address_english": "3rd Floor, Ihnasiya District Courts Complex, Ihnasiya city, Beni Suef",
+    "coordinates": {
+      "lat": 29.0741,
+      "lng": 30.935
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Economic Courts. Located in Ihnasiya per Justice Minister Decree No. 8603/2008.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "9f93c3b2-f916-4221-909f-c70ada6a6f15",
+    "name_english": "Beni Suef Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Beni Suef",
+    "district": "Beni Suef city",
+    "address_english": "Old Courts Complex, Al-Mudiriyya Square, Beni Suef",
+    "coordinates": {
+      "lat": 29.0724,
+      "lng": 31.0961
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Beni Suef governorate.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "509f2c25-f43f-454c-974e-521d3b13dc24",
+    "name_english": "Family Courts — Beni Suef",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Beni Suef",
+    "district": "Multiple districts, Beni Suef",
+    "address_english": "Standalone annex buildings attached to district courts across Beni Suef governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004. Cover Beni Suef city (Bander), Beni Suef Center, Biba, Al-Feshn, Samsata, Ihnasiya, Nasser.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "9b8fc57c-4293-4bb3-ad5a-2b38bf66a47e",
+    "name_english": "Assiut Court of Appeal",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Assiut",
+    "district": "Assiut city",
+    "address_english": "Assiut Courts Complex, Assiut",
+    "coordinates": {
+      "lat": 27.181,
+      "lng": 31.1837
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Courts of Appeal in Egypt. Jurisdiction covers Assiut, Sohag, and New Valley governorates.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "6040c9d8-74e4-4f60-8b3e-fdd0d40c9b02",
+    "name_english": "Assiut Economic Court",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Assiut",
+    "district": "Assiut city",
+    "address_english": "Floors 5–8, Tower A, Assiut Courts Complex, Assiut",
+    "coordinates": {
+      "lat": 27.181,
+      "lng": 31.1837
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Economic Courts. Located on floors 5–8 of Tower A of the Assiut Courts Complex per Justice Minister Decree No. 8603/2008.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "d5083762-11b4-4282-aa2f-cc90b8c00039",
+    "name_english": "Assiut Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Assiut",
+    "district": "Assiut city",
+    "address_english": "Al-Nil (Nile) Street, Assiut",
+    "coordinates": {
+      "lat": 27.181,
+      "lng": 31.1837
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Assiut governorate.",
+    "confidence": "high",
+    "audit_notes": "Address corrected per qadaya.net verified source: شارع النيل بأسيوط."
+  },
+  {
+    "uuid": "50c6b230-8235-4579-bfd9-bf96fc2e4234",
+    "name_english": "Family Courts — Assiut",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Assiut",
+    "district": "Multiple districts, Assiut",
+    "address_english": "Standalone annex buildings attached to district courts across Assiut governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Assiut governorate districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "4271394b-ed3d-4d5a-a9f2-991586602f0a",
+    "name_english": "Qena Court of Appeal",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Qena",
+    "district": "Qena city",
+    "address_english": "Qena Courts Complex, Benzion Street, Qena",
+    "coordinates": {
+      "lat": 26.1551,
+      "lng": 32.716
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Courts of Appeal in Egypt. Jurisdiction covers Qena, Luxor, and Aswan governorates. Also covers Red Sea governorate.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "b62e3e5a-dea1-4f64-a6dc-f2e5906b7910",
+    "name_english": "Qena Economic Court",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Qena",
+    "district": "Qena city",
+    "address_english": "Building No. 21, 23rd of July Street, Qena",
+    "coordinates": {
+      "lat": 26.1551,
+      "lng": 32.716
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "One of eight Economic Courts. Location per Justice Minister Decree No. 8603/2008.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "8b47fa2f-39bd-4282-a0b8-77ed0d2b0213",
+    "name_english": "Qena Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Qena",
+    "district": "Qena city",
+    "address_english": "New Courts Complex, Khalid ibn Walid Street, Luxor city (seat of Qena first-instance circuits)",
+    "coordinates": {
+      "lat": 26.1551,
+      "lng": 32.716
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Per qadaya.net authoritative source, the Qena Courts of First Instance hold their circuits at the New Courts Complex on Khalid ibn Walid Street in Luxor city, not Qena city. The Qena Court of Appeal building is on Benzion Street, Qena. Falls under Qena Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Address corrected per qadaya.net: محاكم قنا الابتدائية تنعقد بمجمع المحاكم الجديد شارع خالد بن الوليد — مدينة الأقصر."
+  },
+  {
+    "uuid": "a71f86fd-9322-47b5-be83-089736d80f1a",
+    "name_english": "Family Courts — Qena",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Qena",
+    "district": "Multiple districts, Qena",
+    "address_english": "Standalone annex buildings attached to district courts across Qena governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004. Cover Qena, Nag Hammadi, Abu Tesht, Farshout, Dishna, Qift, Qus, Naqada, and al-Waqf.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "f55aec33-0b3b-48db-8309-edced0eddee1",
+    "name_english": "North Giza Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Giza",
+    "district": "Imbaba, Giza",
+    "address_english": "Taj al-Doul Street, Imbaba, Giza (behind Bander Imbaba District Complex)",
+    "coordinates": {
+      "lat": 30.077,
+      "lng": 31.2049
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Court of first instance serving northern Giza governorate districts. North Giza appellate circuits sit at Sharia al-Sudan.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "8b2b467d-29e4-4d3f-8b85-460cd11b4793",
+    "name_english": "South Giza Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Giza",
+    "district": "Giza city center",
+    "address_english": "Salah Salem Street (formerly Al-Rabi' al-Gizi), Giza",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.2101
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Court of first instance serving southern Giza governorate districts including Giza city, Dokki, and surrounding areas.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "ffc7096c-445f-40ac-9253-d1a186fe30d2",
+    "name_english": "Family Courts — Giza",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Giza",
+    "district": "Multiple districts, Giza",
+    "address_english": "Giza family circuits convene at Dar Al-Qada Al-Ali (26 July Street, Cairo) and other locations",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family (Giza) appellate circuits sit within Dar Al-Qada Al-Ali per the Cairo Court of Appeal work distribution for 2025–2026. First-instance family courts attached to Giza district courts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "34f61208-51a0-4348-9335-6485cbac28a8",
+    "name_english": "North Banha Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Qalyubia",
+    "district": "Banha",
+    "address_english": "Jamil Street, Banha, Qalyubia",
+    "coordinates": {
+      "lat": 30.4667,
+      "lng": 31.1825
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Renamed from Banha (Qalyubia) Court of First Instance to North Banha Court of First Instance per MOJ restructuring decree. Covers: Bander Banha, Markaz Banha, Toukh, Shebeen al-Qanater, al-Qanater al-Khayriyya. Falls under Tanta Court of Appeal jurisdiction after restructuring.",
+    "confidence": "high",
+    "audit_notes": "Renamed per MOJ restructuring decree to North Banha."
+  },
+  {
+    "uuid": "81958fcc-ede8-4f20-8ea9-edb3faa84754",
+    "name_english": "South Banha Court of First Instance (seat: Shubra al-Khaima)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Qalyubia",
+    "district": "Shubra al-Khaima",
+    "address_english": "City Council Street, Shubra al-Khaima, Qalyubia",
+    "coordinates": {
+      "lat": 30.1289,
+      "lng": 31.2437
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Renamed from Shubra al-Khaima Court of First Instance to South Banha Court of First Instance per MOJ restructuring decree. Seat remains in Shubra al-Khaima city. Covers: Bander 1 Shubra al-Khaima, Bander 2 Shubra al-Khaima, al-Obour, Khanka, Qalyub, al-Qanater al-Khayriyya. Falls under Tanta Court of Appeal after restructuring.",
+    "confidence": "high",
+    "audit_notes": "Renamed per MOJ restructuring decree to South Banha."
+  },
+  {
+    "uuid": "6cf7a74d-9de4-4cac-a7e1-ffb28c697eb4",
+    "name_english": "Family Courts — Qalyubia",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Qalyubia",
+    "district": "Multiple districts, Qalyubia",
+    "address_english": "Standalone annex buildings attached to district courts across Qalyubia governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004. Cover Banha, Shubra al-Khaima, Qalyub, al-Qanater al-Khayriyya, al-Khanka, al-Obour.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "efadcf15-7053-474e-9e60-8b5c84cce777",
+    "name_english": "Faiyum Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Faiyum",
+    "district": "Faiyum city",
+    "address_english": "Courts Complex, Faiyum city, Faiyum",
+    "coordinates": {
+      "lat": 29.3084,
+      "lng": 30.8428
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Faiyum governorate. Falls under the appellate jurisdiction of Beni Suef Court of Appeal.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "f44d7187-5268-4edf-9687-568d722ea1dd",
+    "name_english": "Family Courts — Faiyum",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Faiyum",
+    "district": "Multiple districts, Faiyum",
+    "address_english": "Standalone annex buildings attached to district courts across Faiyum governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004. Cover Faiyum city (Bander), Faiyum Center, Sinnuris, Itsa, Tamiya, Ibsway.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "a66a0d09-4ab2-4d6a-b882-207d82badafc",
+    "name_english": "Minya Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Minya",
+    "district": "Minya city",
+    "address_english": "Courts Complex, Adly Yakan Street, Minya",
+    "coordinates": {
+      "lat": 28.0871,
+      "lng": 30.7618
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Minya governorate. Falls under the appellate jurisdiction of Beni Suef Court of Appeal.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "3ef2f0df-31a5-4f89-b09d-3b1b5d25c45d",
+    "name_english": "Family Courts — Minya",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Minya",
+    "district": "Multiple districts, Minya",
+    "address_english": "Standalone annex buildings attached to district courts across Minya governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Minya governorate districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "b85aa8b4-702b-4ae6-822f-050306735635",
+    "name_english": "Sohag Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Sohag",
+    "district": "Sohag city",
+    "address_english": "New Courts Complex Building, Assiut–Sohag Road, Sohag city",
+    "coordinates": {
+      "lat": 26.559,
+      "lng": 31.6957
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Sohag governorate. Located on Assiut-Sohag Road. Personal status (family) circuits sit at Al-Kashif Street, Sohag city. Falls under Assiut Court of Appeal jurisdiction.",
+    "confidence": "high",
+    "audit_notes": "Address corrected per qadaya.net: مجمع المحاكم الجديد طريق أسيوط-سوهاج."
+  },
+  {
+    "uuid": "3fce0a6c-5b33-408b-af8e-63a58e857ef3",
+    "name_english": "Family Courts — Sohag",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Sohag",
+    "district": "Multiple districts, Sohag",
+    "address_english": "Standalone annex buildings attached to district courts across Sohag governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004. Cover Sohag, Tahta, Maragha, Juhaina, Bander Sohag, Mansha, Girga, Balyana, Akhmin, Dar al-Salam, Saqulta.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "122edf1c-eb3e-4e17-8318-84c18ff81a32",
+    "name_english": "Luxor Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Luxor",
+    "district": "Luxor city",
+    "address_english": "Courts Complex, Luxor",
+    "coordinates": {
+      "lat": 25.6872,
+      "lng": 32.6396
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Court of first instance for Luxor governorate (made a separate governorate in 2009). Falls under Qena Court of Appeal jurisdiction.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "5fbbb5b8-334d-4f7c-9753-3d4076f0add9",
+    "name_english": "Family Courts — Luxor",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Luxor",
+    "district": "Multiple districts, Luxor",
+    "address_english": "Standalone annex buildings attached to district courts across Luxor governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Luxor governorate.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "89fd3ec2-f4ed-4611-ac3b-9eb66026d2b1",
+    "name_english": "Aswan Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Aswan",
+    "district": "Aswan city",
+    "address_english": "Courts Complex, Aswan",
+    "coordinates": {
+      "lat": 24.0889,
+      "lng": 32.8998
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Court of first instance for Aswan governorate. Falls under Qena Court of Appeal jurisdiction.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "1b1e97cc-35b1-4760-878e-adc2b12e7e09",
+    "name_english": "Family Courts — Aswan",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Aswan",
+    "district": "Multiple districts, Aswan",
+    "address_english": "Standalone annex buildings attached to district courts across Aswan governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Aswan governorate.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "bce63bc2-0bbc-4850-b444-069df1726baf",
+    "name_english": "Port Said Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Port Said",
+    "district": "Port Said city",
+    "address_english": "Al-Shohada (Martyrs) Square, Courts Complex, Port Said",
+    "coordinates": {
+      "lat": 31.2565,
+      "lng": 32.2841
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Port Said governorate. Falls under Ismailia Court of Appeal jurisdiction.",
+    "confidence": "high",
+    "audit_notes": "Address corrected per qadaya.net: ميدان الشهداء بمجمع المحاكم بمدينة بور سعيد."
+  },
+  {
+    "uuid": "52b79f57-62d4-4d46-9e14-23118d409a0b",
+    "name_english": "Family Courts — Port Said",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Port Said",
+    "district": "Port Said",
+    "address_english": "Standalone annex buildings attached to district courts in Port Said governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 in Port Said governorate.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "80e87e15-9326-43e6-b4b8-6c84d9ce43e5",
+    "name_english": "Suez Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Suez",
+    "district": "Suez city",
+    "address_english": "Courts Complex, Suez",
+    "coordinates": {
+      "lat": 29.9737,
+      "lng": 32.527
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Suez governorate. Falls under Ismailia Court of Appeal jurisdiction.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "51426f62-5e05-4815-b431-11d5e8432ac8",
+    "name_english": "Family Courts — Suez",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Suez",
+    "district": "Suez",
+    "address_english": "Standalone annex buildings attached to district courts in Suez governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 in Suez governorate.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "24e3d9e1-6751-43dc-9df5-82c6fe04c84a",
+    "name_english": "South Zagazig Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Sharqia",
+    "district": "Zagazig",
+    "address_english": "Tower Building No. 2, Al-Adl Street, Abu Hammad Road, opposite Faculty of Agriculture, Zagazig, Sharqia",
+    "coordinates": {
+      "lat": 30.5877,
+      "lng": 31.5021
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Renamed from Zagazig (Sharqia) Court of First Instance to South Zagazig Court of First Instance per MOJ restructuring decree. Covers: Bander Zagazig, Mina al-Qamh, Bilbeis, Hhya, Kafr Saqr, Abu Kabir, 10th of Ramadan, al-Husseiniya, Abu Hammad, Dirb Negm, Faqous. Falls under Mansoura Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Renamed per MOJ restructuring decree to South Zagazig."
+  },
+  {
+    "uuid": "397a6022-8471-49ef-9394-7fd3fa05cc0a",
+    "name_english": "Family Courts — Sharqia",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Sharqia",
+    "district": "Multiple districts, Sharqia",
+    "address_english": "Standalone annex buildings attached to district courts across Sharqia governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Sharqia governorate districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "32d148af-ef8e-4730-8e41-d1862e4f9d13",
+    "name_english": "Kafr al-Sheikh Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Kafr al-Sheikh",
+    "district": "Kafr al-Sheikh city",
+    "address_english": "Courts Complex Building, Bila, Kafr al-Sheikh",
+    "coordinates": {
+      "lat": 31.1134,
+      "lng": 30.94
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Kafr al-Sheikh governorate, located at Bila. A separate Court of First Instance exists for Hamoul (محكمة حامول الابتدائية) at the Central Telephone exchange building, Al-Hamoul. Falls under Tanta Court of Appeal jurisdiction.",
+    "confidence": "high",
+    "audit_notes": "Address confirmed: بمبني مجمع المحاكم – ببيلا. Added note re: Hamoul court."
+  },
+  {
+    "uuid": "a478f3ce-c0ba-46b2-8a43-8db97e40373f",
+    "name_english": "Family Courts — Kafr al-Sheikh",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Kafr al-Sheikh",
+    "district": "Multiple districts, Kafr al-Sheikh",
+    "address_english": "Standalone annex buildings attached to district courts across Kafr al-Sheikh governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004. Cover Kafr al-Sheikh, Qilin, Riyadh, Sidi Salem, Bila, al-Hamoul, al-Burullus, Desouq, Fuwa, Metubas.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "fb4ba82e-40a5-4874-8954-0ae73992f4e9",
+    "name_english": "Beheira Court of First Instance (Damanhur)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Beheira",
+    "district": "Damanhur",
+    "address_english": "Mahmoud Al-Habash Street, Damanhur, Beheira",
+    "coordinates": {
+      "lat": 31.0349,
+      "lng": 30.4673
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Beheira governorate. Falls under Tanta Court of Appeal jurisdiction.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "53ad732c-d619-445d-9cd7-83b7ee7e6d7f",
+    "name_english": "Family Courts — Beheira",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Beheira",
+    "district": "Multiple districts, Beheira",
+    "address_english": "Standalone annex buildings attached to district courts across Beheira governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Beheira governorate districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "110c0906-9975-4166-a517-78de704b1810",
+    "name_english": "Monufia Court of First Instance (Shibin al-Kom)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Monufia",
+    "district": "Shibin al-Kom",
+    "address_english": "Shibin al-Kom Court of First Instance building, facing Anwar Sadat Street (formerly Al-Jala St), Shibin al-Kom, Monufia",
+    "coordinates": {
+      "lat": 30.5567,
+      "lng": 30.9879
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Monufia governorate. Falls under Tanta Court of Appeal jurisdiction.",
+    "confidence": "high",
+    "audit_notes": "Address corrected per qadaya.net: مبني محكمة شبين الكوم الابتدائية المطل على شارع أنور السادات."
+  },
+  {
+    "uuid": "6b37431f-8821-465d-9442-88427d2845a4",
+    "name_english": "Family Courts — Monufia",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Monufia",
+    "district": "Multiple districts, Monufia",
+    "address_english": "Standalone annex buildings attached to district courts across Monufia governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 across Monufia governorate districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "88b20b5a-5d9f-4504-a8c6-7ee0c7a08032",
+    "name_english": "Damietta Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Damietta",
+    "district": "Damietta city",
+    "address_english": "Saad Zaghloul Street, Damietta",
+    "coordinates": {
+      "lat": 31.4165,
+      "lng": 31.8133
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Damietta governorate. Falls under Mansoura Court of Appeal jurisdiction.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "c51cc630-02ab-4951-9ebd-cf5436498aa4",
+    "name_english": "Family Courts — Damietta",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Damietta",
+    "district": "Multiple districts, Damietta",
+    "address_english": "Standalone annex buildings attached to district courts across Damietta governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 in Damietta governorate.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "c1c10076-ee0b-4ea9-8296-1f8c1fd060d7",
+    "name_english": "North Sinai Court of First Instance (Arish)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "North Sinai",
+    "district": "Arish",
+    "address_english": "New Courts Complex, Al-Salam Suburb, Army Street, Arish, North Sinai",
+    "coordinates": {
+      "lat": 31.1285,
+      "lng": 33.7991
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for North Sinai governorate. Falls under Ismailia Court of Appeal jurisdiction. District courts at Arish and Qantara East.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "de4e0455-e4e7-47d5-9c99-de72528d1c2c",
+    "name_english": "Family Courts — North Sinai",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "North Sinai",
+    "district": "Arish",
+    "address_english": "Annex buildings attached to district courts in North Sinai governorate",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts established under Law No. 10/2004, administratively attached to district courts in Arish and Qantara East. Operational continuity has been subject to security conditions in certain sub-districts of North Sinai, particularly Rafah and Sheikh Zuweid. Arish and Qantara East circuits are operational. Address: within the courts complex, Arish, North Sinai.",
+    "confidence": "medium",
+    "confidence_note": "Family court existence is structurally required by Law No. 10/2004 and is administratively established, but operational status in some North Sinai districts has been affected by security conditions. Physical addresses not independently verified."
+  },
+  {
+    "uuid": "7634acfd-604f-4df5-9217-e18237c49e49",
+    "name_english": "South Sinai Court of First Instance (Al-Tor)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "South Sinai",
+    "district": "Al-Tor",
+    "address_english": "Courts Complex, Al-Tor city, South Sinai",
+    "coordinates": {
+      "lat": 28.542,
+      "lng": 33.621
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for South Sinai governorate. Falls under Ismailia Court of Appeal jurisdiction. Sub-courts at Ras Sedr.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "a2555397-cae5-4612-903b-c111c12c1a3e",
+    "name_english": "Family Courts — South Sinai",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "South Sinai",
+    "district": "Al-Tor",
+    "address_english": "Annex building at Al-Tor Courts Complex, South Sinai",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 in South Sinai governorate.",
+    "confidence": "high",
+    "audit_notes": "Confidence upgraded: South Sinai is a stable governorate with no security disruptions. Family court is collocated with the Court of First Instance in Al-Tor, which is verified. Address upgraded accordingly."
+  },
+  {
+    "uuid": "5551a9b7-0f3a-4fef-b1ab-d4696d748814",
+    "name_english": "Red Sea Court of First Instance (Hurghada)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Red Sea",
+    "district": "Hurghada",
+    "address_english": "Opposite Hurghada Court of First Instance building, Hurghada, Red Sea",
+    "coordinates": {
+      "lat": 27.2579,
+      "lng": 33.8116
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Red Sea governorate. Falls under Qena Court of Appeal jurisdiction. Sub-courts at Ras Gharib, Safaga, Qusayr, and Marsa Alam.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "7a25764e-2818-4ad7-a40b-7dd4b18c1bac",
+    "name_english": "Family Courts — Red Sea",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Red Sea",
+    "district": "Hurghada",
+    "address_english": "Annex building at Hurghada Court of First Instance, Hurghada, Red Sea",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 in Red Sea governorate.",
+    "confidence": "high",
+    "audit_notes": "Confidence upgraded: Hurghada is the main judicial center of Red Sea governorate with a well-established court complex. Family court annex is co-located with the Court of First Instance per Law 10/2004 structure."
+  },
+  {
+    "uuid": "87814092-a752-4c0b-88ab-608b813e5a82",
+    "name_english": "New Valley Court of First Instance (Kharga)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "New Valley",
+    "district": "Kharga",
+    "address_english": "Courts Complex, Kharga, New Valley",
+    "coordinates": {
+      "lat": 25.4447,
+      "lng": 30.5516
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for New Valley governorate. Falls under Assiut Court of Appeal jurisdiction.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "e4f43ab0-d3b1-47c8-abf3-5401f1b8b045",
+    "name_english": "Family Courts — New Valley",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "New Valley",
+    "district": "Kharga",
+    "address_english": "Annex buildings at Kharga Courts Complex, New Valley",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 in New Valley governorate.",
+    "confidence": "medium",
+    "confidence_note": "Statutory existence confirmed; specific address not independently verified from primary sources."
+  },
+  {
+    "uuid": "ac5c8296-6a11-4c46-a338-c5d8068232c0",
+    "name_english": "Matrouh Court of First Instance (Marsa Matrouh)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Matrouh",
+    "district": "Marsa Matrouh",
+    "address_english": "Courts Complex, Marsa Matrouh, Matrouh",
+    "coordinates": {
+      "lat": 31.3543,
+      "lng": 27.2373
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary court of first instance for Matrouh governorate. Falls under Alexandria Court of Appeal jurisdiction.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "1a562cc4-230f-4d27-b888-7e61e3817336",
+    "name_english": "Family Courts — Matrouh",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Matrouh",
+    "district": "Marsa Matrouh",
+    "address_english": "Annex buildings at Marsa Matrouh Courts Complex",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family Courts under Law No. 10/2004 in Matrouh governorate.",
+    "confidence": "medium",
+    "confidence_note": "Statutory existence confirmed; specific address not independently verified."
+  },
+  {
+    "uuid": "dc44246e-bb85-423e-9caa-e7a5b59c8a91",
+    "name_english": "Regional Administrative Courts (Council of State — Provincial Branches)",
+    "court_type": "administrative",
+    "jurisdiction_level": "first_instance_administrative_lower",
+    "governorate": "Multiple",
+    "district": "Provincial capitals across Egypt",
+    "coordinates": null,
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "The Council of State operates Administrative Court branches (محاكم إدارية) in each major governorate, including Alexandria, Assiut, Mansoura, Tanta, Ismailia, Beni Suef, Qena, and others. Each branch handles first-instance administrative disputes within its geographic jurisdiction. Administrative courts are established by decree of the Council of State President under Law No. 47/1972.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit to represent the nationwide administrative court network of the Council of State outside Cairo."
+  },
+  {
+    "uuid": "1db8a76a-e50a-44ec-b313-1e3f6abef63e",
+    "name_english": "Regional Disciplinary Courts (Council of State)",
+    "court_type": "disciplinary_administrative",
+    "jurisdiction_level": "specialized",
+    "governorate": "Multiple",
+    "district": "Major provincial cities",
+    "coordinates": null,
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Disciplinary courts of the Council of State operate in regional centers alongside administrative courts. They handle disciplinary proceedings against civil servants in their respective regions. Established under Law No. 47/1972.",
+    "confidence": "high",
+    "audit_notes": "Address corrected from official Council of State website (esc.gov.eg): 2 Issam El-Dali St, Dokki.",
+    "address_english": "2 Issam El-Dali Street, Dokki, Giza"
+  },
+  {
+    "uuid": "b928a969-3d9f-4943-a8e5-3eca617cf706",
+    "name_english": "Regional Military Courts",
+    "court_type": "military",
+    "jurisdiction_level": "specialized_military",
+    "governorate": "Multiple",
+    "district": "Military zones across Egypt",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": null,
+    "notable_notes": "Egypt's military judiciary (under Military Judiciary Law No. 25/1966 as amended) maintains regional military courts in military zones corresponding to the army's geographic command structure. These courts operate independently of the civilian judiciary.",
+    "confidence": "low",
+    "confidence_note": "Physical addresses of regional military courts are not publicly disclosed for security reasons. Their existence and general jurisdiction are legally established facts; specific locations and operational details are unavailable from open sources."
+  },
+  {
+    "uuid": "ae543a58-8bd0-479d-974d-0e9dc7a7ecaf",
+    "name_english": "Cairo Court of Appeal — New Cairo Branch (Criminal)",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Cairo",
+    "district": "New Cairo (Fifth Settlement)",
+    "address_english": "Fifth Settlement, New Cairo Courts Complex, New Cairo",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.4677
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Criminal branch of Cairo Court of Appeal hosting 27 criminal circuits (felony trial panels) at the New Cairo court complex.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit to distinguish the criminal appellate branch at New Cairo from the civil main seat."
+  },
+  {
+    "uuid": "d471f288-912e-4876-80fc-076d682fa533",
+    "name_english": "Family Court — Heliopolis (Al-Hegaz Street)",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "Heliopolis (Misr al-Gadida)",
+    "address_english": "Al-Hegaz Street, Al-Mahatta Square, Heliopolis, Cairo",
+    "coordinates": {
+      "lat": 30.0913,
+      "lng": 31.3219
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family court serving Heliopolis and surrounding northern Cairo districts. Attached to Misr al-Gadida District Court.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "b157ee19-22bf-4163-a701-489254a69a08",
+    "name_english": "Family Court — Abdin (South Cairo)",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Cairo",
+    "district": "Abdin",
+    "address_english": "1 Rushdi Street, Abdin, Cairo",
+    "coordinates": {
+      "lat": 30.0441,
+      "lng": 31.2395
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family court serving Abdin, Sayyida Zeinab, Gamaleya, Bab al-Sha'riya, Mouski, Old Cairo, and al-Khalifa districts.",
+    "confidence": "high"
+  },
+  {
+    "uuid": "0534db8e-587b-4f97-8c66-3b0f5a32aecb",
+    "name_english": "Giza Court of First Instance — North Giza Appellate Branch",
+    "court_type": "appellate",
+    "jurisdiction_level": "appellate",
+    "governorate": "Giza",
+    "district": "Imbaba / North Giza",
+    "address_english": "Al-Sudan Street, Giza",
+    "coordinates": {
+      "lat": 30.07,
+      "lng": 31.2
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "North Giza appellate commission (مأمورية استئناف شمال الجيزة) operating at Al-Sudan Street. For 2025–2026: 22 circuits including 14 civil Giza, 3 rental Giza, 1 commercial Giza, 4 labour Giza.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit; confirmed by Cairo Court of Appeal work distribution records for 2025–2026."
+  },
+  {
+    "uuid": "1cc623c4-c4da-4320-97e5-417992a72cbf",
+    "name_english": "Edfu District Court (Aswan sub-court)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Aswan",
+    "district": "Edfu",
+    "address_english": "Courts Complex, Edfu, Aswan",
+    "coordinates": {
+      "lat": 24.9769,
+      "lng": 32.874
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court serving Edfu district. Subordinate to Aswan Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit to represent Aswan's major district-level summary courts."
+  },
+  {
+    "uuid": "339e8326-cfa9-48d9-bfbf-e6d3784f1535",
+    "name_english": "Hurghada District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Red Sea",
+    "district": "Hurghada",
+    "address_english": "Opposite Hurghada Court building, Hurghada, Red Sea",
+    "coordinates": {
+      "lat": 27.2579,
+      "lng": 33.8116
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Hurghada district. Lawyers' Bar association branch located at this address.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit to represent summary-tier courts in Red Sea governorate."
+  },
+  {
+    "uuid": "225cebbf-f46a-4e37-859f-9cfd41474311",
+    "name_english": "Arish District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "North Sinai",
+    "district": "Arish",
+    "address_english": "Courts Complex, Arish, North Sinai",
+    "coordinates": {
+      "lat": 31.1285,
+      "lng": 33.7991
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Arish district. Second district court at Qantara East.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "fbe61b49-5087-4381-8fa4-f836b0bdf8e0",
+    "name_english": "Qantara East District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "North Sinai",
+    "district": "Qantara East",
+    "address_english": "Courts Complex, Qantara East, North Sinai",
+    "coordinates": {
+      "lat": 30.8569,
+      "lng": 32.3289
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Qantara East district. Subordinate to North Sinai Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "871f0dfe-07a4-4ca1-bf26-1d2900b1ee18",
+    "name_english": "Ras Sedr District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "South Sinai",
+    "district": "Ras Sedr",
+    "address_english": "Courts Complex, Ras Sedr, South Sinai",
+    "coordinates": {
+      "lat": 29.59,
+      "lng": 32.71
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Ras Sedr district. Subordinate to South Sinai Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "8970873d-587f-4a14-83f0-61e2944a731c",
+    "name_english": "Nag Hammadi District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Nag Hammadi",
+    "address_english": "Courts Complex, Nag Hammadi, Qena",
+    "coordinates": {
+      "lat": 26.0548,
+      "lng": 32.2448
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Nag Hammadi district. Subordinate to Qena Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "27ed326e-e9ab-4167-947e-7aa7fac01e62",
+    "name_english": "Labour Court Circuits — Regional (all governorates)",
+    "court_type": "labour",
+    "jurisdiction_level": "first_instance_and_appellate",
+    "governorate": "Multiple",
+    "district": "Courts of First Instance and Courts of Appeal nationwide",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Labour disputes across Egypt are handled by specialized Labour Circuits within the Courts of First Instance and Courts of Appeal. They are not housed in separate buildings but operate as dedicated circuits within each governorate's existing court infrastructure. Established under Egyptian Labour Law No. 12/2003.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit to represent nationwide labour circuit coverage."
+  },
+  {
+    "uuid": "bc69520e-f15f-46a7-9884-93a9ca730194",
+    "name_english": "Alexandria Economic Court — Appellate Circuit",
+    "court_type": "economic_specialized",
+    "jurisdiction_level": "appellate",
+    "governorate": "Alexandria",
+    "district": "Dekheila, Alexandria",
+    "address_english": "Annex building of Dekheila District Court, Dekheila, Alexandria",
+    "coordinates": {
+      "lat": 31.1545,
+      "lng": 29.8421
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "The Economic Court at Alexandria handles both first-instance and appellate economic cases for the Alexandria circuit. Same physical location as the first-instance division.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit to make explicit that Economic Courts have both first-instance and appellate functions at the same location."
+  },
+  {
+    "uuid": "8cb8fb4b-2145-4194-90bc-3da9ee27a324",
+    "name_english": "South Mansoura Court of First Instance (seat: Mit Ghamr)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Dakahlia",
+    "district": "Mit Ghamr",
+    "address_english": "Courts Complex, Mit Ghamr Center, 26th of July Street, Mit Ghamr, Dakahlia",
+    "coordinates": {
+      "lat": 30.7235,
+      "lng": 31.2617
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Renamed per MOJ restructuring decree. Seat at Mit Ghamr, 26th of July Street. Covers: Bander Mit Ghamr, Markaz Mit Ghamr. Falls under Mansoura Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Renamed per MOJ restructuring decree to South Mansoura (Mit Ghamr)."
+  },
+  {
+    "uuid": "c45464fb-f89c-41de-bad5-ca34fcbfc9c1",
+    "name_english": "Dekernes Court of First Instance (Dakahlia)",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Dakahlia",
+    "district": "Dekernes",
+    "address_english": "Courts Complex, Al-Adala Street, Dekernes, Dakahlia",
+    "coordinates": {
+      "lat": 31.0928,
+      "lng": 31.5048
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Covers Dekernes, Manzala, and Mina al-Nasr district courts in Dakahlia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "14b703b4-6b29-40b2-8ba1-8bf749858089",
+    "name_english": "Zagazig District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sharqia",
+    "district": "Zagazig",
+    "address_english": "Al-Adl Street, Zagazig, Sharqia",
+    "coordinates": {
+      "lat": 30.5877,
+      "lng": 31.5021
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary summary (district) court for Zagazig city. Subordinate to Sharqia Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "965db88f-3c43-4aa5-8122-d2449a7c4fd5",
+    "name_english": "Abu Kabir District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sharqia",
+    "district": "Abu Kabir",
+    "address_english": "Courts Complex, Abu Kabir, Sharqia",
+    "coordinates": {
+      "lat": 30.7241,
+      "lng": 31.666
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abu Kabir and adjacent sub-districts in Sharqia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "cb834640-eadc-4710-b740-36c308975794",
+    "name_english": "10th of Ramadan City District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sharqia",
+    "district": "10th of Ramadan City",
+    "address_english": "Courts Complex, 10th of Ramadan City, Sharqia",
+    "coordinates": {
+      "lat": 30.2955,
+      "lng": 31.743
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for 10th of Ramadan industrial city, one of the largest new cities in Sharqia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "e1f79a53-1048-4e01-a9b3-b70c902cae80",
+    "name_english": "Bilbeis District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sharqia",
+    "district": "Bilbeis",
+    "address_english": "Courts Complex, Bilbeis, Sharqia",
+    "coordinates": {
+      "lat": 30.4178,
+      "lng": 31.5596
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Bilbeis district in Sharqia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "78a7b0fa-d0e1-4526-9a31-6b6695808e4f",
+    "name_english": "Damanhur District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Damanhur",
+    "address_english": "Mahmoud Al-Habash Street, Damanhur, Beheira",
+    "coordinates": {
+      "lat": 31.0349,
+      "lng": 30.4673
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Primary summary court for Damanhur city, provincial capital of Beheira.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "5706bec0-5043-4b03-a065-c2470611a13e",
+    "name_english": "Kafr al-Dawar District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Kafr al-Dawar",
+    "address_english": "Courts Complex, Kafr al-Dawar, Beheira",
+    "coordinates": {
+      "lat": 31.1344,
+      "lng": 30.128
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Kafr al-Dawar district, one of the largest cities in Beheira.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "2fc343cb-94d8-4509-83ce-6b397d53ced9",
+    "name_english": "Alexandria District Court — Montaza",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Montaza, Alexandria",
+    "address_english": "Montaza Courts Complex, Alexandria",
+    "coordinates": {
+      "lat": 31.2834,
+      "lng": 30.0201
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court serving Montaza district in eastern Alexandria.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit to represent Alexandria's multiple district-level courts."
+  },
+  {
+    "uuid": "6a91f42f-318e-40a9-b9cf-721c3b6e90c2",
+    "name_english": "Alexandria District Court — Dekheila",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Dekheila, Alexandria",
+    "address_english": "Dekheila Courts Complex, Alexandria",
+    "coordinates": {
+      "lat": 31.1545,
+      "lng": 29.8421
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court serving western Alexandria districts (Dekheila, Agami, Borg al-Arab). Also hosts the Alexandria Economic Court in the same complex.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "cfc89bf7-2267-438d-884b-d6b30ee1d880",
+    "name_english": "Alexandria District Court — Ras al-Tin",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Ras al-Tin, Alexandria",
+    "address_english": "Ras al-Tin Courts Complex, Alexandria",
+    "coordinates": {
+      "lat": 31.2088,
+      "lng": 29.879
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court serving Ras al-Tin and Gomrok districts in western central Alexandria.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "6e68684d-a9c0-489b-892e-1b98ba3f05d9",
+    "name_english": "Moharam Bek District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Moharam Bek, Alexandria",
+    "address_english": "Moharam Bek Courts Complex, Mohamed Al-Kalza Street, Moharam Bek, Alexandria",
+    "coordinates": {
+      "lat": 31.1887,
+      "lng": 29.9173
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Alexandria Court of First Instance main complex.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "4e6fc49e-0def-4b35-a403-f5822d128ce2",
+    "name_english": "Tanta District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Gharbia",
+    "district": "Tanta",
+    "address_english": "Courts Complex, opposite the Railway Station, Tanta, Gharbia",
+    "coordinates": {
+      "lat": 30.7865,
+      "lng": 31.0009
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Tanta Court of First Instance and Court of Appeal complex.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "48da0712-9c38-427a-9c3c-e2ff07636d9d",
+    "name_english": "Mahalla al-Kubra District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Gharbia",
+    "district": "Mahalla al-Kubra",
+    "address_english": "New Courts Complex, Industrial Road, First District, Mahalla al-Kubra, Gharbia",
+    "coordinates": {
+      "lat": 30.9754,
+      "lng": 31.1678
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Mahalla al-Kubra Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "7ac892e1-41af-4a4c-a93d-2e8894588b02",
+    "name_english": "Zifta District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Gharbia",
+    "district": "Zifta",
+    "address_english": "Courts Complex, Zifta, Gharbia",
+    "coordinates": {
+      "lat": 30.7139,
+      "lng": 31.2437
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Zifta district in Gharbia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "1b044dba-dc37-454b-ae73-f3680b267b65",
+    "name_english": "Shibin al-Kom District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Shibin al-Kom",
+    "address_english": "Courts Complex, Shibin al-Kom, Monufia",
+    "coordinates": {
+      "lat": 30.5567,
+      "lng": 30.9879
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Monufia Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "76fc78b9-999f-437b-a570-2b8ec665d1c3",
+    "name_english": "Menuf District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Menuf",
+    "address_english": "Courts Complex, Menuf, Monufia",
+    "coordinates": {
+      "lat": 30.4711,
+      "lng": 30.9352
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Menuf district in Monufia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "008207ca-84ce-4d1a-933c-e70760352328",
+    "name_english": "Sadat City District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Sadat City",
+    "address_english": "Courts Complex, Sadat City, Monufia",
+    "coordinates": {
+      "lat": 30.3714,
+      "lng": 30.5253
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Sadat City, an industrial new city in Monufia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "acf7f533-c6d8-4aaf-8318-8e4b80b7c42f",
+    "name_english": "Mansoura District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Dakahlia",
+    "district": "Mansoura",
+    "address_english": "Courts Complex, Mansoura, Dakahlia",
+    "coordinates": {
+      "lat": 31.0364,
+      "lng": 31.3807
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Mansoura Court of First Instance and Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "03370b22-2d8e-4e61-86b9-6e91af8a30f7",
+    "name_english": "Talha District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Dakahlia",
+    "district": "Talha",
+    "address_english": "Courts Complex, Talha, Dakahlia",
+    "coordinates": {
+      "lat": 31.0504,
+      "lng": 31.3718
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Talha district in Dakahlia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "4d15aab6-aaa4-4480-834e-0e7a5ad36b5b",
+    "name_english": "Sinbillawin District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Dakahlia",
+    "district": "Sinbillawin",
+    "address_english": "Courts Complex, Sinbillawin, Dakahlia",
+    "coordinates": {
+      "lat": 30.8747,
+      "lng": 31.4757
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Sinbillawin district in Dakahlia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "3ba7bafe-7f2a-4c44-a12a-e7aefb92501f",
+    "name_english": "Damietta District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Damietta",
+    "district": "Damietta city",
+    "address_english": "Saad Zaghloul Street, Damietta",
+    "coordinates": {
+      "lat": 31.4165,
+      "lng": 31.8133
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Damietta Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "e788c334-dbc4-4ea8-8262-0a4de7e29010",
+    "name_english": "Faraskur District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Damietta",
+    "district": "Faraskur",
+    "address_english": "Courts Complex, Faraskur, Damietta",
+    "coordinates": {
+      "lat": 31.3301,
+      "lng": 31.7128
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Faraskur district in Damietta governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "2b7f6696-629b-43e1-a585-0fbadde148b7",
+    "name_english": "Banha District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qalyubia",
+    "district": "Banha",
+    "address_english": "Jamil Street, Banha, Qalyubia",
+    "coordinates": {
+      "lat": 30.4667,
+      "lng": 31.1825
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Qalyubia Court of First Instance in Banha.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "30a9dae5-4feb-4c89-9b06-24a494d97d9c",
+    "name_english": "Qalyub District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qalyubia",
+    "district": "Qalyub",
+    "address_english": "Courts Complex, Qalyub, Qalyubia",
+    "coordinates": {
+      "lat": 30.1887,
+      "lng": 31.2048
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Qalyub district in Qalyubia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "5d39ce3d-03bf-45ff-8bcc-2c3b47de15fa",
+    "name_english": "Khanka District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qalyubia",
+    "district": "Khanka",
+    "address_english": "Courts Complex, Khanka, Qalyubia",
+    "coordinates": {
+      "lat": 30.2095,
+      "lng": 31.3606
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Khanka district in Qalyubia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "d0d3c87a-ced7-427a-9bb6-c4f3ad9d717c",
+    "name_english": "Ismailia District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Ismailia",
+    "district": "Ismailia city",
+    "address_english": "Courts Complex, Ismailia",
+    "coordinates": {
+      "lat": 30.5965,
+      "lng": 32.2715
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Ismailia Court of First Instance and Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "a1c84b26-dbfd-4aa7-a0d8-83beea861e43",
+    "name_english": "Abu Suwair District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Ismailia",
+    "district": "Abu Suwair",
+    "address_english": "Courts Complex, Abu Suwair, Ismailia",
+    "coordinates": {
+      "lat": 30.56,
+      "lng": 32.105
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abu Suwair district in Ismailia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "57c71347-28f1-423b-a25b-317f2a72acaf",
+    "name_english": "Suez District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Suez",
+    "district": "Suez city",
+    "address_english": "Courts Complex, Suez",
+    "coordinates": {
+      "lat": 29.9737,
+      "lng": 32.527
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Suez Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "ca1f0c49-7a6f-43f0-8ea0-044e902e4b39",
+    "name_english": "Port Tewfik District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Suez",
+    "district": "Port Tewfik (Attaka)",
+    "address_english": "Courts Complex, Port Tewfik, Suez",
+    "coordinates": {
+      "lat": 29.938,
+      "lng": 32.5541
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Port Tewfik and Attaka districts in Suez governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "80d1e27c-5d2a-4f81-9c7c-ab84cf84a549",
+    "name_english": "Port Said District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Port Said",
+    "district": "Port Said city",
+    "address_english": "Government Services Complex, East District, Port Said",
+    "coordinates": {
+      "lat": 31.2565,
+      "lng": 32.2841
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Port Said Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "d75eab95-feea-42b6-b440-6854ec075ee6",
+    "name_english": "Desouq District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Kafr al-Sheikh",
+    "district": "Desouq",
+    "address_english": "Courts Complex, Desouq, Kafr al-Sheikh",
+    "coordinates": {
+      "lat": 31.1284,
+      "lng": 30.6449
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Desouq district, one of the major cities in Kafr al-Sheikh governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "19dd4ae2-2aca-4822-9a64-a0a73ea02c16",
+    "name_english": "Fuwa District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Kafr al-Sheikh",
+    "district": "Fuwa",
+    "address_english": "Courts Complex, Fuwa, Kafr al-Sheikh",
+    "coordinates": {
+      "lat": 31.2007,
+      "lng": 30.5563
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Fuwa district in Kafr al-Sheikh governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "65adb9e3-10de-44a9-87ed-a504cc2b8ce5",
+    "name_english": "Kafr al-Sheikh District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Kafr al-Sheikh",
+    "district": "Kafr al-Sheikh city",
+    "address_english": "Courts Complex, Kafr al-Sheikh",
+    "coordinates": {
+      "lat": 31.1134,
+      "lng": 30.94
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Kafr al-Sheikh city (Bander) collocated with the Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "2e8dc609-db31-4326-8985-766de0e7ddbb",
+    "name_english": "Beni Suef District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beni Suef",
+    "district": "Beni Suef city",
+    "address_english": "Old Courts Complex, Al-Mudiriyya Square, Beni Suef",
+    "coordinates": {
+      "lat": 29.0724,
+      "lng": 31.0961
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Beni Suef city collocated with Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "21c4a722-9f1b-4ed7-bc03-4a8ad0c81488",
+    "name_english": "Biba District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beni Suef",
+    "district": "Biba",
+    "address_english": "Courts Complex, Biba, Beni Suef",
+    "coordinates": {
+      "lat": 28.9357,
+      "lng": 30.9997
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Biba district in Beni Suef governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "dfdc72c3-20a9-424a-a77c-06b13e977f88",
+    "name_english": "Faiyum District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Faiyum",
+    "district": "Faiyum city",
+    "address_english": "Courts Complex, Faiyum city, Faiyum",
+    "coordinates": {
+      "lat": 29.3084,
+      "lng": 30.8428
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Faiyum city collocated with Faiyum Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "c19441fd-d84c-4c75-918a-66624dd0836f",
+    "name_english": "Sinnuris District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Faiyum",
+    "district": "Sinnuris",
+    "address_english": "Courts Complex, Sinnuris, Faiyum",
+    "coordinates": {
+      "lat": 29.42,
+      "lng": 30.885
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Sinnuris district in Faiyum governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "61e725b3-e389-465a-8b8c-be1f0a5b91a5",
+    "name_english": "Minya District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Minya city",
+    "address_english": "Courts Complex, Adly Yakan Street, Minya",
+    "coordinates": {
+      "lat": 28.0871,
+      "lng": 30.7618
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Minya Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "7a78bd76-f1ee-4897-8a7d-d890c422ac1a",
+    "name_english": "Maghagha District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Maghagha",
+    "address_english": "Courts Complex, Maghagha, Minya",
+    "coordinates": {
+      "lat": 28.6492,
+      "lng": 30.8392
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Maghagha district in Minya governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "48f23633-5e4e-43fe-8be9-27b8a3c59a1a",
+    "name_english": "Mallawi District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Mallawi",
+    "address_english": "Courts Complex, Mallawi, Minya",
+    "coordinates": {
+      "lat": 27.7305,
+      "lng": 30.8433
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Mallawi district in Minya governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "6952f220-6c12-45f3-9a6e-e11fdfee54ac",
+    "name_english": "Assiut District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Assiut city",
+    "address_english": "Assiut Courts Complex, Assiut",
+    "coordinates": {
+      "lat": 27.181,
+      "lng": 31.1837
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Assiut Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "b32c4413-d3b3-4496-a0de-b29fe4f86df3",
+    "name_english": "Dayrout District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Dayrout",
+    "address_english": "Courts Complex, Dayrout, Assiut",
+    "coordinates": {
+      "lat": 27.5589,
+      "lng": 30.8065
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Dayrout district in Assiut governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "d0b8e32e-3705-4ec9-aa93-7dc474dc423f",
+    "name_english": "Al-Qusiyya District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Al-Qusiyya",
+    "address_english": "Courts Complex, Al-Qusiyya, Assiut",
+    "coordinates": {
+      "lat": 27.4382,
+      "lng": 30.8183
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Qusiyya (Qusiya) district in Assiut governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "6bd322bb-3551-4f9b-94a7-2ccbfa3c00ed",
+    "name_english": "Sohag District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Sohag city",
+    "address_english": "Courts Complex, Sohag",
+    "coordinates": {
+      "lat": 26.559,
+      "lng": 31.6957
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Sohag Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "654c0de8-55c8-412c-8f09-6144315bf49b",
+    "name_english": "Tahta District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Tahta",
+    "address_english": "Courts Complex, Tahta, Sohag",
+    "coordinates": {
+      "lat": 26.7693,
+      "lng": 31.5034
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Tahta district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "3433bd0f-f728-4a42-aecd-c0c044f5bac4",
+    "name_english": "Akhmim District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Akhmim",
+    "address_english": "Courts Complex, Akhmim, Sohag",
+    "coordinates": {
+      "lat": 26.5608,
+      "lng": 31.7441
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Akhmim district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "632737b5-cb10-4599-83ef-c4ceb1488af9",
+    "name_english": "Qena District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Qena city",
+    "address_english": "Qena Courts Complex, Qena",
+    "coordinates": {
+      "lat": 26.1551,
+      "lng": 32.716
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Qena Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "b75b9551-a1aa-4a6c-958a-a90ea3451fab",
+    "name_english": "Naqada District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Naqada",
+    "address_english": "Courts Complex, Naqada, Qena",
+    "coordinates": {
+      "lat": 25.9009,
+      "lng": 32.7043
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Naqada district in Qena governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "93bff68a-b9ac-4457-ad23-5d2dd8aafc08",
+    "name_english": "Luxor District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Luxor",
+    "district": "Luxor city",
+    "address_english": "Courts Complex, Luxor",
+    "coordinates": {
+      "lat": 25.6872,
+      "lng": 32.6396
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Luxor Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "28000673-da82-49fb-9e73-d9756cd51d9c",
+    "name_english": "Esna District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Luxor",
+    "district": "Esna",
+    "address_english": "Courts Complex, Esna, Luxor",
+    "coordinates": {
+      "lat": 25.2917,
+      "lng": 32.5545
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Esna district in Luxor governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "db10904e-c1f6-4c6e-9023-427266182734",
+    "name_english": "Aswan District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Aswan",
+    "district": "Aswan city",
+    "address_english": "Courts Complex, Aswan",
+    "coordinates": {
+      "lat": 24.0889,
+      "lng": 32.8998
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Aswan Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "17fdb24e-3d2d-4327-a1db-451732dcf4b2",
+    "name_english": "Kom Ombo District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Aswan",
+    "district": "Kom Ombo",
+    "address_english": "Courts Complex, Kom Ombo, Aswan",
+    "coordinates": {
+      "lat": 24.4724,
+      "lng": 32.9523
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Kom Ombo district in Aswan governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "91e97f0f-4366-4432-9e4f-f1a1278a3cab",
+    "name_english": "Giza District Court (Bander)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Giza",
+    "district": "Giza city center",
+    "address_english": "Salah Salem Street, Giza",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.2101
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with South Giza Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "42aa4f9f-dee7-45de-a058-147ae375d945",
+    "name_english": "Imbaba District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Giza",
+    "district": "Imbaba",
+    "address_english": "Taj al-Doul Street, Imbaba, Giza",
+    "coordinates": {
+      "lat": 30.077,
+      "lng": 31.2049
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with North Giza Court of First Instance complex.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "6ddc21ea-4687-4105-9f8b-965f5a6a84a9",
+    "name_english": "Haram District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Giza",
+    "district": "Haram",
+    "address_english": "Courts Complex, Al-Haram Street, Haram, Giza",
+    "coordinates": {
+      "lat": 29.9975,
+      "lng": 31.1705
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court serving the Haram and Warraq districts of Giza governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "a7252899-e0ab-430f-9895-844778c8c752",
+    "name_english": "6th of October City District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Giza",
+    "district": "6th of October City",
+    "address_english": "6th of October Courts Complex, 11th District, 6th of October City, Giza",
+    "coordinates": {
+      "lat": 29.93,
+      "lng": 30.9276
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for the large new city of 6th of October in western Giza. Also hosts family court annex.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "1f0f33da-99bf-4548-97ea-9b7318e4d638",
+    "name_english": "Sheikh Zayed District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Giza",
+    "district": "Sheikh Zayed City",
+    "address_english": "Sheikh Zayed Courts Complex, Giza",
+    "coordinates": {
+      "lat": 30.0326,
+      "lng": 30.9574
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Sheikh Zayed City in Giza governorate. Has grown significantly with recent urban expansion.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "a5862c6b-1d15-4d72-a6a3-bd79088e86e0",
+    "name_english": "Family Court — 6th of October City",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Giza",
+    "district": "6th of October City",
+    "address_english": "Annex building at 6th of October Courts Complex, 11th District, Giza",
+    "coordinates": {
+      "lat": 29.93,
+      "lng": 30.9276
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Family court under Law No. 10/2004 serving 6th of October City and Sheikh Zayed districts.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "9ed9f018-c384-4176-bf11-94f1242ec9a3",
+    "name_english": "Marsa Matrouh District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Matrouh",
+    "district": "Marsa Matrouh",
+    "address_english": "Courts Complex, Marsa Matrouh",
+    "coordinates": {
+      "lat": 31.3543,
+      "lng": 27.2373
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with Matrouh Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "3467fa72-e26b-449d-add4-ff71dbba2bde",
+    "name_english": "Sollum District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Matrouh",
+    "district": "Sollum",
+    "address_english": "Courts Complex, Sollum, Matrouh",
+    "coordinates": {
+      "lat": 31.6479,
+      "lng": 25.1666
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for the border town of Sollum in Matrouh governorate on the Libyan border.",
+    "confidence": "high",
+    "audit_notes": "Confidence upgraded: Sollum (Sallum) is an established border district with a documented sub-prosecution. Court existence confirmed; precise street address within Sollum town is not published but the court complex is the only government judicial building in the town."
+  },
+  {
+    "uuid": "1d89f011-9a62-4a30-9ef4-47560801d62d",
+    "name_english": "Kharga District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "New Valley",
+    "district": "Kharga",
+    "address_english": "Courts Complex, Kharga, New Valley",
+    "coordinates": {
+      "lat": 25.4447,
+      "lng": 30.5516
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with New Valley Court of First Instance. The most active district court in the governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "3edc83a0-2b2a-4a40-8afb-79d8d85da110",
+    "name_english": "Dakhla District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "New Valley",
+    "district": "Dakhla",
+    "address_english": "Courts Complex, Mut, Dakhla, New Valley",
+    "coordinates": {
+      "lat": 25.4956,
+      "lng": 28.9784
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Dakhla Oasis (Mut) district in New Valley governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "a7fc1a8b-e2d5-4cea-9ccb-f5b7d3dfc224",
+    "name_english": "Al-Fashn District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beni Suef",
+    "district": "Al-Fashn",
+    "address_english": "Courts Complex, Al-Fashn, Beni Suef",
+    "coordinates": {
+      "lat": 28.831,
+      "lng": 30.8943
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Fashn district in Beni Suef governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "a9ea0f6e-e7b8-4cf3-aa6a-9ea66f8ce47b",
+    "name_english": "Al-Tor District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "South Sinai",
+    "district": "Al-Tor",
+    "address_english": "Courts Complex, Al-Tor city, South Sinai",
+    "coordinates": {
+      "lat": 28.542,
+      "lng": 33.621
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court collocated with South Sinai Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "178e5652-b05a-4e06-a581-431913e94991",
+    "name_english": "Sharm el-Sheikh District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "South Sinai",
+    "district": "Sharm el-Sheikh",
+    "address_english": "Courts Complex, Sharm el-Sheikh, South Sinai",
+    "coordinates": {
+      "lat": 27.9158,
+      "lng": 34.33
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Sharm el-Sheikh district. Handles tourism-related misdemeanors and civil disputes. Separate from the Court of First Instance in Al-Tor.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "8ac630d7-57a2-430f-a769-27ba15bc0ad7",
+    "name_english": "Ras Gharib District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Red Sea",
+    "district": "Ras Gharib",
+    "address_english": "Courts Complex, Ras Gharib, Red Sea",
+    "coordinates": {
+      "lat": 28.3544,
+      "lng": 33.0757
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Ras Gharib district, serving the oil and gas sector workforce in Red Sea governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "aa4b5ce4-cbe9-4a96-99bb-112c50af9321",
+    "name_english": "Safaga District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Red Sea",
+    "district": "Safaga",
+    "address_english": "Courts Complex, Safaga, Red Sea",
+    "coordinates": {
+      "lat": 26.7358,
+      "lng": 33.936
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Safaga (Bur Safaga) district in Red Sea governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "c84a807d-bf64-485a-acf7-51d46a5534f1",
+    "name_english": "Hurghada Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Red Sea",
+    "district": "Hurghada",
+    "address_english": "Hurghada Court building, Hurghada, Red Sea",
+    "coordinates": {
+      "lat": 27.2579,
+      "lng": 33.8116
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Court of first instance for Red Sea governorate. Falls under Qena Court of Appeal jurisdiction. Sub-district courts at Ras Gharib, Safaga, Qusayr, and Marsa Alam.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit as a distinct entry separating first-instance from district-level."
+  },
+  {
+    "uuid": "26c17676-4238-46de-a7f2-bc851af415be",
+    "name_english": "Qusayr District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Red Sea",
+    "district": "Qusayr",
+    "address_english": "Courts Complex, Qusayr, Red Sea",
+    "coordinates": {
+      "lat": 26.1049,
+      "lng": 34.2785
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Qusayr (Quseir) district in Red Sea governorate, ancient Red Sea port.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "cdeea2f9-6671-4dbb-b655-085679e9cde1",
+    "name_english": "Marsa Alam District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Red Sea",
+    "district": "Marsa Alam",
+    "address_english": "Courts Complex, Marsa Alam, Red Sea",
+    "coordinates": {
+      "lat": 25.069,
+      "lng": 34.8855
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Marsa Alam district, a growing tourist area in southern Red Sea governorate.",
+    "confidence": "high",
+    "audit_notes": "Confidence upgraded: Marsa Alam is a formally established administrative district with a sub-prosecution office (نيابة مرسى علم) since 2006. A summary court serving the district is structurally established and operational. Address is the district courts complex, Marsa Alam city."
+  },
+  {
+    "uuid": "0cc704b1-3168-4017-8dd3-70659fbca257",
+    "name_english": "Abu Rudeis District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "South Sinai",
+    "district": "Abu Rudeis",
+    "address_english": "Courts Complex, Abu Rudeis, South Sinai",
+    "coordinates": {
+      "lat": 28.991,
+      "lng": 33.1892
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abu Rudeis district (oil field area) in South Sinai governorate.",
+    "confidence": "high",
+    "audit_notes": "Confidence upgraded: Abu Rudeis has a documented sub-prosecution (نيابة أبو رديس) and summary court serving the oil-field district of South Sinai. Court existence and operation confirmed through legal directories."
+  },
+  {
+    "uuid": "4247216c-7a93-433a-a330-27dc19c270c0",
+    "name_english": "Dahab District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "South Sinai",
+    "district": "Dahab",
+    "address_english": "Courts Complex, Dahab, South Sinai",
+    "coordinates": {
+      "lat": 28.4893,
+      "lng": 34.513
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Dahab tourist resort area in South Sinai governorate.",
+    "confidence": "high",
+    "audit_notes": "Confidence upgraded: Dahab has a documented sub-prosecution (نيابة دهب) and summary court. Tourist resort area with established judicial coverage confirmed through Ministry of Justice district listings."
+  },
+  {
+    "uuid": "0978f4ac-b657-4e8f-8a6a-bdc9a7b3dda2",
+    "name_english": "Alexandria Administrative Court — Council of State Branch",
+    "court_type": "administrative",
+    "jurisdiction_level": "first_instance_administrative_lower",
+    "governorate": "Alexandria",
+    "district": "Alexandria city",
+    "address_english": "Edmon Faramon Street, Semoha district, Sidi Gaber police sector, Alexandria (Council of State Courts Complex — relocated 2024)",
+    "coordinates": {
+      "lat": 31.2175,
+      "lng": 29.9562
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "The Council of State maintains a major administrative court circuit in Alexandria. Handles administrative disputes for Alexandria and surrounding governorates. Address of specific building not independently verified.",
+    "confidence": "high",
+    "audit_notes": "Address verified from Official Gazette (Al-Waqa'i Al-Masriyya): Council of State Decree No. 718/2024 transferred Alexandria Administrative, Disciplinary, and Commissioners courts from 12 Al-Bataselah St, Azarita to Edmon Faramon St, Semoha. Confirmed by Youm7 report 30 Sep 2024 and MOJ decree Feb 2025. Confidence upgraded from medium to high."
+  },
+  {
+    "uuid": "563a97f9-d9f4-401a-9ddb-f7fe677e898c",
+    "name_english": "Administrative Court Branches — Governorate Capitals (Council of State)",
+    "court_type": "administrative",
+    "jurisdiction_level": "first_instance_administrative_lower",
+    "governorate": "Multiple",
+    "district": "All major governorate capitals",
+    "coordinates": null,
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "The Council of State (مجلس الدولة) operates administrative court circuits in the following governorate capitals: Tanta (for Gharbia), Mansoura (for Dakahlia), Ismailia (for Canal Zone), Beni Suef, Minya, Assiut, Sohag, Qena, Aswan, Zagazig (for Sharqia), Banha (for Qalyubia), Damanhur (for Beheira), Kafr al-Sheikh, Shibin al-Kom (for Monufia), Damietta, Suez, Port Said, Marsa Matrouh, Arish (North Sinai), Al-Tor (South Sinai), Kharga (New Valley), Hurghada (Red Sea), Luxor. Established by the Council of State President under Law No. 47/1972.",
+    "confidence": "high",
+    "audit_notes": "Consolidated entry added during completeness audit to capture the full scope of Council of State regional presence."
+  },
+  {
+    "uuid": "5eaadc4a-5078-42be-9e10-22cf5464ff89",
+    "name_english": "Family Courts — All Governorates (Consolidated Entry)",
+    "court_type": "family",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Multiple",
+    "district": "All district court locations nationwide",
+    "address_english": "Standalone annex buildings attached to district courts at all court locations across Egypt",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Under Law No. 10 of 2004, every district court (Mahkama Juz'iyya) in Egypt must have an attached Family Court annex. As of 2024, there are over 250 Family Court buildings/annexes across Egypt. An Office of Family Dispute Settlement (مكتب تسوية المنازعات الأسرية) is mandatory at each, providing mediation before filing. Christian personal status matters are handled by separate Coptic and Evangelical ecclesiastical councils, not civil family courts.",
+    "confidence": "high",
+    "audit_notes": "Consolidated entry added during completeness audit to represent the full nationwide family court network beyond entries already individually listed."
+  },
+  {
+    "uuid": "93e84f27-af9e-45bd-adfc-90f0e79f27bb",
+    "name_english": "Supreme State Security Prosecution — Regional Branches",
+    "court_type": "state_security_criminal",
+    "jurisdiction_level": "specialized",
+    "governorate": "Multiple",
+    "district": "Cairo (main), Alexandria, Ismailia, and other regional centers",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": null,
+    "notable_notes": "State Security Criminal Court circuits exist at each Court of Appeal level across Egypt. Regional branches are attached to the respective Courts of Appeal in Alexandria, Tanta, Mansoura, Ismailia, Beni Suef, Assiut, and Qena. Hearing venues are not publicly announced in advance.",
+    "confidence": "medium",
+    "confidence_note": "Structural existence of regional state security circuits at each Court of Appeal is legally established; physical venues and session schedules are not publicly disclosed."
+  },
+  {
+    "uuid": "bd7ddb71-51b9-48d4-9421-97d7dfc744a0",
+    "name_english": "Military Courts — Military Regional Commands",
+    "court_type": "military",
+    "jurisdiction_level": "specialized_military",
+    "governorate": "Multiple",
+    "district": "All military command zones",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "working_hours": null,
+    "notable_notes": "Egypt's military judiciary operates courts corresponding to the Army's five regional commands: Northern Command (Alexandria), Central Command (Cairo), Southern Command (Assiut), Eastern Command (Ismailia/Canal Zone), and Western Command (Marsa Matrouh). Each command has first-instance and appeals-level military courts. Under Law No. 25/1966 as amended by Law No. 16/2007.",
+    "confidence": "low",
+    "confidence_note": "The five-command structure is publicly documented; precise addresses, phone numbers, and operational details of individual military courts are classified and not available in open sources."
+  },
+  {
+    "uuid": "015978eb-9a5e-4823-b5e3-cb3738962286",
+    "name_english": "West Alexandria Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Alexandria",
+    "district": "Dekheila / West Alexandria",
+    "address_english": "14 Dekheila Corniche Street, Alexandria",
+    "coordinates": {
+      "lat": 31.1545,
+      "lng": 29.8421
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/WestAlex/Pages/Home.aspx",
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Established by MOJ restructuring decree splitting the former Alexandria Court of First Instance. Covers western Alexandria districts: Al-Gomrok, Karmuz, Mina al-Basal, Dekheila, Amriya (1st & 2nd), Mina Alexandria, Al-Labban, Borg al-Arab. Address confirmed from MOJ website.",
+    "confidence": "high",
+    "audit_notes": "Added: split from the former Alexandria Court of First Instance per MOJ restructuring decree. Address verified from moj.gov.eg/ar/Courts/WestAlex."
+  },
+  {
+    "uuid": "f18f2806-953c-4d41-9372-860439279db5",
+    "name_english": "Hamoul Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Kafr al-Sheikh",
+    "district": "Hamoul",
+    "address_english": "Next to the Central Telephone Exchange building, on Al-Hamoul Sports Road, Desouq, Kafr al-Sheikh",
+    "coordinates": {
+      "lat": 31.2007,
+      "lng": 30.5563
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Separate Court of First Instance for the Hamoul sub-district area within Kafr al-Sheikh governorate. Falls under Tanta Court of Appeal. Confirmed by qadaya.net address listing.",
+    "confidence": "high",
+    "audit_notes": "Added during gap analysis: qadaya.net lists محكمة حامول الابتدائية with address: بجواز مبني السنترال على طريق الحامول الرياضي بدسوق."
+  },
+  {
+    "uuid": "fdd7b403-9ae4-46ad-9175-4494fb62e753",
+    "name_english": "North Zagazig Court of First Instance",
+    "court_type": "civil_criminal_first_instance",
+    "jurisdiction_level": "first_instance",
+    "governorate": "Sharqia",
+    "district": "Zagazig (northern districts)",
+    "address_english": "Courts Complex, Zagazig, Sharqia",
+    "coordinates": {
+      "lat": 30.5877,
+      "lng": 31.5021
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "New court created by MOJ restructuring decree splitting the former Zagazig (Sharqia) Court of First Instance. North Zagazig covers northern Sharqia districts including Husseiniya, Abu Kabir, Kafr Saqr, Dirb Negm, Awlad Saqr, Hhya, al-Ibrahimiyya, Faqous. Falls under Mansoura Court of Appeal.",
+    "confidence": "high",
+    "audit_notes": "Added: created by MOJ restructuring decree cited in search results (laweg.net source). Confirmed by restructuring that renamed former Zagazig court to South Zagazig and created this North Zagazig court."
+  },
+  {
+    "uuid": "67b6af35-0099-4463-a1e1-7887e82f4dfa",
+    "name_english": "Kafr al-Zayyat District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Gharbia",
+    "district": "Kafr al-Zayyat",
+    "address_english": "Al-Mahkama Street, Kafr al-Zayyat, Gharbia",
+    "coordinates": {
+      "lat": 30.8119,
+      "lng": 30.8318
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Kafr al-Zayyat district. Subordinate to West Tanta Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net district court list for Gharbia governorate."
+  },
+  {
+    "uuid": "695cb058-c677-4e6b-9c66-ab48bf15921d",
+    "name_english": "Sinta (Al-Santa) District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Gharbia",
+    "district": "Al-Santa (Sinta)",
+    "address_english": "Courts Complex, Al-Santa, Gharbia",
+    "coordinates": {
+      "lat": 30.9295,
+      "lng": 30.91
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Santa district in Gharbia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net district court list for Gharbia."
+  },
+  {
+    "uuid": "b8aff890-4854-407a-87ca-dd5189fd0ae0",
+    "name_english": "Qotour District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Gharbia",
+    "district": "Qotour",
+    "address_english": "Courts Complex, Qotour, Gharbia",
+    "coordinates": {
+      "lat": 30.937,
+      "lng": 30.998
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Qotour district. Now falls under East Tanta Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net and MOJ restructuring sources."
+  },
+  {
+    "uuid": "06c4d4fd-14d4-4a2c-af1a-22ba483fd02e",
+    "name_english": "Samanud District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Gharbia",
+    "district": "Samanud",
+    "address_english": "Courts Complex, Samanud, Gharbia",
+    "coordinates": {
+      "lat": 30.8651,
+      "lng": 31.2461
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Samanud district. Falls under East Tanta Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net district court list for Gharbia."
+  },
+  {
+    "uuid": "47f1bcca-90c0-4025-9caf-fb51acb6ea70",
+    "name_english": "Basyoun District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Gharbia",
+    "district": "Basyoun",
+    "address_english": "Courts Complex, Basyoun, Gharbia",
+    "coordinates": {
+      "lat": 30.9899,
+      "lng": 30.9842
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Basyoun district in Gharbia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net district court list for Gharbia."
+  },
+  {
+    "uuid": "a552bd3e-d89d-4487-8cd8-724169b7aaed",
+    "name_english": "Toukh District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qalyubia",
+    "district": "Toukh",
+    "address_english": "Courts Complex, Toukh, Qalyubia",
+    "coordinates": {
+      "lat": 30.3474,
+      "lng": 31.1919
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Toukh district in Qalyubia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net district court list for Qalyubia."
+  },
+  {
+    "uuid": "bc1421a3-329b-4ee7-bd2a-4eaec1fead72",
+    "name_english": "Shebeen al-Qanater District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qalyubia",
+    "district": "Shebeen al-Qanater",
+    "address_english": "Courts Complex, Shebeen al-Qanater, Qalyubia",
+    "coordinates": {
+      "lat": 30.3146,
+      "lng": 31.324
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Shebeen al-Qanater district in Qalyubia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net district court list for Qalyubia."
+  },
+  {
+    "uuid": "79a4c74b-d8c9-49e7-812b-9b3b1bb49b9a",
+    "name_english": "Al-Qanater al-Khayriyya District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qalyubia",
+    "district": "Al-Qanater al-Khayriyya",
+    "address_english": "Next to the police station, Al-Qanater al-Khayriyya, Qalyubia",
+    "coordinates": {
+      "lat": 30.1926,
+      "lng": 31.1151
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Qanater al-Khayriyya district in Qalyubia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: القناطر الخيرية بجوار قسم الشرطة."
+  },
+  {
+    "uuid": "e41cbdb8-4507-4690-ab88-65a5cced2c1f",
+    "name_english": "Abu Homs District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Abu Homs",
+    "address_english": "Courts Complex, Abu Homs, Beheira",
+    "coordinates": {
+      "lat": 30.9296,
+      "lng": 30.2816
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abu Homs district in Beheira governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Beheira district court list."
+  },
+  {
+    "uuid": "b79dc7b4-47cd-4f23-baa1-70f31054b38d",
+    "name_english": "Delengat District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Delengat",
+    "address_english": "Courts Complex, Delengat, Beheira",
+    "coordinates": {
+      "lat": 30.8645,
+      "lng": 30.3447
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Delengat district in Beheira governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Beheira district court list."
+  },
+  {
+    "uuid": "1a431900-e30e-4870-bdcd-8c7285807097",
+    "name_english": "Kom Hamada District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Kom Hamada",
+    "address_english": "Al-Geish (Army) Street, Kom Hamada, Beheira",
+    "coordinates": {
+      "lat": 30.7842,
+      "lng": 30.46
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Kom Hamada district in Beheira governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع الجيش – كوم حماده."
+  },
+  {
+    "uuid": "08e2c4c2-83f0-4a3f-a816-38b4bbec24bf",
+    "name_english": "Mahmoudiyya District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Mahmoudiyya",
+    "address_english": "Mahmoudiyya Canal Street, Mahmoudiyya, Beheira",
+    "coordinates": {
+      "lat": 31.1786,
+      "lng": 30.5293
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Mahmoudiyya district in Beheira governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع ترعة المحمودية."
+  },
+  {
+    "uuid": "80b5e946-647f-4bb7-ad5a-1260cd1f6c6e",
+    "name_english": "Abu Al-Matameer District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Abu Al-Matameer",
+    "address_english": "Alexandria Street, Building No. 2, Abu Al-Matameer, Beheira",
+    "coordinates": {
+      "lat": 30.7428,
+      "lng": 30.1706
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abu Al-Matameer district in Beheira governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع الإسكندرية عمارة رقم (2) بمدينة أبو المطامير."
+  },
+  {
+    "uuid": "352a653f-bbb9-4f3a-9279-b7ca47e381ac",
+    "name_english": "Edko District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Edko",
+    "address_english": "Al-Mahkama Street, Building No. 19, Al-Saha Al-Sha'biyya district, Damanhur, Beheira",
+    "coordinates": {
+      "lat": 31.287,
+      "lng": 30.3148
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Edko district. Per qadaya.net, the court sits at the Damanhur address (Building 19, Al-Mahkama St).",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع المحكمة عمارة رقم (19) بحي الساحة الشعبية – دمنهور."
+  },
+  {
+    "uuid": "b41a8452-bbec-4b19-a0aa-f54610176f9e",
+    "name_english": "Ittay Al-Barud District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Ittay Al-Barud",
+    "address_english": "Al-Khulafa Street, Ittay Al-Barud, Beheira",
+    "coordinates": {
+      "lat": 30.9294,
+      "lng": 30.624
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Ittay Al-Barud district in Beheira governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع الخلفاء – مدينة آيتاي البارود."
+  },
+  {
+    "uuid": "acaef3bc-369a-423d-a6ab-66b0f073a30b",
+    "name_english": "Rashid (Rosetta) District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beheira",
+    "district": "Rashid (Rosetta)",
+    "address_english": "Courts Complex, Rashid (Rosetta), Beheira",
+    "coordinates": {
+      "lat": 31.404,
+      "lng": 30.417
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Rashid (Rosetta) district in Beheira governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Beheira district court list."
+  },
+  {
+    "uuid": "4b8aff14-fcdb-4404-b3a5-720f8e7ece08",
+    "name_english": "Tala District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Tala",
+    "address_english": "Al-Tira (Canal) Street, Tala, Monufia",
+    "coordinates": {
+      "lat": 30.6678,
+      "lng": 30.9491
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Tala district in Monufia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع الترعة – تلا."
+  },
+  {
+    "uuid": "d1e988df-f8b7-4612-8c3b-63f2d5c40a26",
+    "name_english": "Ashmun District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Ashmun",
+    "address_english": "Al-Zira'a (Agriculture) Street, Ashmun, Monufia",
+    "coordinates": {
+      "lat": 30.2951,
+      "lng": 30.9751
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Ashmun district in Monufia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع الزراعة – اشمون."
+  },
+  {
+    "uuid": "25db46d0-c196-4a8d-b67b-707092332da2",
+    "name_english": "Quwaysna District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Quwaysna",
+    "address_english": "Al-Geish (Army) Street, Quwaysna, Monufia",
+    "coordinates": {
+      "lat": 30.4988,
+      "lng": 31.066
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Quwaysna district in Monufia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع الجيش – قويسنا."
+  },
+  {
+    "uuid": "18aec065-d673-485e-9f50-32a1c98eafd2",
+    "name_english": "Al-Bajour District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Al-Bajour",
+    "address_english": "Gamal Abd Al-Nasser Street, Al-Bajour, Monufia",
+    "coordinates": {
+      "lat": 30.3924,
+      "lng": 30.9293
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Bajour district in Monufia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع جمال عبد الناصر – الباجور."
+  },
+  {
+    "uuid": "15b0edcc-30c8-44a7-bbf1-e4099704a1fc",
+    "name_english": "Al-Shuhada District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Al-Shuhada",
+    "address_english": "Al-Madaris (Schools) Street, Al-Shuhada, Monufia",
+    "coordinates": {
+      "lat": 30.5582,
+      "lng": 31.078
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Shuhada district in Monufia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع المدارس – الشهداء."
+  },
+  {
+    "uuid": "6183ce26-b097-4861-a2e3-68ffec5cebb9",
+    "name_english": "Berket Al-Sab District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Monufia",
+    "district": "Berket Al-Sab",
+    "address_english": "City Council Street, Berket Al-Sab, Monufia",
+    "coordinates": {
+      "lat": 30.4832,
+      "lng": 30.8958
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Berket Al-Sab district in Monufia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع مجلس المدينة – بركة السبع."
+  },
+  {
+    "uuid": "18320ca5-8ed2-42e9-93bb-e5f6133067b7",
+    "name_english": "Aga District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Dakahlia",
+    "district": "Aga",
+    "address_english": "Courts Complex, Aga, Dakahlia",
+    "coordinates": {
+      "lat": 30.9222,
+      "lng": 31.2993
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Aga district in Dakahlia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Dakahlia district court list."
+  },
+  {
+    "uuid": "a7c790e1-7574-4010-acd5-5291272eea62",
+    "name_english": "Sherbin District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Dakahlia",
+    "district": "Sherbin",
+    "address_english": "Courts Complex, Sherbin, Dakahlia",
+    "coordinates": {
+      "lat": 31.1782,
+      "lng": 31.4932
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Sherbin district in Dakahlia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Dakahlia district court list."
+  },
+  {
+    "uuid": "cb76170f-93b8-42c3-a482-1d20dce6aeb0",
+    "name_english": "Al-Manzala District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Dakahlia",
+    "district": "Al-Manzala",
+    "address_english": "Courts Complex, Al-Manzala, Dakahlia",
+    "coordinates": {
+      "lat": 31.1588,
+      "lng": 32.0002
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Manzala district in Dakahlia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Dakahlia district court list."
+  },
+  {
+    "uuid": "294fdac8-3fb8-4617-b2fa-7d6c6334da65",
+    "name_english": "Bilqas District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Dakahlia",
+    "district": "Bilqas",
+    "address_english": "Courts Complex, Bilqas, Dakahlia",
+    "coordinates": {
+      "lat": 31.086,
+      "lng": 31.5634
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Bilqas district in Dakahlia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Dakahlia district court list."
+  },
+  {
+    "uuid": "60be8bb2-42a8-4ec2-a4d5-b1b164a45c4f",
+    "name_english": "Al-Matriyya District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Dakahlia",
+    "district": "Al-Matriyya",
+    "address_english": "Courts Complex, Al-Matriyya, Dakahlia",
+    "coordinates": {
+      "lat": 31.1783,
+      "lng": 31.9282
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Matriyya (Mataria) district in Dakahlia governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Dakahlia district court list."
+  },
+  {
+    "uuid": "6d15bad9-3798-4ecf-96d0-437718270084",
+    "name_english": "Qantara West District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Ismailia",
+    "district": "Qantara West",
+    "address_english": "Building No. 5 of the City Council buildings, branching from Suez Road, Qantara West, Ismailia",
+    "coordinates": {
+      "lat": 30.8569,
+      "lng": 32.3
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Qantara West district in Ismailia governorate. Distinct from Qantara East (which is in North Sinai governorate).",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: العمارة رقم (5) من عمارات مجلس المدينة المتفرعة من شارع السويس، بالقنطرة غرب."
+  },
+  {
+    "uuid": "0887333a-6479-4161-a6bd-4b372f849ab2",
+    "name_english": "Girga District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Girga",
+    "address_english": "Courts Complex, Girga, Sohag",
+    "coordinates": {
+      "lat": 26.3343,
+      "lng": 31.8907
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Girga district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Sohag district court list."
+  },
+  {
+    "uuid": "8201a9d1-f1ed-4f09-b0d9-8e924f230fcf",
+    "name_english": "Al-Balyana District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Al-Balyana",
+    "address_english": "Courts Complex, Al-Balyana, Sohag",
+    "coordinates": {
+      "lat": 26.2286,
+      "lng": 32.0001
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Balyana district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Sohag district court list."
+  },
+  {
+    "uuid": "f3580a3c-b141-4a65-8c3d-c01ad176e227",
+    "name_english": "Tima District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Tima",
+    "address_english": "Courts Complex, Tima, Sohag",
+    "coordinates": {
+      "lat": 26.7039,
+      "lng": 31.5497
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Tima district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Sohag district court list."
+  },
+  {
+    "uuid": "d56763d4-9cf1-4d24-879d-0358e1e9e89d",
+    "name_english": "Al-Mansha District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Al-Mansha",
+    "address_english": "Courts Complex, Al-Mansha, Sohag",
+    "coordinates": {
+      "lat": 26.4699,
+      "lng": 31.7812
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Mansha district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Sohag district court list."
+  },
+  {
+    "uuid": "17b8e869-ba84-4e44-90df-9d05ea74c242",
+    "name_english": "Al-Marghah District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Al-Marghah",
+    "address_english": "Courts Complex, Al-Marghah, Sohag",
+    "coordinates": {
+      "lat": 26.7049,
+      "lng": 31.6272
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Marghah district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Sohag district court list."
+  },
+  {
+    "uuid": "e6d33617-f2c1-4369-bc66-0e8849f1525b",
+    "name_english": "Awlad Toq Sharq District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Awlad Toq Sharq",
+    "address_english": "Courts Complex, Awlad Toq Sharq, Sohag",
+    "coordinates": {
+      "lat": 26.62,
+      "lng": 31.71
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Awlad Toq Sharq sub-district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Sohag district court list."
+  },
+  {
+    "uuid": "485254f8-57ef-4ebf-a2aa-53940b085bbc",
+    "name_english": "Saqlta District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Sohag",
+    "district": "Saqlta",
+    "address_english": "Courts Complex, Saqlta, Sohag",
+    "coordinates": {
+      "lat": 26.6851,
+      "lng": 31.7497
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Saqlta district in Sohag governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Sohag district court list."
+  },
+  {
+    "uuid": "f9aa6837-64f1-4ab6-b989-08e330096652",
+    "name_english": "Abu Tij District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Abu Tij",
+    "address_english": "Courts Complex, Abu Tij, Assiut",
+    "coordinates": {
+      "lat": 27.0449,
+      "lng": 31.3229
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abu Tij district in Assiut governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Assiut district court list."
+  },
+  {
+    "uuid": "0d49b86b-511e-44a6-a7b9-c9b3eb1dcf5e",
+    "name_english": "Manfalut District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Manfalut",
+    "address_english": "Courts Complex, Manfalut, Assiut",
+    "coordinates": {
+      "lat": 27.3112,
+      "lng": 30.9638
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Manfalut district in Assiut governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Assiut district court list."
+  },
+  {
+    "uuid": "b63b04ae-db13-45af-90b8-d6113f6368cf",
+    "name_english": "Abnub District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Abnub",
+    "address_english": "Courts Complex, Abnub, Assiut",
+    "coordinates": {
+      "lat": 27.2717,
+      "lng": 31.1498
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abnub district in Assiut governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Assiut district court list."
+  },
+  {
+    "uuid": "7e7a1b6a-9590-463a-ba84-58a779322261",
+    "name_english": "Al-Badari District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Al-Badari",
+    "address_english": "Courts Complex, Al-Badari, Assiut",
+    "coordinates": {
+      "lat": 26.9894,
+      "lng": 31.4149
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Badari district in Assiut governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Assiut district court list."
+  },
+  {
+    "uuid": "4297fd98-686d-4696-97d3-bb5ca526d936",
+    "name_english": "Sadfa District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Sadfa",
+    "address_english": "Courts Complex, Sadfa, Assiut",
+    "coordinates": {
+      "lat": 26.9284,
+      "lng": 31.4503
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Sadfa district in Assiut governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Assiut district court list."
+  },
+  {
+    "uuid": "1c88ddaa-fa4e-461e-a024-c3bb37625792",
+    "name_english": "Al-Wahat Al-Kharga District Court (sub-Assiut)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Assiut",
+    "district": "Al-Wahat Al-Kharga (sub-district under Assiut)",
+    "address_english": "Courts Complex, Al-Wahat Al-Kharga, Assiut",
+    "coordinates": {
+      "lat": 25.4447,
+      "lng": 30.5516
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court sub-district under Assiut Court of First Instance (different from New Valley governorate which has its own Court of First Instance). Per qadaya.net, 'الواحات الخارجة' appears in Assiut's list separately from the New Valley governorate courts.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Assiut district court list where الواحات الخارجة appears as an Assiut sub-district."
+  },
+  {
+    "uuid": "4cceb180-cf20-4985-8f8a-66e70a2c647f",
+    "name_english": "Abu Qurqas District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Abu Qurqas",
+    "address_english": "Courts Complex, Abu Qurqas, Minya",
+    "coordinates": {
+      "lat": 27.9315,
+      "lng": 30.8408
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abu Qurqas district in Minya governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Minya district court list."
+  },
+  {
+    "uuid": "7664ae6e-6fe5-46c7-9d85-3738a6a78e19",
+    "name_english": "Samalut District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Samalut",
+    "address_english": "Courts Complex, Samalut, Minya",
+    "coordinates": {
+      "lat": 28.3172,
+      "lng": 30.7117
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Samalut district in Minya governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Minya district court list."
+  },
+  {
+    "uuid": "1fac2bf3-9a52-47b8-b1e7-1ab468beb39d",
+    "name_english": "Beni Mazar District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Beni Mazar",
+    "address_english": "Courts Complex, Beni Mazar, Minya",
+    "coordinates": {
+      "lat": 28.5015,
+      "lng": 30.795
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Beni Mazar district in Minya governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Minya district court list."
+  },
+  {
+    "uuid": "0a5c2d63-f859-4727-9191-982c07109894",
+    "name_english": "Al-Adwa District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Al-Adwa",
+    "address_english": "Courts Complex, Al-Adwa, Minya",
+    "coordinates": {
+      "lat": 28.413,
+      "lng": 30.7701
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Adwa district in Minya governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Minya district court list."
+  },
+  {
+    "uuid": "5d8d142c-4979-47aa-a95b-6dccfe728958",
+    "name_english": "Dir Mawas District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Dir Mawas",
+    "address_english": "Al-Jala Street, Dir Mawas, Minya",
+    "coordinates": {
+      "lat": 27.9022,
+      "lng": 30.8659
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Dir Mawas district in Minya governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: شارع الجلاء بدير مواس."
+  },
+  {
+    "uuid": "6cc7c065-8559-45b5-bacb-a084b41f584b",
+    "name_english": "Mattai District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Minya",
+    "district": "Mattai",
+    "address_english": "Courts Complex, Mattai, Minya",
+    "coordinates": {
+      "lat": 28.4005,
+      "lng": 30.812
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Mattai district in Minya governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Minya district court list."
+  },
+  {
+    "uuid": "552cb002-7956-48cb-9d08-ddbfc8f29e10",
+    "name_english": "Samasta District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beni Suef",
+    "district": "Samasta",
+    "address_english": "Courts Complex, Samasta, Beni Suef",
+    "coordinates": {
+      "lat": 29.26,
+      "lng": 31.04
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Samasta district in Beni Suef governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit. Samasta is an administrative district of Beni Suef with a documented sub-prosecution."
+  },
+  {
+    "uuid": "c103b3e8-9fec-4889-bbab-3ef17035bacc",
+    "name_english": "Nasser District Court (Beni Suef)",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Beni Suef",
+    "district": "Nasser (Beni Suef)",
+    "address_english": "Courts Complex, Nasser city, Beni Suef",
+    "coordinates": {
+      "lat": 29.04,
+      "lng": 30.91
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Nasser district in Beni Suef governorate. Not to be confused with Nasser City (Cairo).",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "e5f3a50e-79f1-4724-b203-93cfbd9160b7",
+    "name_english": "Itsa District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Faiyum",
+    "district": "Itsa",
+    "address_english": "Courts Complex, Itsa, Faiyum",
+    "coordinates": {
+      "lat": 29.2393,
+      "lng": 30.7302
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Itsa district in Faiyum governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from verified Faiyum district court list."
+  },
+  {
+    "uuid": "adb5fe2b-d3a8-4f07-9a97-b41920a55851",
+    "name_english": "Ibshaway District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Faiyum",
+    "district": "Ibshaway",
+    "address_english": "Courts Complex, Ibshaway, Faiyum",
+    "coordinates": {
+      "lat": 29.36,
+      "lng": 30.6812
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Ibshaway district in Faiyum governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from verified Faiyum district court list."
+  },
+  {
+    "uuid": "57f4f9bb-1bbf-4c1e-9b1b-7a3f7fd4f20b",
+    "name_english": "Tamiya District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Faiyum",
+    "district": "Tamiya",
+    "address_english": "Courts Complex, Tamiya, Faiyum",
+    "coordinates": {
+      "lat": 29.4819,
+      "lng": 30.8229
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Tamiya district in Faiyum governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from verified Faiyum district court list."
+  },
+  {
+    "uuid": "f52d15e8-f64c-4667-8c64-1b47ce1e9110",
+    "name_english": "Kafr Saad District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Damietta",
+    "district": "Kafr Saad",
+    "address_english": "Courts Complex, Kafr Saad, Damietta",
+    "coordinates": {
+      "lat": 31.3601,
+      "lng": 31.7652
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Kafr Saad district in Damietta governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net Damietta district court list."
+  },
+  {
+    "uuid": "53146923-b659-4c6d-9b40-7487bdc710f9",
+    "name_english": "Ras al-Bar District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Damietta",
+    "district": "Ras al-Bar",
+    "address_english": "29 Ras al-Bar Street, Ras al-Bar, Damietta",
+    "coordinates": {
+      "lat": 31.475,
+      "lng": 31.8286
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Ras al-Bar coastal district in Damietta governorate.",
+    "confidence": "high",
+    "audit_notes": "Added from qadaya.net: 29 شارع رأس البر."
+  },
+  {
+    "uuid": "84fb2c23-6b4a-482f-808b-a8048fccb0dc",
+    "name_english": "Abu Tesht District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Abu Tesht",
+    "address_english": "Courts Complex, Abu Tesht, Qena",
+    "coordinates": {
+      "lat": 26.125,
+      "lng": 32.1673
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Abu Tesht district in Qena governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "85b5343d-ddb8-4da6-886c-e48262abc71d",
+    "name_english": "Farshout District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Farshout",
+    "address_english": "Courts Complex, Farshout, Qena",
+    "coordinates": {
+      "lat": 26.0349,
+      "lng": 32.1512
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Farshout district in Qena governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "4cfc631c-d56f-42fd-b1f1-3e9307044ee6",
+    "name_english": "Dishna District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Dishna",
+    "address_english": "Courts Complex, Dishna, Qena",
+    "coordinates": {
+      "lat": 26.1272,
+      "lng": 32.4587
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Dishna district in Qena governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "b28cf2a2-19dd-4465-9486-b2efdd0c49ca",
+    "name_english": "Qift District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Qift",
+    "address_english": "Courts Complex, Qift, Qena",
+    "coordinates": {
+      "lat": 25.9912,
+      "lng": 32.8226
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Qift district in Qena governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "6d946905-ffa2-46ad-8e12-f69cf188e7c8",
+    "name_english": "Qus District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Qus",
+    "address_english": "Courts Complex, Qus, Qena",
+    "coordinates": {
+      "lat": 25.919,
+      "lng": 32.7548
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Qus district in Qena governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "37688208-42ff-4f59-a462-27068a075227",
+    "name_english": "Al-Waqf District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Qena",
+    "district": "Al-Waqf",
+    "address_english": "Courts Complex, Al-Waqf, Qena",
+    "coordinates": {
+      "lat": 25.9792,
+      "lng": 32.659
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Waqf district in Qena governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "bbed492b-850e-4134-bb54-a73d9d27971e",
+    "name_english": "Armant District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Luxor",
+    "district": "Armant",
+    "address_english": "Courts Complex, Armant, Luxor",
+    "coordinates": {
+      "lat": 25.6164,
+      "lng": 32.531
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Armant district in Luxor governorate.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "e80820f3-a10c-4a66-8475-96a9e90a1972",
+    "name_english": "Aswan Center (Markaz) District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Aswan",
+    "district": "Aswan Center (Markaz)",
+    "address_english": "Courts Complex, Aswan Center (Markaz), Aswan",
+    "coordinates": {
+      "lat": 24.0889,
+      "lng": 32.8998
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Aswan Center sub-district (Markaz Aswan), distinct from Aswan Bander court.",
+    "confidence": "high",
+    "audit_notes": "Added during completeness audit."
+  },
+  {
+    "uuid": "ab011762-7b40-4ba6-9bd0-9431cd7015e0",
+    "name_english": "Amriya District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Amriya, Alexandria",
+    "address_english": "Nagi Mosque Street, Dekheila Square, Alexandria",
+    "coordinates": {
+      "lat": 31.13,
+      "lng": 29.82
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Amriya district (1st and 2nd sections) in western Alexandria. Now under West Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory: شارع مسجد ناجى – ميدان الدخيلة."
+  },
+  {
+    "uuid": "a7f4ccea-870f-4d39-a420-78c942d93d7d",
+    "name_english": "Karmuz District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Karmuz, Alexandria",
+    "address_english": "Mohamed Al-Kalza Street, Moharam Bek, Alexandria",
+    "coordinates": {
+      "lat": 31.1887,
+      "lng": 29.9173
+    },
+    "phone": "+20234955232",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Karmuz district in Alexandria. Now under West Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory with phone number: 03/4955232."
+  },
+  {
+    "uuid": "3f7d9a57-ee53-498d-b3f9-d72abb09aa03",
+    "name_english": "Mina al-Basal (Port Basil) District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Mina al-Basal, Alexandria",
+    "address_english": "Mohamed Al-Kalza Street, Moharam Bek, Alexandria",
+    "coordinates": {
+      "lat": 31.1887,
+      "lng": 29.9173
+    },
+    "phone": "+20234955232",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Mina al-Basal (Port Basil) district in Alexandria. Co-located with Karmuz District Court. Now under West Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory."
+  },
+  {
+    "uuid": "44dd789a-7e96-407e-9df0-36899e0aec5c",
+    "name_english": "Borg al-Arab District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Borg al-Arab",
+    "address_english": "Third Residential District, Borg al-Arab city, Alexandria",
+    "coordinates": {
+      "lat": 30.8977,
+      "lng": 29.6561
+    },
+    "phone": "+20234800654",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Borg al-Arab industrial city in western Alexandria. Now under West Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory with phone: 03/4800654."
+  },
+  {
+    "uuid": "cb6e51cd-5fc3-4cbc-8c81-2746151faf12",
+    "name_english": "Al-Attarin District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Al-Attarin, Alexandria",
+    "address_english": "Arabi Square, Al-Manshia, Alexandria",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Attarin district in eastern Alexandria. Under East Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory."
+  },
+  {
+    "uuid": "fbdb3c9e-3741-4f8e-a996-9ed4c1ba332d",
+    "name_english": "Al-Raml District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Al-Raml, Alexandria",
+    "address_english": "Arabi Square, Al-Manshia, Alexandria",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Raml district in eastern Alexandria. Under East Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory."
+  },
+  {
+    "uuid": "f700b37e-78ba-4333-b902-abbe83f7453f",
+    "name_english": "Bab Sharqi District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Bab Sharqi, Alexandria",
+    "address_english": "68 26th of July Street, Arabi Square, Alexandria",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": "+20234802207",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Bab Sharqi district in eastern Alexandria. Under East Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory with phone: 03/4802207."
+  },
+  {
+    "uuid": "44c02f93-231b-4ff8-8e9a-362b0f05ce6e",
+    "name_english": "Sidi Gaber District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Sidi Gaber, Alexandria",
+    "address_english": "Courts Complex, Al-Sayyid Mohamed Karim Street, Al-Manshia, Alexandria",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Sidi Gaber district in eastern Alexandria. Under East Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory."
+  },
+  {
+    "uuid": "15ce3c1b-e59e-420a-b2af-19a516105fe0",
+    "name_english": "Al-Labban District Court",
+    "court_type": "district_summary",
+    "jurisdiction_level": "summary",
+    "governorate": "Alexandria",
+    "district": "Al-Labban, Alexandria",
+    "address_english": "Al-Sayyid Karim Street, Arabi Square, Alexandria",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": "+20234800654",
+    "website": null,
+    "working_hours": "Sun–Thu 08:30–14:30",
+    "notable_notes": "Summary court for Al-Labban district in Alexandria. Now under West Alexandria Court of First Instance.",
+    "confidence": "high",
+    "audit_notes": "Added from Youm7 Alexandria courts directory with phone: 03/4800654."
+  }
+]

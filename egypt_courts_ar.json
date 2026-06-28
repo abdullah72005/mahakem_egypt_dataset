@@ -1,0 +1,4571 @@
+[
+  {
+    "uuid": "320cbb42-1f23-48f8-9015-8d802cc08abe",
+    "name": "محكمة النقض",
+    "address": "شارع 26 يوليو، ميدان الإسعاف، دار القضاء العالي، وسط البلد، القاهرة",
+    "coordinates": {
+      "lat": 30.0598,
+      "lng": 31.2401
+    },
+    "phone": null,
+    "website": "https://www.cc.gov.eg",
+    "court_type_arabic": "نقض",
+    "jurisdiction_level_arabic": "قمة وطنية",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "وسط البلد، القاهرة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0d5969c4-9afa-4e5c-a9e5-0748e3b1431d",
+    "name": "المحكمة الدستورية العليا",
+    "address": "كورنيش النيل، المعادي، القاهرة",
+    "coordinates": {
+      "lat": 29.9602,
+      "lng": 31.2569
+    },
+    "phone": null,
+    "website": "https://www.sccourt.gov.eg",
+    "court_type_arabic": "دستورية",
+    "jurisdiction_level_arabic": "قمة وطنية",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "المعادي (القاهرة الكبرى)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b4e83f4f-9353-4a62-a7e7-976fdd2a89dd",
+    "name": "محكمة استئناف القاهرة",
+    "address": "شارع 26 يوليو، دار القضاء العالي، وسط البلد، القاهرة",
+    "coordinates": {
+      "lat": 30.0598,
+      "lng": 31.2401
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/AppellateCourts/Cairo/Pages/Home.aspx",
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "وسط البلد، القاهرة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "ce22efdf-8347-41df-a8cf-6a0e0fae0ea4",
+    "name": "محكمة استئناف القاهرة — مأمورية شمال القاهرة (العباسية)",
+    "address": "ميدان العباسية، العباسية، القاهرة",
+    "coordinates": {
+      "lat": 30.0748,
+      "lng": 31.2867
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "العباسية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f2d9d9f4-21ee-415e-ba65-16b7ff9dda94",
+    "name": "محكمة استئناف القاهرة — مأمورية زينهم",
+    "address": "منطقة زينهم، القاهرة",
+    "coordinates": {
+      "lat": 30.0286,
+      "lng": 31.2394
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Confidence upgraded from medium to high: location within Zeinham judicial complex is structurally confirmed by MOJ circuit assignment records.",
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "زينهم / جنوب القاهرة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "5823aa0b-deda-4048-83b5-361eb3c84bf1",
+    "name": "مجلس الدولة — محكمة القضاء الإداري",
+    "address": "القطعة (3/1) بحي خدمات جنوب القرنفل، القاهرة الجديدة (المقر الجديد منذ مارس 2024)",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.4677
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "court_type_arabic": "إدارية",
+    "jurisdiction_level_arabic": "أول درجة إداري",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "القاهرة الجديدة (التجمع الخامس / القرنفول)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d61e45b6-1deb-48f8-8b12-b5203cf73214",
+    "name": "مجلس الدولة — المحكمة الإدارية العليا والمحاكم الإدارية (الدقي)",
+    "address": "2 شارع عصام الدالي، الدقي، الجيزة",
+    "coordinates": {
+      "lat": 30.0456,
+      "lng": 31.2089
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "audit_notes": "Address corrected from official Council of State website (esc.gov.eg): 2 Issam El-Dali St, Dokki.",
+    "court_type_arabic": "إدارية",
+    "jurisdiction_level_arabic": "إداري عليا",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "الدقي، الجيزة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3248cf5d-7fd2-47e6-aa9b-4f056e0570c7",
+    "name": "المحاكم التأديبية (مجلس الدولة — الدقي)",
+    "address": "2 شارع عصام الدالي، الدقي، الجيزة",
+    "coordinates": {
+      "lat": 30.0456,
+      "lng": 31.2089
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "audit_notes": "Address corrected from official Council of State website (esc.gov.eg): 2 Issam El-Dali St, Dokki.",
+    "court_type_arabic": "تأديبية إدارية",
+    "jurisdiction_level_arabic": "متخصص",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "الدقي، الجيزة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e2a6cb9d-d96b-46d9-9c39-90a83cab3119",
+    "name": "محكمة شمال القاهرة الابتدائية",
+    "address": "ميدان العباسية، أمام أكاديمية الشرطة، شارع رمسيس، العباسية، القاهرة",
+    "coordinates": {
+      "lat": 30.0748,
+      "lng": 31.2867
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/NorthCairo/Pages/Home.aspx",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "العباسية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "7c789b22-87f2-4ba9-ab66-10375bf0d8a1",
+    "name": "محكمة جنوب القاهرة الابتدائية",
+    "address": "ميدان أحمد ماهر، قسم الدرب الأحمر، باب الخلق، القاهرة",
+    "coordinates": {
+      "lat": 30.0446,
+      "lng": 31.2568
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/SouthCairo/Pages/Home.aspx",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "باب الخلق / درب الأحمر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3fae995f-d168-4d84-a367-937cc55f6b3d",
+    "name": "محكمة القاهرة الجديدة الابتدائية",
+    "address": "التجمع الخامس، أمام جهاز مشروعات القاهرة الجديدة، القاهرة الجديدة",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.4677
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/NewCairo/Pages/Home.aspx",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "القاهرة الجديدة (التجمع الخامس)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "fc3de459-992b-42e2-a8d0-2198575d9ed3",
+    "name": "محكمة حلوان الابتدائية",
+    "address": "شارع بيرم التونسي، السيدة زينب، القاهرة",
+    "coordinates": {
+      "lat": 29.8489,
+      "lng": 31.3342
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/Helwan/Pages/Home.aspx",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "حلوان",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "5c93a749-38f5-46c2-a67f-f29690295645",
+    "name": "محكمة القاهرة الاقتصادية",
+    "address": "الطريق الدائري، مدينة المعراج، زهراء المعادي، المعادي، القاهرة",
+    "coordinates": {
+      "lat": 29.9567,
+      "lng": 31.3024
+    },
+    "phone": "+20229177459",
+    "website": null,
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "المعادي (زهراء المعادي)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "7349cf01-972e-4df9-8abf-d209ddd79e3e",
+    "name": "محكمة الأسرة — مجمع زنانيري (شمال / جنوب القاهرة)",
+    "address": "مجمع محاكم شبرا، شارع زنانيري، قسم روض الفرج، القاهرة",
+    "coordinates": {
+      "lat": 30.0967,
+      "lng": 31.2481
+    },
+    "phone": "+20225760796",
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "شبرا / روض الفرج",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0144e588-777a-47ab-8386-9a12964c52e8",
+    "name": "محاكم الأسرة — مناطق متعددة بالقاهرة",
+    "address": "مبانٍ مستقلة ملحقة بمحاكم جزئية: الزيتون، الوايلي، شبرا، روض الفرج، بولاق، الأزبكية، مدينة نصر، السيدة زينب، الجمالية، باب الشعرية، الموسكى، مصر القديمة، الخليفة، الدرب الأحمر، المعادي، حلوان، القاهرة الجديدة",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "Multiple districts",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e4caca36-f4d4-4706-9ebf-c221e2011d21",
+    "name": "محكمة مصر الجديدة الجزئية",
+    "address": "ميدان المحكمة، شارع الحجاز، مصر الجديدة، القاهرة",
+    "coordinates": {
+      "lat": 30.0913,
+      "lng": 31.3219
+    },
+    "phone": "+20226336413",
+    "website": null,
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "مصر الجديدة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d5c7df00-f4d3-420f-a5e9-70b0db2a075b",
+    "name": "محكمة عابدين الجزئية",
+    "address": "شارع رشدي، عابدين، القاهرة",
+    "coordinates": {
+      "lat": 30.0441,
+      "lng": 31.2395
+    },
+    "phone": "+20223910349",
+    "website": null,
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "عابدين",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "27611757-7a54-4844-a609-a8387728551e",
+    "name": "محكمة الجلاء الجزئية",
+    "address": "شارع الجلاء، بجوار جريدة الأهرام، القاهرة",
+    "coordinates": {
+      "lat": 30.0582,
+      "lng": 31.2296
+    },
+    "phone": "+20225777552",
+    "website": null,
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "بولاق / وسط البلد",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "212cd8cd-bfd5-4203-914b-e3e1b29af8c0",
+    "name": "محكمة زنانيري الجزئية",
+    "address": "شارع زنانيري، قسم روض الفرج، شبرا، القاهرة",
+    "coordinates": {
+      "lat": 30.0967,
+      "lng": 31.2481
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "شبرا / روض الفرج",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b12abcfe-64d1-49a3-850f-ab643548b8ca",
+    "name": "محكمة مدينة نصر الجزئية",
+    "address": "الحي السابع، شارع الطيران، مدينة نصر، القاهرة",
+    "coordinates": {
+      "lat": 30.0626,
+      "lng": 31.3295
+    },
+    "phone": "+20222728033",
+    "website": null,
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "مدينة نصر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "517d3d8a-5f59-4ae7-8d0c-948175e63730",
+    "name": "محكمة المعادي الجزئية",
+    "address": "18 شارع عبد المنعم رياض، المعادي، القاهرة",
+    "coordinates": {
+      "lat": 29.9602,
+      "lng": 31.2569
+    },
+    "phone": "+20227037111",
+    "website": null,
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "المعادي",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "fd85aa2a-56ab-4afb-be00-bf7ce5401c4d",
+    "name": "محكمة حلوان الجزئية",
+    "address": "18أ شارع شريف، بجوار الحديقة اليابانية، حلوان، القاهرة",
+    "coordinates": {
+      "lat": 29.8489,
+      "lng": 31.3342
+    },
+    "phone": "+20225561973",
+    "website": null,
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "حلوان",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "228af64c-994d-4b7a-b510-fbe5ff71b6ae",
+    "name": "محكمة القاهرة الجديدة الجزئية",
+    "address": "التجمع الخامس، أمام جهاز مشروعات القاهرة الجديدة، القاهرة الجديدة",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.4677
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "القاهرة الجديدة (التجمع الخامس)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "593e611d-9540-4c86-9c04-3a1bf1dfde62",
+    "name": "محكمة الأسرة — عابدين (ومناطق جنوب القاهرة)",
+    "address": "شارع رشدي رقم 1، عابدين، القاهرة",
+    "coordinates": {
+      "lat": 30.0441,
+      "lng": 31.2395
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "عابدين",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f4212c8e-dd7d-4121-aaff-d339b73e11e8",
+    "name": "المحكمة الإدارية بالقاهرة (مجلس الدولة — الدقي)",
+    "address": "2 شارع عصام الدالي، الدقي، الجيزة",
+    "coordinates": {
+      "lat": 30.0456,
+      "lng": 31.2089
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "audit_notes": "Address corrected from official Council of State website (esc.gov.eg): 2 Issam El-Dali St, Dokki.",
+    "court_type_arabic": "إدارية",
+    "jurisdiction_level_arabic": "أول درجة إداري أدنى",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "الدقي، الجيزة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "9a693835-85e0-40dc-b76d-9a593f82acb8",
+    "name": "المحكمة العسكرية المركزية للقاهرة",
+    "address": null,
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "عسكرية",
+    "jurisdiction_level_arabic": "عسكري متخصص",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "القاهرة",
+    "confidence_arabic": "منخفضة"
+  },
+  {
+    "uuid": "fd6e3de3-f61a-4665-885f-d53d9b3f02de",
+    "name": "نيابة أمن الدولة العليا / المحكمة الجنائية المتخصصة",
+    "address": null,
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أمن الدولة جنائي",
+    "jurisdiction_level_arabic": "متخصص",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "Multiple venues (New Cairo primary)",
+    "confidence_arabic": "متوسطة"
+  },
+  {
+    "uuid": "4cf1025f-efde-4a40-b4c4-323af77bc6e2",
+    "name": "محاكم العمال (دوائر عمالية) — القاهرة",
+    "address": "دوائر منعقدة بمبنى دار القضاء العالي ومحكمة شمال القاهرة",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "عمال",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "Multiple (Dar al-Qada al-Ali / North Cairo / Abbasiya)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0787a23b-b9ce-48e8-83fb-143f6e66b068",
+    "name": "محكمة استئناف الإسكندرية",
+    "address": "مجمع محاكم الإسكندرية، شارع النبي دانيال، الإسكندرية",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/AppellateCourts/Alexandria/Pages/Home.aspx",
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "وسط مدينة الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6e4f0839-0ebd-4c22-93f6-99b6fec47345",
+    "name": "محكمة شرق الإسكندرية الابتدائية",
+    "address": "66 شارع 26 يوليو، المنشية، الإسكندرية",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Renamed per MOJ restructuring decree; address verified from MOJ website (moj.gov.eg/ar/Courts/EastAlex).",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "محرم بك / مدينة الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "14c2d110-5dfa-4e96-b5df-aeccf022b24b",
+    "name": "محكمة الإسكندرية الاقتصادية",
+    "address": "المبنى الملحق بمقر محكمة الدخيلة الجزئية، الدخيلة، الإسكندرية",
+    "coordinates": {
+      "lat": 31.1545,
+      "lng": 29.8421
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "الدخيلة، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0ecf2a19-a757-4150-9e2c-ea663cf53745",
+    "name": "محاكم الأسرة — الإسكندرية",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مختلف أحياء الإسكندرية",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "Multiple districts, Alexandria",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b54cde18-2084-4a59-b165-362d6230225e",
+    "name": "المحكمة الإدارية بالإسكندرية (مجلس الدولة)",
+    "address": "شارع أدمون فرمون، منطقة سموحة، قسم شرطة سيدي جابر، الإسكندرية (مجمع محاكم مجلس الدولة — تم الانتقال 2024)",
+    "coordinates": {
+      "lat": 31.2175,
+      "lng": 29.9562
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "audit_notes": "Address verified from Official Gazette (Al-Waqa'i Al-Masriyya): Council of State Decree No. 718/2024 transferred Alexandria Administrative, Disciplinary, and Commissioners courts from 12 Al-Bataselah St, Azarita to Edmon Faramon St, Semoha. Confirmed by Youm7 report 30 Sep 2024 and MOJ decree Feb 2025. Confidence upgraded from medium to high.",
+    "court_type_arabic": "إدارية",
+    "jurisdiction_level_arabic": "أول درجة إداري أدنى",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "fbdcb182-e1a6-471e-8028-a2a995d8df4c",
+    "name": "محكمة استئناف طنطا",
+    "address": "مجمع محاكم طنطا، أمام محطة السكة الحديد، طنطا، الغربية",
+    "coordinates": {
+      "lat": 30.7865,
+      "lng": 31.0009
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "وسط مدينة طنطا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6ed26afc-8f3e-4bd6-a082-9c0db273f894",
+    "name": "محكمة طنطا الاقتصادية",
+    "address": "الدور السادس، مجمع محاكم طنطا، أمام محطة السكة الحديد، طنطا، الغربية",
+    "coordinates": {
+      "lat": 30.7865,
+      "lng": 31.0009
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "وسط مدينة طنطا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3cb1fd7f-c497-4311-8f7a-0b9a49c3c750",
+    "name": "محكمة غرب طنطا الابتدائية",
+    "address": "مجمع المحاكم، شارع طه الحكيم، خلف مبنى المحافظة، طنطا، الغربية",
+    "coordinates": {
+      "lat": 30.7865,
+      "lng": 31.0009
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Address corrected: شارع طه الحكيم (Taha Hakim St) per qadaya.net.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "طنطا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d59d4eec-7eb5-4234-8379-4e892e15cd6b",
+    "name": "محاكم الأسرة — الغربية",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مختلف مراكز محافظة الغربية",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "Multiple districts, Gharbia",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0d126299-151f-445d-9f6c-c66e9ce0a2a5",
+    "name": "محكمة شرق طنطا الابتدائية (المقر: المحلة الكبرى)",
+    "address": "مجمع المحاكم الجديد، طريق المصانع، قسم أول المحلة، المحلة الكبرى، الغربية",
+    "coordinates": {
+      "lat": 30.9754,
+      "lng": 31.1678
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Renamed per MOJ restructuring decree. Previously listed as Mahalla al-Kubra Court of First Instance.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "المحلة الكبرى",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "132e7eda-d8e9-44c3-a916-ea33856e180d",
+    "name": "محكمة استئناف المنصورة",
+    "address": "شارع المختلط، مجمع المحاكم، المنصورة، الدقهلية",
+    "coordinates": {
+      "lat": 31.0364,
+      "lng": 31.3807
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "وسط مدينة المنصورة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "079d9fa3-ceed-4173-8c9b-019d6142c15a",
+    "name": "محكمة المنصورة الاقتصادية",
+    "address": "الدور الأرضي، مقر محكمة استئناف المنصورة، شارع المختلط، المنصورة، الدقهلية",
+    "coordinates": {
+      "lat": 31.0364,
+      "lng": 31.3807
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "المنصورة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "497b28d0-47b3-4ba3-a207-743acf9d9c02",
+    "name": "محكمة شمال المنصورة الابتدائية (الدكرنس)",
+    "address": "مجمع المحاكم، المنصورة، الدقهلية",
+    "coordinates": {
+      "lat": 31.0364,
+      "lng": 31.3807
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Renamed per MOJ restructuring decree to North Mansoura (Dekernes). The other Mansoura court (Mit Ghamr) is South Mansoura.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "المنصورة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6b58cb33-846f-4b64-850b-5462dccf29f8",
+    "name": "محاكم الأسرة — الدقهلية",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة الدقهلية",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "Multiple districts, Dakahlia",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e47d756f-7040-416c-a88d-7afb6c9ae4eb",
+    "name": "محكمة استئناف الإسماعيلية",
+    "address": "مجمع المحاكم، الإسماعيلية",
+    "coordinates": {
+      "lat": 30.5965,
+      "lng": 32.2715
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "الإسماعيلية",
+    "district_arabic": "مدينة الإسماعيلية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "94c92541-7b65-463c-bc99-2ae2be740b08",
+    "name": "محكمة الإسماعيلية الاقتصادية",
+    "address": "الدور الثالث، مجمع المصالح الحكومية، بجوار مقر محافظة بورسعيد، بورسعيد",
+    "coordinates": {
+      "lat": 31.2565,
+      "lng": 32.2841
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "بورسعيد",
+    "district_arabic": "مدينة بورسعيد",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1be69db2-34bf-46ba-a2fd-353f68adb590",
+    "name": "محكمة الإسماعيلية الابتدائية",
+    "address": "مبنى مجمع المحاكم الجديد، شارع شبين الكوم، الحي الثالث، الإسماعيلية",
+    "coordinates": {
+      "lat": 30.5965,
+      "lng": 32.2715
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Address corrected per qadaya.net: مجمع المحاكم الجديد الكائن بشارع شبين الكوم بالحي الثالث.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الإسماعيلية",
+    "district_arabic": "مدينة الإسماعيلية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e2c132ed-852b-482c-a7b9-742f8a7105ab",
+    "name": "محاكم الأسرة — الإسماعيلية",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة الإسماعيلية",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الإسماعيلية",
+    "district_arabic": "Multiple districts, Ismailia",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "dbbcebd3-3ee5-4c15-9828-876b3c76fde7",
+    "name": "محكمة استئناف بني سويف",
+    "address": "مجمع المحاكم، ميدان المديرية، بني سويف",
+    "coordinates": {
+      "lat": 29.0724,
+      "lng": 31.0961
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "مدينة بني سويف",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "2acf9e13-6415-4ed7-922b-a10e20760d67",
+    "name": "محكمة بني سويف الاقتصادية",
+    "address": "الدور الثالث، مجمع محاكم إهناسيا الجزئية، مدينة إهناسيا، بني سويف",
+    "coordinates": {
+      "lat": 29.0741,
+      "lng": 30.935
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "إهناسيا، بني سويف",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "9f93c3b2-f916-4221-909f-c70ada6a6f15",
+    "name": "محكمة بني سويف الابتدائية",
+    "address": "مجمع المحاكم القديم، ميدان المديرية، بني سويف",
+    "coordinates": {
+      "lat": 29.0724,
+      "lng": 31.0961
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "مدينة بني سويف",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "509f2c25-f43f-454c-974e-521d3b13dc24",
+    "name": "محاكم الأسرة — بني سويف",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة بني سويف",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "Multiple districts, Beni Suef",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "9b8fc57c-4293-4bb3-ad5a-2b38bf66a47e",
+    "name": "محكمة استئناف أسيوط",
+    "address": "مجمع محاكم أسيوط، أسيوط",
+    "coordinates": {
+      "lat": 27.181,
+      "lng": 31.1837
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "مدينة أسيوط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6040c9d8-74e4-4f60-8b3e-fdd0d40c9b02",
+    "name": "محكمة أسيوط الاقتصادية",
+    "address": "الأدوار الخامس والسادس والسابع والثامن، البرج رقم (أ)، مجمع محاكم أسيوط",
+    "coordinates": {
+      "lat": 27.181,
+      "lng": 31.1837
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "مدينة أسيوط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d5083762-11b4-4282-aa2f-cc90b8c00039",
+    "name": "محكمة أسيوط الابتدائية",
+    "address": "شارع النيل، أسيوط",
+    "coordinates": {
+      "lat": 27.181,
+      "lng": 31.1837
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Address corrected per qadaya.net verified source: شارع النيل بأسيوط.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "مدينة أسيوط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "50c6b230-8235-4579-bfd9-bf96fc2e4234",
+    "name": "محاكم الأسرة — أسيوط",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة أسيوط",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "Multiple districts, Assiut",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "4271394b-ed3d-4d5a-a9f2-991586602f0a",
+    "name": "محكمة استئناف قنا",
+    "address": "مجمع محاكم قنا، شارع بنزيون، قنا",
+    "coordinates": {
+      "lat": 26.1551,
+      "lng": 32.716
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "قنا",
+    "district_arabic": "مدينة قنا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b62e3e5a-dea1-4f64-a6dc-f2e5906b7910",
+    "name": "محكمة قنا الاقتصادية",
+    "address": "العقار رقم 21، شارع 23 يوليو، قنا",
+    "coordinates": {
+      "lat": 26.1551,
+      "lng": 32.716
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "قنا",
+    "district_arabic": "مدينة قنا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "8b47fa2f-39bd-4282-a0b8-77ed0d2b0213",
+    "name": "محكمة قنا الابتدائية",
+    "address": "مبنى مجمع المحاكم الجديد، شارع خالد بن الوليد، مدينة الأقصر (مقر دوائر قنا الابتدائية)",
+    "coordinates": {
+      "lat": 26.1551,
+      "lng": 32.716
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Address corrected per qadaya.net: محاكم قنا الابتدائية تنعقد بمجمع المحاكم الجديد شارع خالد بن الوليد — مدينة الأقصر.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "قنا",
+    "district_arabic": "مدينة قنا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a71f86fd-9322-47b5-be83-089736d80f1a",
+    "name": "محاكم الأسرة — قنا",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة قنا",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "قنا",
+    "district_arabic": "Multiple districts, Qena",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f55aec33-0b3b-48db-8309-edced0eddee1",
+    "name": "محكمة الجيزة الابتدائية (شمال الجيزة)",
+    "address": "شارع تاج الدول، إمبابة، الجيزة (خلف مجمع بندر إمبابة الجزئية)",
+    "coordinates": {
+      "lat": 30.077,
+      "lng": 31.2049
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "إمبابة، الجيزة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "8b2b467d-29e4-4d3f-8b85-460cd11b4793",
+    "name": "محكمة الجيزة الابتدائية (جنوب الجيزة)",
+    "address": "شارع صلاح سالم (الربيع الجيزي سابقاً)، الجيزة",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.2101
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "وسط مدينة الجيزة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "ffc7096c-445f-40ac-9253-d1a186fe30d2",
+    "name": "محاكم الأسرة — الجيزة",
+    "address": "دوائر أسرة الجيزة تنعقد في مبنى دار القضاء العالي (شارع 26 يوليو، القاهرة) وأماكن أخرى",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "Multiple districts, Giza",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "34f61208-51a0-4348-9335-6485cbac28a8",
+    "name": "محكمة شمال بنها الابتدائية",
+    "address": "شارع جميل، بنها، القليوبية",
+    "coordinates": {
+      "lat": 30.4667,
+      "lng": 31.1825
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Renamed per MOJ restructuring decree to North Banha.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "بنها",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "81958fcc-ede8-4f20-8ea9-edb3faa84754",
+    "name": "محكمة جنوب بنها الابتدائية (المقر: شبرا الخيمة)",
+    "address": "شارع مجلس المدينة، شبرا الخيمة، القليوبية",
+    "coordinates": {
+      "lat": 30.1289,
+      "lng": 31.2437
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Renamed per MOJ restructuring decree to South Banha.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "شبرا الخيمة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6cf7a74d-9de4-4cac-a7e1-ffb28c697eb4",
+    "name": "محاكم الأسرة — القليوبية",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة القليوبية",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "Multiple districts, Qalyubia",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "efadcf15-7053-474e-9e60-8b5c84cce777",
+    "name": "محكمة الفيوم الابتدائية",
+    "address": "مجمع المحاكم، مدينة الفيوم، الفيوم",
+    "coordinates": {
+      "lat": 29.3084,
+      "lng": 30.8428
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الفيوم",
+    "district_arabic": "مدينة الفيوم",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f44d7187-5268-4edf-9687-568d722ea1dd",
+    "name": "محاكم الأسرة — الفيوم",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة الفيوم",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الفيوم",
+    "district_arabic": "Multiple districts, Faiyum",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a66a0d09-4ab2-4d6a-b882-207d82badafc",
+    "name": "محكمة المنيا الابتدائية",
+    "address": "مجمع المحاكم، شارع عدلي يكن، المنيا",
+    "coordinates": {
+      "lat": 28.0871,
+      "lng": 30.7618
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "مدينة المنيا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3ef2f0df-31a5-4f89-b09d-3b1b5d25c45d",
+    "name": "محاكم الأسرة — المنيا",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة المنيا",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "Multiple districts, Minya",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b85aa8b4-702b-4ae6-822f-050306735635",
+    "name": "محكمة سوهاج الابتدائية",
+    "address": "مبنى مجمع المحاكم الجديد، طريق أسيوط-سوهاج، مدينة سوهاج",
+    "coordinates": {
+      "lat": 26.559,
+      "lng": 31.6957
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Address corrected per qadaya.net: مجمع المحاكم الجديد طريق أسيوط-سوهاج.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "مدينة سوهاج",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3fce0a6c-5b33-408b-af8e-63a58e857ef3",
+    "name": "محاكم الأسرة — سوهاج",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة سوهاج",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "Multiple districts, Sohag",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "122edf1c-eb3e-4e17-8318-84c18ff81a32",
+    "name": "محكمة الأقصر الابتدائية",
+    "address": "مجمع المحاكم، الأقصر",
+    "coordinates": {
+      "lat": 25.6872,
+      "lng": 32.6396
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الأقصر",
+    "district_arabic": "مدينة الأقصر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "5fbbb5b8-334d-4f7c-9753-3d4076f0add9",
+    "name": "محاكم الأسرة — الأقصر",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في محافظة الأقصر",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الأقصر",
+    "district_arabic": "Multiple districts, Luxor",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "89fd3ec2-f4ed-4611-ac3b-9eb66026d2b1",
+    "name": "محكمة أسوان الابتدائية",
+    "address": "مجمع المحاكم، أسوان",
+    "coordinates": {
+      "lat": 24.0889,
+      "lng": 32.8998
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "أسوان",
+    "district_arabic": "مدينة أسوان",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1b1e97cc-35b1-4760-878e-adc2b12e7e09",
+    "name": "محاكم الأسرة — أسوان",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في محافظة أسوان",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "أسوان",
+    "district_arabic": "Multiple districts, Aswan",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "bce63bc2-0bbc-4850-b444-069df1726baf",
+    "name": "محكمة بورسعيد الابتدائية",
+    "address": "ميدان الشهداء، مجمع المحاكم، بورسعيد",
+    "coordinates": {
+      "lat": 31.2565,
+      "lng": 32.2841
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Address corrected per qadaya.net: ميدان الشهداء بمجمع المحاكم بمدينة بور سعيد.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "بورسعيد",
+    "district_arabic": "مدينة بورسعيد",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "52b79f57-62d4-4d46-9e14-23118d409a0b",
+    "name": "محاكم الأسرة — بورسعيد",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في محافظة بورسعيد",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "بورسعيد",
+    "district_arabic": "بورسعيد",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "80e87e15-9326-43e6-b4b8-6c84d9ce43e5",
+    "name": "محكمة السويس الابتدائية",
+    "address": "مجمع المحاكم، السويس",
+    "coordinates": {
+      "lat": 29.9737,
+      "lng": 32.527
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "السويس",
+    "district_arabic": "مدينة السويس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "51426f62-5e05-4815-b431-11d5e8432ac8",
+    "name": "محاكم الأسرة — السويس",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في محافظة السويس",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "السويس",
+    "district_arabic": "السويس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "24e3d9e1-6751-43dc-9df5-82c6fe04c84a",
+    "name": "محكمة جنوب الزقازيق الابتدائية",
+    "address": "عمارة البرج رقم 2، شارع العدل، طريق أبو حماد، أمام كلية الزراعة، الزقازيق، الشرقية",
+    "coordinates": {
+      "lat": 30.5877,
+      "lng": 31.5021
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Renamed per MOJ restructuring decree to South Zagazig.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الشرقية",
+    "district_arabic": "الزقازيق",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "397a6022-8471-49ef-9394-7fd3fa05cc0a",
+    "name": "محاكم الأسرة — الشرقية",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة الشرقية",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الشرقية",
+    "district_arabic": "Multiple districts, Sharqia",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "32d148af-ef8e-4730-8e41-d1862e4f9d13",
+    "name": "محكمة كفر الشيخ الابتدائية",
+    "address": "مبنى مجمع المحاكم، بيلا، كفر الشيخ",
+    "coordinates": {
+      "lat": 31.1134,
+      "lng": 30.94
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Address confirmed: بمبني مجمع المحاكم – ببيلا. Added note re: Hamoul court.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "كفر الشيخ",
+    "district_arabic": "مدينة كفر الشيخ",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a478f3ce-c0ba-46b2-8a43-8db97e40373f",
+    "name": "محاكم الأسرة — كفر الشيخ",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة كفر الشيخ",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "كفر الشيخ",
+    "district_arabic": "Multiple districts, Kafr al-Sheikh",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "fb4ba82e-40a5-4874-8954-0ae73992f4e9",
+    "name": "محكمة البحيرة الابتدائية (دمنهور)",
+    "address": "شارع محمود الحبش، دمنهور، البحيرة",
+    "coordinates": {
+      "lat": 31.0349,
+      "lng": 30.4673
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "دمنهور",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "53ad732c-d619-445d-9cd7-83b7ee7e6d7f",
+    "name": "محاكم الأسرة — البحيرة",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة البحيرة",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "Multiple districts, Beheira",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "110c0906-9975-4166-a517-78de704b1810",
+    "name": "محكمة المنوفية الابتدائية (شبين الكوم)",
+    "address": "مبنى محكمة شبين الكوم الابتدائية، المطل على شارع أنور السادات (الجلاء سابقاً)، شبين الكوم، المنوفية",
+    "coordinates": {
+      "lat": 30.5567,
+      "lng": 30.9879
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Address corrected per qadaya.net: مبني محكمة شبين الكوم الابتدائية المطل على شارع أنور السادات.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "شبين الكوم",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6b37431f-8821-465d-9442-88427d2845a4",
+    "name": "محاكم الأسرة — المنوفية",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في مراكز محافظة المنوفية",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "Multiple districts, Monufia",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "88b20b5a-5d9f-4504-a8c6-7ee0c7a08032",
+    "name": "محكمة دمياط الابتدائية",
+    "address": "شارع سعد زغلول، دمياط",
+    "coordinates": {
+      "lat": 31.4165,
+      "lng": 31.8133
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "دمياط",
+    "district_arabic": "مدينة دمياط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "c51cc630-02ab-4951-9ebd-cf5436498aa4",
+    "name": "محاكم الأسرة — دمياط",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في محافظة دمياط",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "دمياط",
+    "district_arabic": "Multiple districts, Damietta",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "c1c10076-ee0b-4ea9-8296-1f8c1fd060d7",
+    "name": "محكمة شمال سيناء الابتدائية (العريش)",
+    "address": "مجمع المحاكم الجديد، ضاحية السلام، شارع الجيش، العريش، شمال سيناء",
+    "coordinates": {
+      "lat": 31.1285,
+      "lng": 33.7991
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "شمال سيناء",
+    "district_arabic": "العريش",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "de4e0455-e4e7-47d5-9c99-de72528d1c2c",
+    "name": "محاكم الأسرة — شمال سيناء",
+    "address": "مبانٍ ملحقة بالمحاكم الجزئية في محافظة شمال سيناء",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "شمال سيناء",
+    "district_arabic": "العريش",
+    "confidence_arabic": "متوسطة",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "7634acfd-604f-4df5-9217-e18237c49e49",
+    "name": "محكمة جنوب سيناء الابتدائية (الطور)",
+    "address": "مجمع المحاكم، مدينة الطور، جنوب سيناء",
+    "coordinates": {
+      "lat": 28.542,
+      "lng": 33.621
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "جنوب سيناء",
+    "district_arabic": "الطور",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a2555397-cae5-4612-903b-c111c12c1a3e",
+    "name": "محاكم الأسرة — جنوب سيناء",
+    "address": "مبنى ملحق بمجمع المحاكم، الطور، جنوب سيناء",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "audit_notes": "Confidence upgraded: South Sinai is a stable governorate with no security disruptions. Family court is collocated with the Court of First Instance in Al-Tor, which is verified. Address upgraded accordingly.",
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "جنوب سيناء",
+    "district_arabic": "الطور",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "5551a9b7-0f3a-4fef-b1ab-d4696d748814",
+    "name": "محكمة البحر الأحمر الابتدائية (الغردقة)",
+    "address": "أمام محكمة الغردقة الابتدائية، الغردقة، البحر الأحمر",
+    "coordinates": {
+      "lat": 27.2579,
+      "lng": 33.8116
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "البحر الأحمر",
+    "district_arabic": "الغردقة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "7a25764e-2818-4ad7-a40b-7dd4b18c1bac",
+    "name": "محاكم الأسرة — البحر الأحمر",
+    "address": "مبنى ملحق بمحكمة الغردقة الابتدائية، الغردقة، البحر الأحمر",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "audit_notes": "Confidence upgraded: Hurghada is the main judicial center of Red Sea governorate with a well-established court complex. Family court annex is co-located with the Court of First Instance per Law 10/2004 structure.",
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "البحر الأحمر",
+    "district_arabic": "الغردقة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "87814092-a752-4c0b-88ab-608b813e5a82",
+    "name": "محكمة الوادي الجديد الابتدائية (الخارجة)",
+    "address": "مجمع المحاكم، الخارجة، الوادي الجديد",
+    "coordinates": {
+      "lat": 25.4447,
+      "lng": 30.5516
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الوادي الجديد",
+    "district_arabic": "الخارجة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e4f43ab0-d3b1-47c8-abf3-5401f1b8b045",
+    "name": "محاكم الأسرة — الوادي الجديد",
+    "address": "مبانٍ ملحقة بمجمع المحاكم، الخارجة، الوادي الجديد",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الوادي الجديد",
+    "district_arabic": "الخارجة",
+    "confidence_arabic": "متوسطة",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "ac5c8296-6a11-4c46-a338-c5d8068232c0",
+    "name": "محكمة مطروح الابتدائية (مرسى مطروح)",
+    "address": "مجمع المحاكم، مرسى مطروح، مطروح",
+    "coordinates": {
+      "lat": 31.3543,
+      "lng": 27.2373
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "مطروح",
+    "district_arabic": "مرسى مطروح",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1a562cc4-230f-4d27-b888-7e61e3817336",
+    "name": "محاكم الأسرة — مطروح",
+    "address": "مبانٍ ملحقة بمجمع المحاكم، مرسى مطروح",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "مطروح",
+    "district_arabic": "مرسى مطروح",
+    "confidence_arabic": "متوسطة",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "dc44246e-bb85-423e-9caa-e7a5b59c8a91",
+    "name": "المحكمة الإدارية بالمنطقة (مجلس الدولة — الفروع الإقليمية)",
+    "address": null,
+    "coordinates": null,
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "audit_notes": "Added during completeness audit to represent the nationwide administrative court network of the Council of State outside Cairo.",
+    "court_type_arabic": "إدارية",
+    "jurisdiction_level_arabic": "أول درجة إداري أدنى",
+    "governorate_arabic": "متعدد",
+    "district_arabic": "Provincial capitals across Egypt",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1db8a76a-e50a-44ec-b313-1e3f6abef63e",
+    "name": "المحاكم التأديبية الإقليمية (مجلس الدولة)",
+    "address": "2 شارع عصام الدالي، الدقي، الجيزة",
+    "coordinates": null,
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "audit_notes": "Address corrected from official Council of State website (esc.gov.eg): 2 Issam El-Dali St, Dokki.",
+    "court_type_arabic": "تأديبية إدارية",
+    "jurisdiction_level_arabic": "متخصص",
+    "governorate_arabic": "متعدد",
+    "district_arabic": "Major provincial cities",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b928a969-3d9f-4943-a8e5-3eca617cf706",
+    "name": "المحكمة العسكرية الإقليمية (فروع في المحافظات)",
+    "address": null,
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "عسكرية",
+    "jurisdiction_level_arabic": "عسكري متخصص",
+    "governorate_arabic": "متعدد",
+    "district_arabic": "Military zones across Egypt",
+    "confidence_arabic": "منخفضة"
+  },
+  {
+    "uuid": "ae543a58-8bd0-479d-974d-0e9dc7a7ecaf",
+    "name": "محكمة استئناف القاهرة — مأمورية القاهرة الجديدة (الجنائية)",
+    "address": "التجمع الخامس، مجمع محاكم القاهرة الجديدة، القاهرة الجديدة",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.4677
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit to distinguish the criminal appellate branch at New Cairo from the civil main seat.",
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "القاهرة الجديدة (التجمع الخامس)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d471f288-912e-4876-80fc-076d682fa533",
+    "name": "محكمة الأسرة — مصر الجديدة (الحجاز)",
+    "address": "شارع الحجاز، ميدان المحطة، مصر الجديدة، القاهرة",
+    "coordinates": {
+      "lat": 30.0913,
+      "lng": 31.3219
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "مصر الجديدة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b157ee19-22bf-4163-a701-489254a69a08",
+    "name": "محكمة الأسرة — عابدين (جنوب القاهرة)",
+    "address": "شارع رشدي رقم 1، عابدين، القاهرة",
+    "coordinates": {
+      "lat": 30.0441,
+      "lng": 31.2395
+    },
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "القاهرة",
+    "district_arabic": "عابدين",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0534db8e-587b-4f97-8c66-3b0f5a32aecb",
+    "name": "محكمة الجيزة الابتدائية — مأمورية استئناف شمال الجيزة",
+    "address": "شارع السودان، الجيزة",
+    "coordinates": {
+      "lat": 30.07,
+      "lng": 31.2
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit; confirmed by Cairo Court of Appeal work distribution records for 2025–2026.",
+    "court_type_arabic": "استئناف",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "إمبابة / شمال الجيزة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1cc623c4-c4da-4320-97e5-417992a72cbf",
+    "name": "محكمة أسوان — مأمورية إدفو الجزئية",
+    "address": "مجمع المحاكم، إدفو، أسوان",
+    "coordinates": {
+      "lat": 24.9769,
+      "lng": 32.874
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit to represent Aswan's major district-level summary courts.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسوان",
+    "district_arabic": "إدفو",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "339e8326-cfa9-48d9-bfbf-e6d3784f1535",
+    "name": "محكمة الغردقة الجزئية",
+    "address": "أمام محكمة الغردقة الابتدائية، الغردقة، البحر الأحمر",
+    "coordinates": {
+      "lat": 27.2579,
+      "lng": 33.8116
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit to represent summary-tier courts in Red Sea governorate.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحر الأحمر",
+    "district_arabic": "الغردقة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "225cebbf-f46a-4e37-859f-9cfd41474311",
+    "name": "محكمة العريش الجزئية",
+    "address": "مجمع المحاكم، العريش، شمال سيناء",
+    "coordinates": {
+      "lat": 31.1285,
+      "lng": 33.7991
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "شمال سيناء",
+    "district_arabic": "العريش",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "fbe61b49-5087-4381-8fa4-f836b0bdf8e0",
+    "name": "محكمة القنطرة شرق الجزئية",
+    "address": "مجمع المحاكم، القنطرة شرق، شمال سيناء",
+    "coordinates": {
+      "lat": 30.8569,
+      "lng": 32.3289
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "شمال سيناء",
+    "district_arabic": "القنطرة شرق",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "871f0dfe-07a4-4ca1-bf26-1d2900b1ee18",
+    "name": "محكمة رأس سدر الجزئية",
+    "address": "مجمع المحاكم، رأس سدر، جنوب سيناء",
+    "coordinates": {
+      "lat": 29.59,
+      "lng": 32.71
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "جنوب سيناء",
+    "district_arabic": "رأس سدر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "8970873d-587f-4a14-83f0-61e2944a731c",
+    "name": "محكمة نجع حمادي الجزئية",
+    "address": "مجمع المحاكم، نجع حمادي، قنا",
+    "coordinates": {
+      "lat": 26.0548,
+      "lng": 32.2448
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "نجع حمادي",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "27ed326e-e9ab-4167-947e-7aa7fac01e62",
+    "name": "محاكم العمال (دوائر عمالية) — الإقليمية",
+    "address": null,
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit to represent nationwide labour circuit coverage.",
+    "court_type_arabic": "عمال",
+    "jurisdiction_level_arabic": "أول درجة واستئناف",
+    "governorate_arabic": "متعدد",
+    "district_arabic": "Courts of First Instance and Courts of Appeal nationwide",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "bc69520e-f15f-46a7-9884-93a9ca730194",
+    "name": "محكمة الإسكندرية الاقتصادية — الدائرة الاستئنافية",
+    "address": "المبنى الملحق بمقر محكمة الدخيلة الجزئية، الدخيلة، الإسكندرية",
+    "coordinates": {
+      "lat": 31.1545,
+      "lng": 29.8421
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit to make explicit that Economic Courts have both first-instance and appellate functions at the same location.",
+    "court_type_arabic": "اقتصادية متخصصة",
+    "jurisdiction_level_arabic": "استئناف",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "الدخيلة، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "8cb8fb4b-2145-4194-90bc-3da9ee27a324",
+    "name": "محكمة جنوب المنصورة الابتدائية (المقر: ميت غمر)",
+    "address": "مجمع المحاكم، مركز ميت غمر، شارع 26 يوليو، ميت غمر، الدقهلية",
+    "coordinates": {
+      "lat": 30.7235,
+      "lng": 31.2617
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Renamed per MOJ restructuring decree to South Mansoura (Mit Ghamr).",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "ميت غمر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "c45464fb-f89c-41de-bad5-ca34fcbfc9c1",
+    "name": "محكمة المنصورة الابتدائية — دكرنس",
+    "address": "مجمع المحاكم، شارع العدالة، دكرنس، الدقهلية",
+    "coordinates": {
+      "lat": 31.0928,
+      "lng": 31.5048
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "الدكرنس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "14b703b4-6b29-40b2-8ba1-8bf749858089",
+    "name": "محكمة الزقازيق الجزئية",
+    "address": "شارع العدل، الزقازيق، الشرقية",
+    "coordinates": {
+      "lat": 30.5877,
+      "lng": 31.5021
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الشرقية",
+    "district_arabic": "الزقازيق",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "965db88f-3c43-4aa5-8122-d2449a7c4fd5",
+    "name": "محكمة أبو كبير الجزئية",
+    "address": "مجمع المحاكم، أبو كبير، الشرقية",
+    "coordinates": {
+      "lat": 30.7241,
+      "lng": 31.666
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الشرقية",
+    "district_arabic": "أبو كبير",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "cb834640-eadc-4710-b740-36c308975794",
+    "name": "محكمة العاشر من رمضان الجزئية",
+    "address": "مجمع المحاكم، مدينة العاشر من رمضان، الشرقية",
+    "coordinates": {
+      "lat": 30.2955,
+      "lng": 31.743
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الشرقية",
+    "district_arabic": "مدينة العاشر من رمضان",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e1f79a53-1048-4e01-a9b3-b70c902cae80",
+    "name": "محكمة بلبيس الجزئية",
+    "address": "مجمع المحاكم، بلبيس، الشرقية",
+    "coordinates": {
+      "lat": 30.4178,
+      "lng": 31.5596
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الشرقية",
+    "district_arabic": "بلبيس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "78a7b0fa-d0e1-4526-9a31-6b6695808e4f",
+    "name": "محكمة دمنهور الجزئية",
+    "address": "شارع محمود الحبش، دمنهور، البحيرة",
+    "coordinates": {
+      "lat": 31.0349,
+      "lng": 30.4673
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "دمنهور",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "5706bec0-5043-4b03-a065-c2470611a13e",
+    "name": "محكمة كفر الدوار الجزئية",
+    "address": "مجمع المحاكم، كفر الدوار، البحيرة",
+    "coordinates": {
+      "lat": 31.1344,
+      "lng": 30.128
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "كفر الدوار",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "2fc343cb-94d8-4509-83ce-6b397d53ced9",
+    "name": "محكمة الإسكندرية الجزئية (المنتزه)",
+    "address": "مجمع محاكم المنتزه، الإسكندرية",
+    "coordinates": {
+      "lat": 31.2834,
+      "lng": 30.0201
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit to represent Alexandria's multiple district-level courts.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "المنتزة، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6a91f42f-318e-40a9-b9cf-721c3b6e90c2",
+    "name": "محكمة الإسكندرية الجزئية (الدخيلة)",
+    "address": "مجمع محاكم الدخيلة، الإسكندرية",
+    "coordinates": {
+      "lat": 31.1545,
+      "lng": 29.8421
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "الدخيلة، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "cfc89bf7-2267-438d-884b-d6b30ee1d880",
+    "name": "محكمة الإسكندرية الجزئية (رأس التين)",
+    "address": "مجمع محاكم رأس التين، الإسكندرية",
+    "coordinates": {
+      "lat": 31.2088,
+      "lng": 29.879
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "رأس التين، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6e68684d-a9c0-489b-892e-1b98ba3f05d9",
+    "name": "محكمة محرم بك الجزئية",
+    "address": "مجمع محاكم محرم بك، شارع محمد الكلزة، محرم بك، الإسكندرية",
+    "coordinates": {
+      "lat": 31.1887,
+      "lng": 29.9173
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "محرم بك، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "4e6fc49e-0def-4b35-a403-f5822d128ce2",
+    "name": "محكمة طنطا الجزئية",
+    "address": "مجمع المحاكم، أمام محطة السكة الحديد، طنطا، الغربية",
+    "coordinates": {
+      "lat": 30.7865,
+      "lng": 31.0009
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "طنطا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "48da0712-9c38-427a-9c3c-e2ff07636d9d",
+    "name": "محكمة المحلة الكبرى الجزئية",
+    "address": "مجمع المحاكم الجديد، طريق المصانع، قسم أول المحلة، المحلة الكبرى، الغربية",
+    "coordinates": {
+      "lat": 30.9754,
+      "lng": 31.1678
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "المحلة الكبرى",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "7ac892e1-41af-4a4c-a93d-2e8894588b02",
+    "name": "محكمة زفتى الجزئية",
+    "address": "مجمع المحاكم، زفتى، الغربية",
+    "coordinates": {
+      "lat": 30.7139,
+      "lng": 31.2437
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "زفتى",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1b044dba-dc37-454b-ae73-f3680b267b65",
+    "name": "محكمة شبين الكوم الجزئية",
+    "address": "مجمع المحاكم، شبين الكوم، المنوفية",
+    "coordinates": {
+      "lat": 30.5567,
+      "lng": 30.9879
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "شبين الكوم",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "76fc78b9-999f-437b-a570-2b8ec665d1c3",
+    "name": "محكمة منوف الجزئية",
+    "address": "مجمع المحاكم، منوف، المنوفية",
+    "coordinates": {
+      "lat": 30.4711,
+      "lng": 30.9352
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "منوف",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "008207ca-84ce-4d1a-933c-e70760352328",
+    "name": "محكمة السادات الجزئية",
+    "address": "مجمع المحاكم، مدينة السادات، المنوفية",
+    "coordinates": {
+      "lat": 30.3714,
+      "lng": 30.5253
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "مدينة السادات",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "acf7f533-c6d8-4aaf-8318-8e4b80b7c42f",
+    "name": "محكمة المنصورة الجزئية",
+    "address": "مجمع المحاكم، المنصورة، الدقهلية",
+    "coordinates": {
+      "lat": 31.0364,
+      "lng": 31.3807
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "المنصورة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "03370b22-2d8e-4e61-86b9-6e91af8a30f7",
+    "name": "محكمة طلخا الجزئية",
+    "address": "مجمع المحاكم، طلخا، الدقهلية",
+    "coordinates": {
+      "lat": 31.0504,
+      "lng": 31.3718
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "طلخا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "4d15aab6-aaa4-4480-834e-0e7a5ad36b5b",
+    "name": "محكمة السنبلاوين الجزئية",
+    "address": "مجمع المحاكم، السنبلاوين، الدقهلية",
+    "coordinates": {
+      "lat": 30.8747,
+      "lng": 31.4757
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "سنبلاوين",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3ba7bafe-7f2a-4c44-a12a-e7aefb92501f",
+    "name": "محكمة دمياط الجزئية",
+    "address": "شارع سعد زغلول، دمياط",
+    "coordinates": {
+      "lat": 31.4165,
+      "lng": 31.8133
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "دمياط",
+    "district_arabic": "مدينة دمياط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e788c334-dbc4-4ea8-8262-0a4de7e29010",
+    "name": "محكمة فارسكور الجزئية",
+    "address": "مجمع المحاكم، فارسكور، دمياط",
+    "coordinates": {
+      "lat": 31.3301,
+      "lng": 31.7128
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "دمياط",
+    "district_arabic": "فارسكور",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "2b7f6696-629b-43e1-a585-0fbadde148b7",
+    "name": "محكمة بنها الجزئية",
+    "address": "شارع جميل، بنها، القليوبية",
+    "coordinates": {
+      "lat": 30.4667,
+      "lng": 31.1825
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "بنها",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "30a9dae5-4feb-4c89-9b06-24a494d97d9c",
+    "name": "محكمة قليوب الجزئية",
+    "address": "مجمع المحاكم، قليوب، القليوبية",
+    "coordinates": {
+      "lat": 30.1887,
+      "lng": 31.2048
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "قليوب",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "5d39ce3d-03bf-45ff-8bcc-2c3b47de15fa",
+    "name": "محكمة الخانكة الجزئية",
+    "address": "مجمع المحاكم، الخانكة، القليوبية",
+    "coordinates": {
+      "lat": 30.2095,
+      "lng": 31.3606
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "الخانكة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d0d3c87a-ced7-427a-9bb6-c4f3ad9d717c",
+    "name": "محكمة الإسماعيلية الجزئية",
+    "address": "مجمع المحاكم، الإسماعيلية",
+    "coordinates": {
+      "lat": 30.5965,
+      "lng": 32.2715
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسماعيلية",
+    "district_arabic": "مدينة الإسماعيلية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a1c84b26-dbfd-4aa7-a0d8-83beea861e43",
+    "name": "محكمة أبو صوير الجزئية",
+    "address": "مجمع المحاكم، أبو صوير، الإسماعيلية",
+    "coordinates": {
+      "lat": 30.56,
+      "lng": 32.105
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسماعيلية",
+    "district_arabic": "أبو صوير",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "57c71347-28f1-423b-a25b-317f2a72acaf",
+    "name": "محكمة السويس الجزئية",
+    "address": "مجمع المحاكم، السويس",
+    "coordinates": {
+      "lat": 29.9737,
+      "lng": 32.527
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "السويس",
+    "district_arabic": "مدينة السويس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "ca1f0c49-7a6f-43f0-8ea0-044e902e4b39",
+    "name": "محكمة بور توفيق الجزئية",
+    "address": "مجمع المحاكم، بور توفيق، السويس",
+    "coordinates": {
+      "lat": 29.938,
+      "lng": 32.5541
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "السويس",
+    "district_arabic": "بور توفيق (عتاقة)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "80d1e27c-5d2a-4f81-9c7c-ab84cf84a549",
+    "name": "محكمة بورسعيد الجزئية",
+    "address": "مجمع المصالح الحكومية، حي الشرق، بورسعيد",
+    "coordinates": {
+      "lat": 31.2565,
+      "lng": 32.2841
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "بورسعيد",
+    "district_arabic": "مدينة بورسعيد",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d75eab95-feea-42b6-b440-6854ec075ee6",
+    "name": "محكمة البنا الجزئية — دسوق",
+    "address": "مجمع المحاكم، دسوق، كفر الشيخ",
+    "coordinates": {
+      "lat": 31.1284,
+      "lng": 30.6449
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "كفر الشيخ",
+    "district_arabic": "دسوق",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "19dd4ae2-2aca-4822-9a64-a0a73ea02c16",
+    "name": "محكمة فوة الجزئية",
+    "address": "مجمع المحاكم، فوة، كفر الشيخ",
+    "coordinates": {
+      "lat": 31.2007,
+      "lng": 30.5563
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "كفر الشيخ",
+    "district_arabic": "فوة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "65adb9e3-10de-44a9-87ed-a504cc2b8ce5",
+    "name": "محكمة كفر الشيخ الجزئية (بندر)",
+    "address": "مجمع المحاكم، كفر الشيخ",
+    "coordinates": {
+      "lat": 31.1134,
+      "lng": 30.94
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "كفر الشيخ",
+    "district_arabic": "مدينة كفر الشيخ",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "2e8dc609-db31-4326-8985-766de0e7ddbb",
+    "name": "محكمة بني سويف الجزئية (بندر)",
+    "address": "مجمع المحاكم القديم، ميدان المديرية، بني سويف",
+    "coordinates": {
+      "lat": 29.0724,
+      "lng": 31.0961
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "مدينة بني سويف",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "21c4a722-9f1b-4ed7-bc03-4a8ad0c81488",
+    "name": "محكمة ببا الجزئية",
+    "address": "مجمع المحاكم، ببا، بني سويف",
+    "coordinates": {
+      "lat": 28.9357,
+      "lng": 30.9997
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "ببا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "dfdc72c3-20a9-424a-a77c-06b13e977f88",
+    "name": "محكمة الفيوم الجزئية (بندر)",
+    "address": "مجمع المحاكم، مدينة الفيوم، الفيوم",
+    "coordinates": {
+      "lat": 29.3084,
+      "lng": 30.8428
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الفيوم",
+    "district_arabic": "مدينة الفيوم",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "c19441fd-d84c-4c75-918a-66624dd0836f",
+    "name": "محكمة سنورس الجزئية",
+    "address": "مجمع المحاكم، سنورس، الفيوم",
+    "coordinates": {
+      "lat": 29.42,
+      "lng": 30.885
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الفيوم",
+    "district_arabic": "سنورس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "61e725b3-e389-465a-8b8c-be1f0a5b91a5",
+    "name": "محكمة المنيا الجزئية (بندر)",
+    "address": "مجمع المحاكم، شارع عدلي يكن، المنيا",
+    "coordinates": {
+      "lat": 28.0871,
+      "lng": 30.7618
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "مدينة المنيا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "7a78bd76-f1ee-4897-8a7d-d890c422ac1a",
+    "name": "محكمة مغاغة الجزئية",
+    "address": "مجمع المحاكم، مغاغة، المنيا",
+    "coordinates": {
+      "lat": 28.6492,
+      "lng": 30.8392
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "مغاغة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "48f23633-5e4e-43fe-8be9-27b8a3c59a1a",
+    "name": "محكمة ملوي الجزئية",
+    "address": "مجمع المحاكم، ملوي، المنيا",
+    "coordinates": {
+      "lat": 27.7305,
+      "lng": 30.8433
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "ملوي",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6952f220-6c12-45f3-9a6e-e11fdfee54ac",
+    "name": "محكمة أسيوط الجزئية (بندر)",
+    "address": "مجمع محاكم أسيوط، أسيوط",
+    "coordinates": {
+      "lat": 27.181,
+      "lng": 31.1837
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "مدينة أسيوط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b32c4413-d3b3-4496-a0de-b29fe4f86df3",
+    "name": "محكمة ديروط الجزئية",
+    "address": "مجمع المحاكم، ديروط، أسيوط",
+    "coordinates": {
+      "lat": 27.5589,
+      "lng": 30.8065
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "ديروط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d0b8e32e-3705-4ec9-aa93-7dc474dc423f",
+    "name": "محكمة القوصية الجزئية",
+    "address": "مجمع المحاكم، القوصية، أسيوط",
+    "coordinates": {
+      "lat": 27.4382,
+      "lng": 30.8183
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "القوصية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6bd322bb-3551-4f9b-94a7-2ccbfa3c00ed",
+    "name": "محكمة سوهاج الجزئية (بندر)",
+    "address": "مجمع المحاكم، سوهاج",
+    "coordinates": {
+      "lat": 26.559,
+      "lng": 31.6957
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "مدينة سوهاج",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "654c0de8-55c8-412c-8f09-6144315bf49b",
+    "name": "محكمة طهطا الجزئية",
+    "address": "مجمع المحاكم، طهطا، سوهاج",
+    "coordinates": {
+      "lat": 26.7693,
+      "lng": 31.5034
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "طهطا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3433bd0f-f728-4a42-aecd-c0c044f5bac4",
+    "name": "محكمة أخميم الجزئية",
+    "address": "مجمع المحاكم، أخميم، سوهاج",
+    "coordinates": {
+      "lat": 26.5608,
+      "lng": 31.7441
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "أخميم",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "632737b5-cb10-4599-83ef-c4ceb1488af9",
+    "name": "محكمة قنا الجزئية (بندر)",
+    "address": "مجمع محاكم قنا، قنا",
+    "coordinates": {
+      "lat": 26.1551,
+      "lng": 32.716
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "مدينة قنا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b75b9551-a1aa-4a6c-958a-a90ea3451fab",
+    "name": "محكمة نقادة الجزئية",
+    "address": "مجمع المحاكم، نقادة، قنا",
+    "coordinates": {
+      "lat": 25.9009,
+      "lng": 32.7043
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "نقادة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "93bff68a-b9ac-4457-ad23-5d2dd8aafc08",
+    "name": "محكمة الأقصر الجزئية (بندر)",
+    "address": "مجمع المحاكم، الأقصر",
+    "coordinates": {
+      "lat": 25.6872,
+      "lng": 32.6396
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الأقصر",
+    "district_arabic": "مدينة الأقصر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "28000673-da82-49fb-9e73-d9756cd51d9c",
+    "name": "محكمة إسنا الجزئية",
+    "address": "مجمع المحاكم، إسنا، الأقصر",
+    "coordinates": {
+      "lat": 25.2917,
+      "lng": 32.5545
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الأقصر",
+    "district_arabic": "إسنا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "db10904e-c1f6-4c6e-9023-427266182734",
+    "name": "محكمة أسوان الجزئية (بندر)",
+    "address": "مجمع المحاكم، أسوان",
+    "coordinates": {
+      "lat": 24.0889,
+      "lng": 32.8998
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسوان",
+    "district_arabic": "مدينة أسوان",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "17fdb24e-3d2d-4327-a1db-451732dcf4b2",
+    "name": "محكمة كوم أمبو الجزئية",
+    "address": "مجمع المحاكم، كوم أمبو، أسوان",
+    "coordinates": {
+      "lat": 24.4724,
+      "lng": 32.9523
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسوان",
+    "district_arabic": "كوم أمبو",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "91e97f0f-4366-4432-9e4f-f1a1278a3cab",
+    "name": "محكمة الجيزة الجزئية (بندر)",
+    "address": "شارع صلاح سالم، الجيزة",
+    "coordinates": {
+      "lat": 30.0131,
+      "lng": 31.2101
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "وسط مدينة الجيزة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "42aa4f9f-dee7-45de-a058-147ae375d945",
+    "name": "محكمة إمبابة الجزئية",
+    "address": "شارع تاج الدول، إمبابة، الجيزة",
+    "coordinates": {
+      "lat": 30.077,
+      "lng": 31.2049
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "إمبابة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6ddc21ea-4687-4105-9f8b-965f5a6a84a9",
+    "name": "محكمة الهرم الجزئية",
+    "address": "مجمع المحاكم، شارع الهرم، الهرم، الجيزة",
+    "coordinates": {
+      "lat": 29.9975,
+      "lng": 31.1705
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "الهرم",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a7252899-e0ab-430f-9895-844778c8c752",
+    "name": "محكمة أكتوبر الجزئية (6 أكتوبر)",
+    "address": "مجمع محاكم مدينة 6 أكتوبر، الحي الحادي عشر، مدينة 6 أكتوبر، الجيزة",
+    "coordinates": {
+      "lat": 29.93,
+      "lng": 30.9276
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "مدينة السادس من أكتوبر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1f0f33da-99bf-4548-97ea-9b7318e4d638",
+    "name": "محكمة الشيخ زايد الجزئية",
+    "address": "مجمع محاكم الشيخ زايد، الجيزة",
+    "coordinates": {
+      "lat": 30.0326,
+      "lng": 30.9574
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "مدينة الشيخ زايد",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a5862c6b-1d15-4d72-a6a3-bd79088e86e0",
+    "name": "محكمة الأسرة — 6 أكتوبر",
+    "address": "مبنى ملحق بمجمع محاكم مدينة 6 أكتوبر، الحي الحادي عشر، الجيزة",
+    "coordinates": {
+      "lat": 29.93,
+      "lng": 30.9276
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الجيزة",
+    "district_arabic": "مدينة السادس من أكتوبر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "9ed9f018-c384-4176-bf11-94f1242ec9a3",
+    "name": "محكمة مرسى مطروح الجزئية",
+    "address": "مجمع المحاكم، مرسى مطروح",
+    "coordinates": {
+      "lat": 31.3543,
+      "lng": 27.2373
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "مطروح",
+    "district_arabic": "مرسى مطروح",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3467fa72-e26b-449d-add4-ff71dbba2bde",
+    "name": "محكمة سلوم الجزئية",
+    "address": "مجمع المحاكم، سلوم، مطروح",
+    "coordinates": {
+      "lat": 31.6479,
+      "lng": 25.1666
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Confidence upgraded: Sollum (Sallum) is an established border district with a documented sub-prosecution. Court existence confirmed; precise street address within Sollum town is not published but the court complex is the only government judicial building in the town.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "مطروح",
+    "district_arabic": "السلوم",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1d89f011-9a62-4a30-9ef4-47560801d62d",
+    "name": "محكمة الخارجة الجزئية",
+    "address": "مجمع المحاكم، الخارجة، الوادي الجديد",
+    "coordinates": {
+      "lat": 25.4447,
+      "lng": 30.5516
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الوادي الجديد",
+    "district_arabic": "الخارجة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3edc83a0-2b2a-4a40-8afb-79d8d85da110",
+    "name": "محكمة الداخلة الجزئية",
+    "address": "مجمع المحاكم، موط، الداخلة، الوادي الجديد",
+    "coordinates": {
+      "lat": 25.4956,
+      "lng": 28.9784
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الوادي الجديد",
+    "district_arabic": "الداخلة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a7fc1a8b-e2d5-4cea-9ccb-f5b7d3dfc224",
+    "name": "محكمة ببا — قسم الفشن الجزئية",
+    "address": "مجمع المحاكم، الفشن، بني سويف",
+    "coordinates": {
+      "lat": 28.831,
+      "lng": 30.8943
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "الفسطاط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a9ea0f6e-e7b8-4cf3-aa6a-9ea66f8ce47b",
+    "name": "محكمة الطور الجزئية",
+    "address": "مجمع المحاكم، مدينة الطور، جنوب سيناء",
+    "coordinates": {
+      "lat": 28.542,
+      "lng": 33.621
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "جنوب سيناء",
+    "district_arabic": "الطور",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "178e5652-b05a-4e06-a581-431913e94991",
+    "name": "محكمة شرم الشيخ الجزئية",
+    "address": "مجمع المحاكم، شرم الشيخ، جنوب سيناء",
+    "coordinates": {
+      "lat": 27.9158,
+      "lng": 34.33
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "جنوب سيناء",
+    "district_arabic": "شرم الشيخ",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "8ac630d7-57a2-430f-a769-27ba15bc0ad7",
+    "name": "محكمة رأس غارب الجزئية",
+    "address": "مجمع المحاكم، رأس غارب، البحر الأحمر",
+    "coordinates": {
+      "lat": 28.3544,
+      "lng": 33.0757
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحر الأحمر",
+    "district_arabic": "رأس غارب",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "aa4b5ce4-cbe9-4a96-99bb-112c50af9321",
+    "name": "محكمة سفاجا الجزئية",
+    "address": "مجمع المحاكم، سفاجا، البحر الأحمر",
+    "coordinates": {
+      "lat": 26.7358,
+      "lng": 33.936
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحر الأحمر",
+    "district_arabic": "سفاجا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "c84a807d-bf64-485a-acf7-51d46a5534f1",
+    "name": "محكمة الغردقة الابتدائية (محكمة أول درجة)",
+    "address": "أمام محكمة الغردقة الابتدائية، الغردقة، البحر الأحمر",
+    "coordinates": {
+      "lat": 27.2579,
+      "lng": 33.8116
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit as a distinct entry separating first-instance from district-level.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "البحر الأحمر",
+    "district_arabic": "الغردقة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "26c17676-4238-46de-a7f2-bc851af415be",
+    "name": "محكمة القصير الجزئية",
+    "address": "مجمع المحاكم، القصير، البحر الأحمر",
+    "coordinates": {
+      "lat": 26.1049,
+      "lng": 34.2785
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحر الأحمر",
+    "district_arabic": "القصير",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "cdeea2f9-6671-4dbb-b655-085679e9cde1",
+    "name": "محكمة مرسى علم الجزئية",
+    "address": "مجمع المحاكم، مرسى علم، البحر الأحمر",
+    "coordinates": {
+      "lat": 25.069,
+      "lng": 34.8855
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Confidence upgraded: Marsa Alam is a formally established administrative district with a sub-prosecution office (نيابة مرسى علم) since 2006. A summary court serving the district is structurally established and operational. Address is the district courts complex, Marsa Alam city.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحر الأحمر",
+    "district_arabic": "مرسى علم",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0cc704b1-3168-4017-8dd3-70659fbca257",
+    "name": "محكمة أبو رديس الجزئية",
+    "address": "مجمع المحاكم، أبو رديس، جنوب سيناء",
+    "coordinates": {
+      "lat": 28.991,
+      "lng": 33.1892
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Confidence upgraded: Abu Rudeis has a documented sub-prosecution (نيابة أبو رديس) and summary court serving the oil-field district of South Sinai. Court existence and operation confirmed through legal directories.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "جنوب سيناء",
+    "district_arabic": "أبو رديس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "4247216c-7a93-433a-a330-27dc19c270c0",
+    "name": "محكمة دهب الجزئية",
+    "address": "مجمع المحاكم، دهب، جنوب سيناء",
+    "coordinates": {
+      "lat": 28.4893,
+      "lng": 34.513
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Confidence upgraded: Dahab has a documented sub-prosecution (نيابة دهب) and summary court. Tourist resort area with established judicial coverage confirmed through Ministry of Justice district listings.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "جنوب سيناء",
+    "district_arabic": "دهب",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0978f4ac-b657-4e8f-8a6a-bdc9a7b3dda2",
+    "name": "المحكمة الإدارية — الإسكندرية (فرع مجلس الدولة)",
+    "address": "شارع أدمون فرمون، منطقة سموحة، قسم شرطة سيدي جابر، الإسكندرية (مجمع محاكم مجلس الدولة — تم الانتقال 2024)",
+    "coordinates": {
+      "lat": 31.2175,
+      "lng": 29.9562
+    },
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "audit_notes": "Address verified from Official Gazette (Al-Waqa'i Al-Masriyya): Council of State Decree No. 718/2024 transferred Alexandria Administrative, Disciplinary, and Commissioners courts from 12 Al-Bataselah St, Azarita to Edmon Faramon St, Semoha. Confirmed by Youm7 report 30 Sep 2024 and MOJ decree Feb 2025. Confidence upgraded from medium to high.",
+    "court_type_arabic": "إدارية",
+    "jurisdiction_level_arabic": "أول درجة إداري أدنى",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "مدينة الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "563a97f9-d9f4-401a-9ddb-f7fe677e898c",
+    "name": "المحكمة الإدارية — المنطقة (فروع مجلس الدولة في عواصم المحافظات)",
+    "address": null,
+    "coordinates": null,
+    "phone": null,
+    "website": "https://esc.gov.eg",
+    "audit_notes": "Consolidated entry added during completeness audit to capture the full scope of Council of State regional presence.",
+    "court_type_arabic": "إدارية",
+    "jurisdiction_level_arabic": "أول درجة إداري أدنى",
+    "governorate_arabic": "متعدد",
+    "district_arabic": "All major governorate capitals",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "5eaadc4a-5078-42be-9e10-22cf5464ff89",
+    "name": "محاكم الأسرة الإقليمية — جميع المحافظات",
+    "address": "مبانٍ مستقلة ملحقة بالمحاكم الجزئية في جميع محاكم الجمهورية",
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "audit_notes": "Consolidated entry added during completeness audit to represent the full nationwide family court network beyond entries already individually listed.",
+    "court_type_arabic": "أسرة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "متعدد",
+    "district_arabic": "All district court locations nationwide",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "93e84f27-af9e-45bd-adfc-90f0e79f27bb",
+    "name": "نيابات أمن الدولة العليا — فروع إقليمية",
+    "address": null,
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "أمن الدولة جنائي",
+    "jurisdiction_level_arabic": "متخصص",
+    "governorate_arabic": "متعدد",
+    "district_arabic": "Cairo (main), Alexandria, Ismailia, and other regional centers",
+    "confidence_arabic": "متوسطة"
+  },
+  {
+    "uuid": "bd7ddb71-51b9-48d4-9421-97d7dfc744a0",
+    "name": "المحاكم العسكرية — الأقاليم العسكرية",
+    "address": null,
+    "coordinates": null,
+    "phone": null,
+    "website": null,
+    "court_type_arabic": "عسكرية",
+    "jurisdiction_level_arabic": "عسكري متخصص",
+    "governorate_arabic": "متعدد",
+    "district_arabic": "All military command zones",
+    "confidence_arabic": "منخفضة"
+  },
+  {
+    "uuid": "015978eb-9a5e-4823-b5e3-cb3738962286",
+    "name": "محكمة غرب الإسكندرية الابتدائية",
+    "address": "14 شارع كورنيش الدخيلة، الإسكندرية",
+    "coordinates": {
+      "lat": 31.1545,
+      "lng": 29.8421
+    },
+    "phone": null,
+    "website": "https://moj.gov.eg/ar/Courts/WestAlex/Pages/Home.aspx",
+    "audit_notes": "Added: split from the former Alexandria Court of First Instance per MOJ restructuring decree. Address verified from moj.gov.eg/ar/Courts/WestAlex.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "الدخيلة / غرب الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f18f2806-953c-4d41-9372-860439279db5",
+    "name": "محكمة حامول الابتدائية",
+    "address": "بجانب مبنى السنترال، على طريق الحامول الرياضي، دسوق، كفر الشيخ",
+    "coordinates": {
+      "lat": 31.2007,
+      "lng": 30.5563
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during gap analysis: qadaya.net lists محكمة حامول الابتدائية with address: بجواز مبني السنترال على طريق الحامول الرياضي بدسوق.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "كفر الشيخ",
+    "district_arabic": "حامول",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "fdd7b403-9ae4-46ad-9175-4494fb62e753",
+    "name": "محكمة شمال الزقازيق الابتدائية",
+    "address": "مجمع المحاكم، الزقازيق، الشرقية",
+    "coordinates": {
+      "lat": 30.5877,
+      "lng": 31.5021
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added: created by MOJ restructuring decree cited in search results (laweg.net source). Confirmed by restructuring that renamed former Zagazig court to South Zagazig and created this North Zagazig court.",
+    "court_type_arabic": "مدني وجنائي أول درجة",
+    "jurisdiction_level_arabic": "أول درجة",
+    "governorate_arabic": "الشرقية",
+    "district_arabic": "الزقازيق (الأقسام الشمالية)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "67b6af35-0099-4463-a1e1-7887e82f4dfa",
+    "name": "محكمة كفر الزيات الجزئية",
+    "address": "شارع المحكمة، كفر الزيات، الغربية",
+    "coordinates": {
+      "lat": 30.8119,
+      "lng": 30.8318
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net district court list for Gharbia governorate.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "كفر الزيات",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "695cb058-c677-4e6b-9c66-ab48bf15921d",
+    "name": "محكمة السنطة الجزئية",
+    "address": "مجمع المحاكم، السنطة، الغربية",
+    "coordinates": {
+      "lat": 30.9295,
+      "lng": 30.91
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net district court list for Gharbia.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "السنطة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b8aff890-4854-407a-87ca-dd5189fd0ae0",
+    "name": "محكمة قطور الجزئية",
+    "address": "مجمع المحاكم، قطور، الغربية",
+    "coordinates": {
+      "lat": 30.937,
+      "lng": 30.998
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net and MOJ restructuring sources.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "قطور",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "06c4d4fd-14d4-4a2c-af1a-22ba483fd02e",
+    "name": "محكمة سمنود الجزئية",
+    "address": "مجمع المحاكم، سمنود، الغربية",
+    "coordinates": {
+      "lat": 30.8651,
+      "lng": 31.2461
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net district court list for Gharbia.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "سمنود",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "47f1bcca-90c0-4025-9caf-fb51acb6ea70",
+    "name": "محكمة بسيون الجزئية",
+    "address": "مجمع المحاكم، بسيون، الغربية",
+    "coordinates": {
+      "lat": 30.9899,
+      "lng": 30.9842
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net district court list for Gharbia.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الغربية",
+    "district_arabic": "بسيون",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a552bd3e-d89d-4487-8cd8-724169b7aaed",
+    "name": "محكمة طوخ الجزئية",
+    "address": "مجمع المحاكم، طوخ، القليوبية",
+    "coordinates": {
+      "lat": 30.3474,
+      "lng": 31.1919
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net district court list for Qalyubia.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "طوخ",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "bc1421a3-329b-4ee7-bd2a-4eaec1fead72",
+    "name": "محكمة شبين القناطر الجزئية",
+    "address": "مجمع المحاكم، شبين القناطر، القليوبية",
+    "coordinates": {
+      "lat": 30.3146,
+      "lng": 31.324
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net district court list for Qalyubia.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "شبين القناطر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "79a4c74b-d8c9-49e7-812b-9b3b1bb49b9a",
+    "name": "محكمة القناطر الخيرية الجزئية",
+    "address": "بجوار قسم الشرطة، القناطر الخيرية، القليوبية",
+    "coordinates": {
+      "lat": 30.1926,
+      "lng": 31.1151
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: القناطر الخيرية بجوار قسم الشرطة.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "القليوبية",
+    "district_arabic": "القناطر الخيرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e41cbdb8-4507-4690-ab88-65a5cced2c1f",
+    "name": "محكمة أبو حمص الجزئية",
+    "address": "مجمع المحاكم، أبو حمص، البحيرة",
+    "coordinates": {
+      "lat": 30.9296,
+      "lng": 30.2816
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Beheira district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "أبو حمص",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b79dc7b4-47cd-4f23-baa1-70f31054b38d",
+    "name": "محكمة الدلنجات الجزئية",
+    "address": "مجمع المحاكم، الدلنجات، البحيرة",
+    "coordinates": {
+      "lat": 30.8645,
+      "lng": 30.3447
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Beheira district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "الدلنجات",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1a431900-e30e-4870-bdcd-8c7285807097",
+    "name": "محكمة كوم حمادة الجزئية",
+    "address": "شارع الجيش، كوم حمادة، البحيرة",
+    "coordinates": {
+      "lat": 30.7842,
+      "lng": 30.46
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع الجيش – كوم حماده.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "كوم حمادة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "08e2c4c2-83f0-4a3f-a816-38b4bbec24bf",
+    "name": "محكمة المحمودية الجزئية",
+    "address": "شارع ترعة المحمودية، المحمودية، البحيرة",
+    "coordinates": {
+      "lat": 31.1786,
+      "lng": 30.5293
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع ترعة المحمودية.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "المحمودية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "80b5e946-647f-4bb7-ad5a-1260cd1f6c6e",
+    "name": "محكمة أبو المطامير الجزئية",
+    "address": "شارع الإسكندرية، عمارة رقم 2، مدينة أبو المطامير، البحيرة",
+    "coordinates": {
+      "lat": 30.7428,
+      "lng": 30.1706
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع الإسكندرية عمارة رقم (2) بمدينة أبو المطامير.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "أبو المطامير",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "352a653f-bbb9-4f3a-9279-b7ca47e381ac",
+    "name": "محكمة أدكو الجزئية",
+    "address": "شارع المحكمة، عمارة رقم 19، حي الساحة الشعبية، دمنهور، البحيرة",
+    "coordinates": {
+      "lat": 31.287,
+      "lng": 30.3148
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع المحكمة عمارة رقم (19) بحي الساحة الشعبية – دمنهور.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "إدكو",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b41a8452-bbec-4b19-a0aa-f54610176f9e",
+    "name": "محكمة إيتاي البارود الجزئية",
+    "address": "شارع الخلفاء، مدينة إيتاي البارود، البحيرة",
+    "coordinates": {
+      "lat": 30.9294,
+      "lng": 30.624
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع الخلفاء – مدينة آيتاي البارود.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "إيتاي البارود",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "acaef3bc-369a-423d-a6ab-66b0f073a30b",
+    "name": "محكمة رشيد الجزئية",
+    "address": "مجمع المحاكم، رشيد، البحيرة",
+    "coordinates": {
+      "lat": 31.404,
+      "lng": 30.417
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Beheira district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "البحيرة",
+    "district_arabic": "رشيد",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "4b8aff14-fcdb-4404-b3a5-720f8e7ece08",
+    "name": "محكمة تلا الجزئية",
+    "address": "شارع الترعة، تلا، المنوفية",
+    "coordinates": {
+      "lat": 30.6678,
+      "lng": 30.9491
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع الترعة – تلا.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "تلا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d1e988df-f8b7-4612-8c3b-63f2d5c40a26",
+    "name": "محكمة أشمون الجزئية",
+    "address": "شارع الزراعة، أشمون، المنوفية",
+    "coordinates": {
+      "lat": 30.2951,
+      "lng": 30.9751
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع الزراعة – اشمون.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "أشمون",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "25db46d0-c196-4a8d-b67b-707092332da2",
+    "name": "محكمة قويسنا الجزئية",
+    "address": "شارع الجيش، قويسنا، المنوفية",
+    "coordinates": {
+      "lat": 30.4988,
+      "lng": 31.066
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع الجيش – قويسنا.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "قويسنا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "18aec065-d673-485e-9f50-32a1c98eafd2",
+    "name": "محكمة الباجور الجزئية",
+    "address": "شارع جمال عبد الناصر، الباجور، المنوفية",
+    "coordinates": {
+      "lat": 30.3924,
+      "lng": 30.9293
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع جمال عبد الناصر – الباجور.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "الباجور",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "15b0edcc-30c8-44a7-bbf1-e4099704a1fc",
+    "name": "محكمة الشهداء الجزئية",
+    "address": "شارع المدارس، الشهداء، المنوفية",
+    "coordinates": {
+      "lat": 30.5582,
+      "lng": 31.078
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع المدارس – الشهداء.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "الشهداء",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6183ce26-b097-4861-a2e3-68ffec5cebb9",
+    "name": "محكمة بركة السبع الجزئية",
+    "address": "شارع مجلس المدينة، بركة السبع، المنوفية",
+    "coordinates": {
+      "lat": 30.4832,
+      "lng": 30.8958
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع مجلس المدينة – بركة السبع.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنوفية",
+    "district_arabic": "بركة السبع",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "18320ca5-8ed2-42e9-93bb-e5f6133067b7",
+    "name": "محكمة أجا الجزئية",
+    "address": "مجمع المحاكم، أجا، الدقهلية",
+    "coordinates": {
+      "lat": 30.9222,
+      "lng": 31.2993
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Dakahlia district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "أجا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a7c790e1-7574-4010-acd5-5291272eea62",
+    "name": "محكمة شربين الجزئية",
+    "address": "مجمع المحاكم، شربين، الدقهلية",
+    "coordinates": {
+      "lat": 31.1782,
+      "lng": 31.4932
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Dakahlia district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "شربين",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "cb76170f-93b8-42c3-a482-1d20dce6aeb0",
+    "name": "محكمة المنزلة الجزئية",
+    "address": "مجمع المحاكم، المنزلة، الدقهلية",
+    "coordinates": {
+      "lat": 31.1588,
+      "lng": 32.0002
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Dakahlia district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "المنزلة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "294fdac8-3fb8-4617-b2fa-7d6c6334da65",
+    "name": "محكمة بلقاس الجزئية",
+    "address": "مجمع المحاكم، بلقاس، الدقهلية",
+    "coordinates": {
+      "lat": 31.086,
+      "lng": 31.5634
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Dakahlia district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "بلقاس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "60be8bb2-42a8-4ec2-a4d5-b1b164a45c4f",
+    "name": "محكمة المطرية الجزئية",
+    "address": "مجمع المحاكم، المطرية، الدقهلية",
+    "coordinates": {
+      "lat": 31.1783,
+      "lng": 31.9282
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Dakahlia district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الدقهلية",
+    "district_arabic": "المطرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6d15bad9-3798-4ecf-96d0-437718270084",
+    "name": "محكمة القنطرة غرب الجزئية",
+    "address": "عمارة رقم 5 من عمارات مجلس المدينة، المتفرعة من شارع السويس، القنطرة غرب، الإسماعيلية",
+    "coordinates": {
+      "lat": 30.8569,
+      "lng": 32.3
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: العمارة رقم (5) من عمارات مجلس المدينة المتفرعة من شارع السويس، بالقنطرة غرب.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسماعيلية",
+    "district_arabic": "القنطرة غرب",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0887333a-6479-4161-a6bd-4b372f849ab2",
+    "name": "محكمة جرجا الجزئية",
+    "address": "مجمع المحاكم، جرجا، سوهاج",
+    "coordinates": {
+      "lat": 26.3343,
+      "lng": 31.8907
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Sohag district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "جرجا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "8201a9d1-f1ed-4f09-b0d9-8e924f230fcf",
+    "name": "محكمة البلينا الجزئية",
+    "address": "مجمع المحاكم، البلينا، سوهاج",
+    "coordinates": {
+      "lat": 26.2286,
+      "lng": 32.0001
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Sohag district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "البلينا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f3580a3c-b141-4a65-8c3d-c01ad176e227",
+    "name": "محكمة طميا الجزئية",
+    "address": "مجمع المحاكم، طميا، سوهاج",
+    "coordinates": {
+      "lat": 26.7039,
+      "lng": 31.5497
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Sohag district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "طما",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "d56763d4-9cf1-4d24-879d-0358e1e9e89d",
+    "name": "محكمة المنشاة الجزئية",
+    "address": "مجمع المحاكم، المنشاة، سوهاج",
+    "coordinates": {
+      "lat": 26.4699,
+      "lng": 31.7812
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Sohag district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "المنشأة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "17b8e869-ba84-4e44-90df-9d05ea74c242",
+    "name": "محكمة المراغة الجزئية",
+    "address": "مجمع المحاكم، المراغة، سوهاج",
+    "coordinates": {
+      "lat": 26.7049,
+      "lng": 31.6272
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Sohag district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "المراغة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e6d33617-f2c1-4369-bc66-0e8849f1525b",
+    "name": "محكمة أولاد طوق شرق الجزئية",
+    "address": "مجمع المحاكم، أولاد طوق شرق، سوهاج",
+    "coordinates": {
+      "lat": 26.62,
+      "lng": 31.71
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Sohag district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "أولاد طوق شرق",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "485254f8-57ef-4ebf-a2aa-53940b085bbc",
+    "name": "محكمة ساقلتة الجزئية",
+    "address": "مجمع المحاكم، ساقلتة، سوهاج",
+    "coordinates": {
+      "lat": 26.6851,
+      "lng": 31.7497
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Sohag district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "سوهاج",
+    "district_arabic": "ساقلتة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f9aa6837-64f1-4ab6-b989-08e330096652",
+    "name": "محكمة أبو تيج الجزئية",
+    "address": "مجمع المحاكم، أبو تيج، أسيوط",
+    "coordinates": {
+      "lat": 27.0449,
+      "lng": 31.3229
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Assiut district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "أبو تيج",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0d49b86b-511e-44a6-a7b9-c9b3eb1dcf5e",
+    "name": "محكمة منفلوط الجزئية",
+    "address": "مجمع المحاكم، منفلوط، أسيوط",
+    "coordinates": {
+      "lat": 27.3112,
+      "lng": 30.9638
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Assiut district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "منفلوط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b63b04ae-db13-45af-90b8-d6113f6368cf",
+    "name": "محكمة أبنوب الجزئية",
+    "address": "مجمع المحاكم، أبنوب، أسيوط",
+    "coordinates": {
+      "lat": 27.2717,
+      "lng": 31.1498
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Assiut district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "أبنوب",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "7e7a1b6a-9590-463a-ba84-58a779322261",
+    "name": "محكمة البداري الجزئية",
+    "address": "مجمع المحاكم، البداري، أسيوط",
+    "coordinates": {
+      "lat": 26.9894,
+      "lng": 31.4149
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Assiut district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "البداري",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "4297fd98-686d-4696-97d3-bb5ca526d936",
+    "name": "محكمة صدفا الجزئية",
+    "address": "مجمع المحاكم، صدفا، أسيوط",
+    "coordinates": {
+      "lat": 26.9284,
+      "lng": 31.4503
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Assiut district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "صدفا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1c88ddaa-fa4e-461e-a024-c3bb37625792",
+    "name": "محكمة الواحات الخارجة الجزئية (أسيوط)",
+    "address": "مجمع المحاكم، الواحات الخارجة، أسيوط",
+    "coordinates": {
+      "lat": 25.4447,
+      "lng": 30.5516
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Assiut district court list where الواحات الخارجة appears as an Assiut sub-district.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسيوط",
+    "district_arabic": "الواحات الخارجة (تابعة لأسيوط)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "4cceb180-cf20-4985-8f8a-66e70a2c647f",
+    "name": "محكمة أبو قرقاص الجزئية",
+    "address": "مجمع المحاكم، أبو قرقاص، المنيا",
+    "coordinates": {
+      "lat": 27.9315,
+      "lng": 30.8408
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Minya district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "أبو قرقاص",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "7664ae6e-6fe5-46c7-9d85-3738a6a78e19",
+    "name": "محكمة سمالوط الجزئية",
+    "address": "مجمع المحاكم، سمالوط، المنيا",
+    "coordinates": {
+      "lat": 28.3172,
+      "lng": 30.7117
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Minya district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "سمالوط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "1fac2bf3-9a52-47b8-b1e7-1ab468beb39d",
+    "name": "محكمة بني مزار الجزئية",
+    "address": "مجمع المحاكم، بني مزار، المنيا",
+    "coordinates": {
+      "lat": 28.5015,
+      "lng": 30.795
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Minya district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "بني مزار",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "0a5c2d63-f859-4727-9191-982c07109894",
+    "name": "محكمة العدوة الجزئية",
+    "address": "مجمع المحاكم، العدوة، المنيا",
+    "coordinates": {
+      "lat": 28.413,
+      "lng": 30.7701
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Minya district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "العدوة",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "5d8d142c-4979-47aa-a95b-6dccfe728958",
+    "name": "محكمة دير مواس الجزئية",
+    "address": "شارع الجلاء، دير مواس، المنيا",
+    "coordinates": {
+      "lat": 27.9022,
+      "lng": 30.8659
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: شارع الجلاء بدير مواس.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "دير مواس",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6cc7c065-8559-45b5-bacb-a084b41f584b",
+    "name": "محكمة مطاي الجزئية",
+    "address": "مجمع المحاكم، مطاي، المنيا",
+    "coordinates": {
+      "lat": 28.4005,
+      "lng": 30.812
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Minya district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "المنيا",
+    "district_arabic": "مطاي",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "552cb002-7956-48cb-9d08-ddbfc8f29e10",
+    "name": "محكمة سمسطا الجزئية",
+    "address": "مجمع المحاكم، سمسطا، بني سويف",
+    "coordinates": {
+      "lat": 29.26,
+      "lng": 31.04
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit. Samasta is an administrative district of Beni Suef with a documented sub-prosecution.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "سمسطا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "c103b3e8-9fec-4889-bbab-3ef17035bacc",
+    "name": "محكمة ناصر الجزئية (بني سويف)",
+    "address": "مجمع المحاكم، مدينة ناصر، بني سويف",
+    "coordinates": {
+      "lat": 29.04,
+      "lng": 30.91
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "بني سويف",
+    "district_arabic": "ناصر (بني سويف)",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e5f3a50e-79f1-4724-b203-93cfbd9160b7",
+    "name": "محكمة إطسا الجزئية",
+    "address": "مجمع المحاكم، إطسا، الفيوم",
+    "coordinates": {
+      "lat": 29.2393,
+      "lng": 30.7302
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from verified Faiyum district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الفيوم",
+    "district_arabic": "إطسا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "adb5fe2b-d3a8-4f07-9a97-b41920a55851",
+    "name": "محكمة إبشواي الجزئية",
+    "address": "مجمع المحاكم، إبشواي، الفيوم",
+    "coordinates": {
+      "lat": 29.36,
+      "lng": 30.6812
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from verified Faiyum district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الفيوم",
+    "district_arabic": "إبشواي",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "57f4f9bb-1bbf-4c1e-9b1b-7a3f7fd4f20b",
+    "name": "محكمة طامية الجزئية",
+    "address": "مجمع المحاكم، طامية، الفيوم",
+    "coordinates": {
+      "lat": 29.4819,
+      "lng": 30.8229
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from verified Faiyum district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الفيوم",
+    "district_arabic": "طامية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f52d15e8-f64c-4667-8c64-1b47ce1e9110",
+    "name": "محكمة كفر سعد الجزئية",
+    "address": "مجمع المحاكم، كفر سعد، دمياط",
+    "coordinates": {
+      "lat": 31.3601,
+      "lng": 31.7652
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net Damietta district court list.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "دمياط",
+    "district_arabic": "كفر سعد",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "53146923-b659-4c6d-9b40-7487bdc710f9",
+    "name": "محكمة رأس البر الجزئية",
+    "address": "29 شارع رأس البر، رأس البر، دمياط",
+    "coordinates": {
+      "lat": 31.475,
+      "lng": 31.8286
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from qadaya.net: 29 شارع رأس البر.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "دمياط",
+    "district_arabic": "رأس البر",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "84fb2c23-6b4a-482f-808b-a8048fccb0dc",
+    "name": "محكمة أبو تشت الجزئية",
+    "address": "مجمع المحاكم، أبو تشت، قنا",
+    "coordinates": {
+      "lat": 26.125,
+      "lng": 32.1673
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "أبو تشت",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "85b5343d-ddb8-4da6-886c-e48262abc71d",
+    "name": "محكمة فرشوط الجزئية",
+    "address": "مجمع المحاكم، فرشوط، قنا",
+    "coordinates": {
+      "lat": 26.0349,
+      "lng": 32.1512
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "فرشوط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "4cfc631c-d56f-42fd-b1f1-3e9307044ee6",
+    "name": "محكمة دشنا الجزئية",
+    "address": "مجمع المحاكم، دشنا، قنا",
+    "coordinates": {
+      "lat": 26.1272,
+      "lng": 32.4587
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "دشنا",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "b28cf2a2-19dd-4465-9486-b2efdd0c49ca",
+    "name": "محكمة قفط الجزئية",
+    "address": "مجمع المحاكم، قفط، قنا",
+    "coordinates": {
+      "lat": 25.9912,
+      "lng": 32.8226
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "قفط",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "6d946905-ffa2-46ad-8e12-f69cf188e7c8",
+    "name": "محكمة قوص الجزئية",
+    "address": "مجمع المحاكم، قوص، قنا",
+    "coordinates": {
+      "lat": 25.919,
+      "lng": 32.7548
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "قوص",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "37688208-42ff-4f59-a462-27068a075227",
+    "name": "محكمة الوقف الجزئية",
+    "address": "مجمع المحاكم، الوقف، قنا",
+    "coordinates": {
+      "lat": 25.9792,
+      "lng": 32.659
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "قنا",
+    "district_arabic": "الوقف",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "bbed492b-850e-4134-bb54-a73d9d27971e",
+    "name": "محكمة أرمنت الجزئية",
+    "address": "مجمع المحاكم، أرمنت، الأقصر",
+    "coordinates": {
+      "lat": 25.6164,
+      "lng": 32.531
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الأقصر",
+    "district_arabic": "أرمنت",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "e80820f3-a10c-4a66-8475-96a9e90a1972",
+    "name": "محكمة مركز أسوان الجزئية",
+    "address": "مجمع المحاكم، مركز أسوان، أسوان",
+    "coordinates": {
+      "lat": 24.0889,
+      "lng": 32.8998
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added during completeness audit.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "أسوان",
+    "district_arabic": "مركز أسوان",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "ab011762-7b40-4ba6-9bd0-9431cd7015e0",
+    "name": "محكمة العامرية الجزئية",
+    "address": "شارع مسجد ناجي، ميدان الدخيلة، الإسكندرية",
+    "coordinates": {
+      "lat": 31.13,
+      "lng": 29.82
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory: شارع مسجد ناجى – ميدان الدخيلة.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "العامرية، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "a7f4ccea-870f-4d39-a420-78c942d93d7d",
+    "name": "محكمة كرموز الجزئية",
+    "address": "شارع محمد الكلزة، محرم بك، الإسكندرية",
+    "coordinates": {
+      "lat": 31.1887,
+      "lng": 29.9173
+    },
+    "phone": "+20234955232",
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory with phone number: 03/4955232.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "كرموز، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "3f7d9a57-ee53-498d-b3f9-d72abb09aa03",
+    "name": "محكمة ميناء البصل الجزئية",
+    "address": "شارع محمد الكلزة، محرم بك، الإسكندرية",
+    "coordinates": {
+      "lat": 31.1887,
+      "lng": 29.9173
+    },
+    "phone": "+20234955232",
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "ميناء البصل، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "44dd789a-7e96-407e-9df0-36899e0aec5c",
+    "name": "محكمة برج العرب الجزئية",
+    "address": "الحي السكني الثالث، مدينة برج العرب، الإسكندرية",
+    "coordinates": {
+      "lat": 30.8977,
+      "lng": 29.6561
+    },
+    "phone": "+20234800654",
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory with phone: 03/4800654.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "برج العرب",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "cb6e51cd-5fc3-4cbc-8c81-2746151faf12",
+    "name": "محكمة العطارين الجزئية",
+    "address": "ميدان عرابي، المنشية، الإسكندرية",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "العطارين، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "fbdb3c9e-3741-4f8e-a996-9ed4c1ba332d",
+    "name": "محكمة الرمل الجزئية",
+    "address": "ميدان عرابي، المنشية، الإسكندرية",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "الرمل، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "f700b37e-78ba-4333-b902-abbe83f7453f",
+    "name": "محكمة باب شرق الجزئية",
+    "address": "68 شارع 26 يوليو، ميدان عرابي، الإسكندرية",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": "+20234802207",
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory with phone: 03/4802207.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "باب شرق، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "44c02f93-231b-4ff8-8e9a-362b0f05ce6e",
+    "name": "محكمة سيدي جابر الجزئية",
+    "address": "مجمع المحاكم، شارع السيد محمد كريم، المنشية، الإسكندرية",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": null,
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "سيدي جابر، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  },
+  {
+    "uuid": "15ce3c1b-e59e-420a-b2af-19a516105fe0",
+    "name": "محكمة اللبان الجزئية",
+    "address": "شارع السيد كريم، ميدان عرابي، الإسكندرية",
+    "coordinates": {
+      "lat": 31.199,
+      "lng": 29.9048
+    },
+    "phone": "+20234800654",
+    "website": null,
+    "audit_notes": "Added from Youm7 Alexandria courts directory with phone: 03/4800654.",
+    "court_type_arabic": "جزئية",
+    "jurisdiction_level_arabic": "جزئي",
+    "governorate_arabic": "الإسكندرية",
+    "district_arabic": "اللبان، الإسكندرية",
+    "confidence_arabic": "عالية",
+    "working_hours_arabic": "الأحد – الخميس 08:30–14:30"
+  }
+]
